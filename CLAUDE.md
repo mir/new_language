@@ -38,3 +38,10 @@ uv run scripts/verify_db.py
 - Conjugation cache files are gitignored; the DB is the source of truth
 - Greek nouns should include their article (ο/η/το)
 - Verb conjugations cover 3 tenses (present, past/aorist, future) x 6 persons
+
+## Adding Words Workflow
+
+When adding words to the database:
+1. **Check for duplicates** — query `SELECT id FROM words WHERE greek = '...'` before inserting
+2. **For verbs** — always fetch conjugations from Cooljugator (`https://cooljugator.com/gr/<verb>`) and add all 3 tenses (present, past, future) × 6 persons to the `conjugations` table
+3. Use the base/dictionary form (e.g. masculine singular for adjectives, infinitive for verbs)
