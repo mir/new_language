@@ -1,0 +1,9154 @@
+- g: η ταυτότητα
+  e: identity/ID card
+  p: noun
+  a: η
+  c: personal
+- g: το διαβατήριο
+  e: passport
+  p: noun
+  a: το
+  c: personal
+- g: η διεύθυνση
+  e: address
+  p: noun
+  a: η
+  c: personal
+- g: η υπηκοότητα
+  e: nationality/citizenship
+  p: noun
+  a: η
+  c: personal
+- g: η ηλικία
+  e: age
+  p: noun
+  a: η
+  c: personal
+- g: το επάγγελμα
+  e: profession
+  p: noun
+  a: το
+  c: personal
+- g: ο σύζυγος
+  e: husband/spouse
+  p: noun
+  a: ο
+  c: family
+- g: η σύζυγος
+  e: wife/spouse
+  p: noun
+  a: η
+  c: family
+- g: ο αδερφός
+  e: brother
+  p: noun
+  a: ο
+  c: family
+- g: η αδερφή
+  e: sister
+  p: noun
+  a: η
+  c: family
+- g: ο παππούς
+  e: grandfather
+  p: noun
+  a: ο
+  c: family
+- g: η γιαγιά
+  e: grandmother
+  p: noun
+  a: η
+  c: family
+- g: ο θείος
+  e: uncle
+  p: noun
+  a: ο
+  c: family
+- g: η θεία
+  e: aunt
+  p: noun
+  a: η
+  c: family
+- g: ο ξάδερφος
+  e: cousin (male)
+  p: noun
+  a: ο
+  c: family
+- g: η ξαδέρφη
+  e: cousin (female)
+  p: noun
+  a: η
+  c: family
+- g: ο γαμπρός
+  e: groom/son-in-law
+  p: noun
+  a: ο
+  c: family
+- g: η νύφη
+  e: bride/daughter-in-law
+  p: noun
+  a: η
+  c: family
+- g: ο γείτονας
+  e: neighbor
+  p: noun
+  a: ο
+  c: relationships
+- g: η σχέση
+  e: relationship
+  p: noun
+  a: η
+  c: relationships
+- g: η φιλία
+  e: friendship
+  p: noun
+  a: η
+  c: relationships
+- g: ο γάμος
+  e: wedding/marriage
+  p: noun
+  a: ο
+  c: relationships
+- g: το διαζύγιο
+  e: divorce
+  p: noun
+  a: το
+  c: relationships
+- g: παντρεύομαι
+  e: to get married
+  p: verb
+  c: relationships
+  conj:
+    future: {1p: θα παντρευτούμε, 1s: θα παντρευτώ, 2p: θα παντρευτείτε, 2s: θα παντρευτείς,
+      3p: θα παντρευτούν, 3s: θα παντρευτεί}
+    past: {1p: παντρευτήκαμε, 1s: παντρεύτηκα, 2p: παντρευτήκατε, 2s: παντρεύτηκες,
+      3p: παντρεύτηκαν, 3s: παντρεύτηκε}
+    present: {1p: παντρευόμαστε, 1s: παντρεύομαι, 2p: παντρεύεστε, 2s: παντρεύεσαι,
+      3p: παντρεύονται, 3s: παντρεύεται}
+- g: χωρίζω
+  e: to break up/separate
+  p: verb
+  c: relationships
+  conj:
+    future: {1p: θα χωρίσουμε, 1s: θα χωρίσω, 2p: θα χωρίσετε, 2s: θα χωρίσεις, 3p: θα
+        χωρίσουν, 3s: θα χωρίσει}
+    past: {1p: χωρίσαμε, 1s: χώρισα, 2p: χωρίσατε, 2s: χώρισες, 3p: χώρισαν, 3s: χώρισε}
+    present: {1p: χωρίζουμε, 1s: χωρίζω, 2p: χωρίζετε, 2s: χωρίζεις, 3p: χωρίζουν,
+      3s: χωρίζει}
+- g: το σπίτι
+  e: house/home
+  p: noun
+  a: το
+  c: home
+- g: το διαμέρισμα
+  e: apartment
+  p: noun
+  a: το
+  c: home
+- g: το δωμάτιο
+  e: room
+  p: noun
+  a: το
+  c: home
+- g: η κουζίνα
+  e: kitchen
+  p: noun
+  a: η
+  c: home
+- g: το μπάνιο
+  e: bathroom
+  p: noun
+  a: το
+  c: home
+- g: το υπνοδωμάτιο
+  e: bedroom
+  p: noun
+  a: το
+  c: home
+- g: το σαλόνι
+  e: living room
+  p: noun
+  a: το
+  c: home
+- g: η αυλή
+  e: yard/courtyard
+  p: noun
+  a: η
+  c: home
+- g: το μπαλκόνι
+  e: balcony
+  p: noun
+  a: το
+  c: home
+- g: ο όροφος
+  e: floor/story
+  p: noun
+  a: ο
+  c: home
+- g: η σκάλα
+  e: stairs/ladder
+  p: noun
+  a: η
+  c: home
+- g: το ασανσέρ
+  e: elevator
+  p: noun
+  a: το
+  c: home
+- g: η πόρτα
+  e: door
+  p: noun
+  a: η
+  c: home
+- g: το παράθυρο
+  e: window
+  p: noun
+  a: το
+  c: home
+- g: ο τοίχος
+  e: wall
+  p: noun
+  a: ο
+  c: home
+- g: το πάτωμα
+  e: floor
+  p: noun
+  a: το
+  c: home
+- g: η οροφή
+  e: ceiling/roof
+  p: noun
+  a: η
+  c: home
+- g: το κλειδί
+  e: key
+  p: noun
+  a: το
+  c: home
+- g: το ενοίκιο
+  e: rent
+  p: noun
+  a: το
+  c: home
+- g: ο ιδιοκτήτης
+  e: owner/landlord
+  p: noun
+  a: ο
+  c: home
+- g: ο ενοικιαστής
+  e: tenant
+  p: noun
+  a: ο
+  c: home
+- g: νοικιάζω
+  e: to rent
+  p: verb
+  c: home
+  conj:
+    future: {1p: θα νοικιάσουμε, 1s: θα νοικιάσω, 2p: θα νοικιάσετε, 2s: θα νοικιάσεις,
+      3p: θα νοικιάσουν, 3s: θα νοικιάσει}
+    past: {1p: νοικιάσαμε, 1s: νοίκιασα, 2p: νοικιάσατε, 2s: νοίκιασες, 3p: νοίκιασαν,
+      3s: νοίκιασε}
+    present: {1p: νοικιάζουμε, 1s: νοικιάζω, 2p: νοικιάζετε, 2s: νοικιάζεις, 3p: νοικιάζουν,
+      3s: νοικιάζει}
+- g: μετακομίζω
+  e: to move (house)
+  p: verb
+  c: home
+  conj:
+    future: {1p: θα μετακομίσουμε, 1s: θα μετακομίσω, 2p: θα μετακομίσετε, 2s: θα
+        μετακομίσεις, 3p: θα μετακομίσουν, 3s: θα μετακομίσει}
+    past: {1p: μετακομίσαμε, 1s: μετακόμισα, 2p: μετακομίσατε, 2s: μετακόμισες, 3p: μετακόμισαν,
+      3s: μετακόμισε}
+    present: {1p: μετακομίζουμε, 1s: μετακομίζω, 2p: μετακομίζετε, 2s: μετακομίζεις,
+      3p: μετακομίζουν, 3s: μετακομίζει}
+- g: καθαρίζω
+  e: to clean
+  p: verb
+  c: home
+  conj:
+    future: {1p: θα καθαρίσουμε, 1s: θα καθαρίσω, 2p: θα καθαρίσετε, 2s: θα καθαρίσεις,
+      3p: θα καθαρίσουν, 3s: θα καθαρίσει}
+    past: {1p: καθαρίσαμε, 1s: καθάρισα, 2p: καθαρίσατε, 2s: καθάρισες, 3p: καθάρισαν,
+      3s: καθάρισε}
+    present: {1p: καθαρίζουμε, 1s: καθαρίζω, 2p: καθαρίζετε, 2s: καθαρίζεις, 3p: καθαρίζουν,
+      3s: καθαρίζει}
+- g: επισκευάζω
+  e: to repair
+  p: verb
+  c: home
+  conj:
+    future: {1p: θα επισκευάσουμε, 1s: θα επισκευάσω, 2p: θα επισκευάσετε, 2s: θα
+        επισκευάσεις, 3p: θα επισκευάσουν, 3s: θα επισκευάσει}
+    past: {1p: επισκευάσαμε, 1s: επισκεύασα, 2p: επισκευάσατε, 2s: επισκεύασες, 3p: επισκεύασαν,
+      3s: επισκεύασε}
+    present: {1p: επισκευάζουμε, 1s: επισκευάζω, 2p: επισκευάζετε, 2s: επισκευάζεις,
+      3p: επισκευάζουν, 3s: επισκευάζει}
+- g: το τραπέζι
+  e: table
+  p: noun
+  a: το
+  c: home
+- g: η καρέκλα
+  e: chair
+  p: noun
+  a: η
+  c: home
+- g: ο καναπές
+  e: sofa/couch
+  p: noun
+  a: ο
+  c: home
+- g: το κρεβάτι
+  e: bed
+  p: noun
+  a: το
+  c: home
+- g: η ντουλάπα
+  e: wardrobe
+  p: noun
+  a: η
+  c: home
+- g: το ψυγείο
+  e: refrigerator
+  p: noun
+  a: το
+  c: home
+- g: η κουρτίνα
+  e: curtain
+  p: noun
+  a: η
+  c: home
+- g: ο καθρέφτης
+  e: mirror
+  p: noun
+  a: ο
+  c: home
+- g: το φως
+  e: light
+  p: noun
+  a: το
+  c: home
+- g: η λάμπα
+  e: lamp
+  p: noun
+  a: η
+  c: home
+- g: το πλυντήριο
+  e: washing machine
+  p: noun
+  a: το
+  c: home
+- g: η ηλεκτρική σκούπα
+  e: vacuum cleaner
+  p: noun
+  a: η
+  c: home
+- g: ξυπνάω
+  e: to wake up
+  p: verb
+  c: daily_life
+- g: σηκώνομαι
+  e: to get up
+  p: verb
+  c: daily_life
+  conj:
+    future: {1p: θα σηκωθούμε, 1s: θα σηκωθώ, 2p: θα σηκωθείτε, 2s: θα σηκωθείς, 3p: θα
+        σηκωθούν, 3s: θα σηκωθεί}
+    past: {1p: σηκωθήκαμε, 1s: σηκώθηκα, 2p: σηκωθήκατε, 2s: σηκώθηκες, 3p: σηκώθηκα,
+      3s: σηκώθηκε}
+    present: {1p: σηκωνόμαστε, 1s: σηκώνομαι, 2p: σηκώνεστε, 2s: σηκώνεσαι, 3p: σηκώνονται,
+      3s: σηκώνεται}
+- g: πλένομαι
+  e: to wash oneself
+  p: verb
+  c: daily_life
+  conj:
+    future: {1p: θα πλυθούμε, 1s: θα πλυθώ, 2p: θα πλυθείτε, 2s: θα πλυθείς, 3p: θα
+        πλυθούν, 3s: θα πλυθεί}
+    past: {1p: πλυθήκαμε, 1s: πλύθηκα, 2p: πλυθήκατε, 2s: πλύθηκες, 3p: πλύθηκα, 3s: πλύθηκε}
+    present: {1p: πλενόμαστε, 1s: πλένομαι, 2p: πλένεστε, 2s: πλένεσαι, 3p: πλένονται,
+      3s: πλένεται}
+- g: ντύνομαι
+  e: to get dressed
+  p: verb
+  c: daily_life
+  conj:
+    future: {1p: θα ντηθούμε, 1s: θα ντηθώ, 2p: θα ντηθείτε, 2s: θα ντηθείς, 3p: θα
+        ντηθούν, 3s: θα ντηθεί}
+    past: {1p: ντηθήκαμε, 1s: ντήθηκα, 2p: ντηθήκατε, 2s: ντήθηκες, 3p: ντήθηκα, 3s: ντήθηκε}
+    present: {1p: ντυνόμαστε, 1s: ντύνομαι, 2p: ντύνεστε, 2s: ντύνεσαι, 3p: ντύνονται,
+      3s: ντύνεται}
+- g: χτενίζομαι
+  e: to comb one's hair
+  p: verb
+  c: daily_life
+  conj:
+    future: {1p: θα χτενιστούμε, 1s: θα χτενιστώ, 2p: θα χτενιστείτε, 2s: θα χτενιστείς,
+      3p: θα χτενιστούν, 3s: θα χτενιστεί}
+    past: {1p: χτενιστήκαμε, 1s: χτενίστηκα, 2p: χτενιστήκατε, 2s: χτενίστηκες, 3p: χτενίστηκαν,
+      3s: χτενίστηκε}
+    present: {1p: χτενιζόμαστε, 1s: χτενίζομαι, 2p: χτενίζεστε, 2s: χτενίζεσαι, 3p: χτενίζονται,
+      3s: χτενίζεται}
+- g: βουρτσίζω
+  e: to brush (teeth)
+  p: verb
+  c: daily_life
+  conj:
+    future: {1p: θα βουρτσίσουμε, 1s: θα βουρτσίσω, 2p: θα βουρτσίσετε, 2s: θα βουρτσίσεις,
+      3p: θα βουρτσίσουν, 3s: θα βουρτσίσει}
+    past: {1p: βουρτσίσαμε, 1s: βούρτσισα, 2p: βουρτσίσατε, 2s: βούρτσισες, 3p: βούρτσισαν,
+      3s: βούρτσισε}
+    present: {1p: βουρτσίζουμε, 1s: βουρτσίζω, 2p: βουρτσίζετε, 2s: βουρτσίζεις, 3p: βουρτσίζουν,
+      3s: βουρτσίζει}
+- g: μαγειρεύω
+  e: to cook
+  p: verb
+  c: daily_life
+  conj:
+    future: {1p: θα μαγειρέψουμε, 1s: θα μαγειρέψω, 2p: θα μαγειρέψετε, 2s: θα μαγειρέψεις,
+      3p: θα μαγειρέψουν, 3s: θα μαγειρέψει}
+    past: {1p: μαγειρέψαμε, 1s: μαγείρεψα, 2p: μαγειρέψατε, 2s: μαγείρεψες, 3p: μαγείρεψαν,
+      3s: μαγείρεψε}
+    present: {1p: μαγειρεύουμε, 1s: μαγειρεύω, 2p: μαγειρεύετε, 2s: μαγειρεύεις, 3p: μαγειρεύουν,
+      3s: μαγειρεύει}
+- g: πλένω
+  e: to wash
+  p: verb
+  c: daily_life
+  conj:
+    future: {1p: θα πλύνουμε, 1s: θα πλύνω, 2p: θα πλύνετε, 2s: θα πλύνεις, 3p: θα
+        πλύνουν, 3s: θα πλύνει}
+    past: {1p: πλύναμε, 1s: έπλυνα, 2p: πλύνατε, 2s: έπλυνες, 3p: έπλυναν, 3s: έπλυνε}
+    present: {1p: πλένουμε, 1s: πλένω, 2p: πλένετε, 2s: πλένεις, 3p: πλένουν, 3s: πλένει}
+- g: σιδερώνω
+  e: to iron
+  p: verb
+  c: daily_life
+  conj:
+    future: {1p: θα σιδερώσουμε, 1s: θα σιδερώσω, 2p: θα σιδερώσετε, 2s: θα σιδερώσεις,
+      3p: θα σιδερώσουνε, 3s: θα σιδερώσει}
+    past: {1p: σιδερώσαμε, 1s: σιδέρωσα, 2p: σιδερώσατε, 2s: σιδέρωσες, 3p: σιδέρωσαν,
+      3s: σιδέρωσε}
+    present: {1p: σιδερώνουμε, 1s: σιδερώνω, 2p: σιδερώνετε, 2s: σιδερώνεις, 3p: σιδερώνουνε,
+      3s: σιδερώνει}
+- g: κοιμάμαι
+  e: to sleep
+  p: verb
+  c: daily_life
+  conj:
+    future: {1p: θα κοιμηθούμε, 1s: θα κοιμηθώ, 2p: θα κοιμηθείτε, 2s: θα κοιμηθείς,
+      3p: θα κοιμηθούν, 3s: θα κοιμηθεί}
+    past: {1p: κοιμηθήκαμε, 1s: κοιμήθηκα, 2p: κοιμηθήκατε, 2s: κοιμήθηκες, 3p: κοιμήθηκαν,
+      3s: κοιμήθηκε}
+    present: {1p: κοιμόμαστε, 1s: κοιμάμαι, 2p: κοιμάστε, 2s: κοιμάσαι, 3p: κοιμούνται,
+      3s: κοιμάται}
+- g: ξεκουράζομαι
+  e: to rest
+  p: verb
+  c: daily_life
+  conj:
+    future: {1p: θα ξεκουραστούμε, 1s: θα ξεκουραστώ, 2p: θα ξεκουραστείτε, 2s: θα
+        ξεκουραστείς, 3p: θα ξεκουραστούν, 3s: θα ξεκουραστεί}
+    past: {1p: ξεκουραστήκαμε, 1s: ξεκουράστηκα, 2p: ξεκουραστήκατε, 2s: ξεκουράστηκες,
+      3p: ξεκουράστηκα, 3s: ξεκουράστηκε}
+    present: {1p: ξεκουραζόμαστε, 1s: ξεκουράζομαι, 2p: ξεκουράζεστε, 2s: ξεκουράζεσαι,
+      3p: ξεκουράζονται, 3s: ξεκουράζεται}
+- g: η ρουτίνα
+  e: routine
+  p: noun
+  a: η
+  c: daily_life
+- g: η συνήθεια
+  e: habit
+  p: noun
+  a: η
+  c: daily_life
+- g: το πρωινό
+  e: breakfast
+  p: noun
+  a: το
+  c: daily_life
+- g: το μεσημεριανό
+  e: lunch
+  p: noun
+  a: το
+  c: daily_life
+- g: το βραδινό
+  e: dinner
+  p: noun
+  a: το
+  c: daily_life
+- g: το ψωμί
+  e: bread
+  p: noun
+  a: το
+  c: food
+- g: το κρέας
+  e: meat
+  p: noun
+  a: το
+  c: food
+- g: το κοτόπουλο
+  e: chicken
+  p: noun
+  a: το
+  c: food
+- g: το ψάρι
+  e: fish
+  p: noun
+  a: το
+  c: food
+- g: το ρύζι
+  e: rice
+  p: noun
+  a: το
+  c: food
+- g: τα ζυμαρικά
+  e: pasta
+  p: noun
+  a: τα
+  c: food
+- g: η σαλάτα
+  e: salad
+  p: noun
+  a: η
+  c: food
+- g: το τυρί
+  e: cheese
+  p: noun
+  a: το
+  c: food
+- g: το αυγό
+  e: egg
+  p: noun
+  a: το
+  c: food
+- g: το γάλα
+  e: milk
+  p: noun
+  a: το
+  c: food
+- g: το βούτυρο
+  e: butter
+  p: noun
+  a: το
+  c: food
+- g: το λάδι
+  e: oil
+  p: noun
+  a: το
+  c: food
+- g: το αλάτι
+  e: salt
+  p: noun
+  a: το
+  c: food
+- g: το πιπέρι
+  e: pepper
+  p: noun
+  a: το
+  c: food
+- g: η ζάχαρη
+  e: sugar
+  p: noun
+  a: η
+  c: food
+- g: το μήλο
+  e: apple
+  p: noun
+  a: το
+  c: food
+- g: η μπανάνα
+  e: banana
+  p: noun
+  a: η
+  c: food
+- g: το πορτοκάλι
+  e: orange
+  p: noun
+  a: το
+  c: food
+- g: η ντομάτα
+  e: tomato
+  p: noun
+  a: η
+  c: food
+- g: το αγγούρι
+  e: cucumber
+  p: noun
+  a: το
+  c: food
+- g: η πατάτα
+  e: potato
+  p: noun
+  a: η
+  c: food
+- g: το κρεμμύδι
+  e: onion
+  p: noun
+  a: το
+  c: food
+- g: το σκόρδο
+  e: garlic
+  p: noun
+  a: το
+  c: food
+- g: ο καφές
+  e: coffee
+  p: noun
+  a: ο
+  c: food
+- g: το τσάι
+  e: tea
+  p: noun
+  a: το
+  c: food
+- g: το νερό
+  e: water
+  p: noun
+  a: το
+  c: food
+- g: ο χυμός
+  e: juice
+  p: noun
+  a: ο
+  c: food
+- g: το κρασί
+  e: wine
+  p: noun
+  a: το
+  c: food
+- g: η μπύρα
+  e: beer
+  p: noun
+  a: η
+  c: food
+- g: το εστιατόριο
+  e: restaurant
+  p: noun
+  a: το
+  c: food
+- g: η ταβέρνα
+  e: taverna
+  p: noun
+  a: η
+  c: food
+- g: το καφενείο
+  e: cafe
+  p: noun
+  a: το
+  c: food
+- g: ο λογαριασμός
+  e: bill/account
+  p: noun
+  a: ο
+  c: food
+- g: το μενού
+  e: menu
+  p: noun
+  a: το
+  c: food
+- g: το πιάτο
+  e: plate/dish
+  p: noun
+  a: το
+  c: food
+- g: το ποτήρι
+  e: glass
+  p: noun
+  a: το
+  c: food
+- g: το μαχαίρι
+  e: knife
+  p: noun
+  a: το
+  c: food
+- g: το πιρούνι
+  e: fork
+  p: noun
+  a: το
+  c: food
+- g: το κουτάλι
+  e: spoon
+  p: noun
+  a: το
+  c: food
+- g: παραγγέλνω
+  e: to order
+  p: verb
+  c: food
+  conj:
+    future: {1p: θα παραγγείλουμε, 1s: θα παραγγείλω, 2p: θα παραγγείλετε, 2s: θα
+        παραγγείλεις, 3p: θα παραγγείλουν, 3s: θα παραγγείλει}
+    past: {1p: παραγγέλναμε, 1s: παράγγελνα, 2p: παραγγέλνατε, 2s: παράγγελνες, 3p: παράγγελνα,
+      3s: παράγγελνε}
+    present: {1p: παραγγέλνουμε, 1s: παραγγέλνω, 2p: παραγγέλνετε, 2s: παραγγέλνεις,
+      3p: παραγγέλνουν, 3s: παραγγέλνει}
+- g: πληρώνω
+  e: to pay
+  p: verb
+  c: food
+  conj:
+    future: {1p: θα πληρώσουμε, 1s: θα πληρώσω, 2p: θα πληρώσετε, 2s: θα πληρώσεις,
+      3p: θα πληρώσουν, 3s: θα πληρώσει}
+    past: {1p: πληρώσαμε, 1s: πλήρωσα, 2p: πληρώσατε, 2s: πλήρωσες, 3p: πλήρωσαν,
+      3s: πλήρωσε}
+    present: {1p: πληρώνουμε, 1s: πληρώνω, 2p: πληρώνετε, 2s: πληρώνεις, 3p: πληρώνουν,
+      3s: πληρώνει}
+- g: τρώω
+  e: to eat
+  p: verb
+  c: food
+  conj:
+    future: {1p: θα φάμε, 1s: θα φάω, 2p: θα φάτε, 2s: θα φας, 3p: θα φάνε, 3s: θα
+        φάει}
+    past: {1p: φάγαμε, 1s: έφαγα, 2p: φάγατε, 2s: έφαγες, 3p: έφαγαν, 3s: έφαγε}
+    present: {1p: τρώμε, 1s: τρώω, 2p: τρώτε, 2s: τρως, 3p: τρώνε, 3s: τρώει}
+- g: πίνω
+  e: to drink
+  p: verb
+  c: food
+  conj:
+    future: {1p: θα πιούμε, 1s: θα πιω, 2p: θα πιείτε, 2s: θα πιεις, 3p: θα πιουν,
+      3s: θα πιει}
+    past: {1p: ήπιαμε, 1s: ήπια, 2p: ήπιατε, 2s: ήπιες, 3p: ήπιαν, 3s: ήπιε}
+    present: {1p: πίνουμε, 1s: πίνω, 2p: πίνετε, 2s: πίνεις, 3p: πίνουν, 3s: πίνει}
+- g: δοκιμάζω
+  e: to try/taste
+  p: verb
+  c: food
+  conj:
+    future: {1p: θα δοκιμάσουμε, 1s: θα δοκιμάσω, 2p: θα δοκιμάσετε, 2s: θα δοκιμάσεις,
+      3p: θα δοκιμάσουν, 3s: θα δοκιμάσει}
+    past: {1p: δοκιμάσαμε, 1s: δοκίμασα, 2p: δοκιμάσατε, 2s: δοκίμασες, 3p: δοκίμασαν,
+      3s: δοκίμασε}
+    present: {1p: δοκιμάζουμε, 1s: δοκιμάζω, 2p: δοκιμάζετε, 2s: δοκιμάζεις, 3p: δοκιμάζουν,
+      3s: δοκιμάζει}
+- g: το μαγαζί
+  e: shop/store
+  p: noun
+  a: το
+  c: shopping
+- g: η αγορά
+  e: market/purchase
+  p: noun
+  a: η
+  c: shopping
+- g: το σούπερ μάρκετ
+  e: supermarket
+  p: noun
+  a: το
+  c: shopping
+- g: το εμπορικό κέντρο
+  e: shopping mall
+  p: noun
+  a: το
+  c: shopping
+- g: η τιμή
+  e: price
+  p: noun
+  a: η
+  c: shopping
+- g: η έκπτωση
+  e: discount
+  p: noun
+  a: η
+  c: shopping
+- g: η προσφορά
+  e: offer/deal
+  p: noun
+  a: η
+  c: shopping
+- g: το ταμείο
+  e: cash register/fund
+  p: noun
+  a: το
+  c: shopping
+- g: η απόδειξη
+  e: receipt
+  p: noun
+  a: η
+  c: shopping
+- g: τα ρέστα
+  e: change (money)
+  p: noun
+  a: τα
+  c: shopping
+- g: η κάρτα
+  e: card
+  p: noun
+  a: η
+  c: shopping
+- g: τα μετρητά
+  e: cash
+  p: noun
+  a: τα
+  c: shopping
+- g: αγοράζω
+  e: to buy
+  p: verb
+  c: shopping
+  conj:
+    future: {1p: θα αγοράσουμε, 1s: θα αγοράσω, 2p: θα αγοράσετε, 2s: θα αγοράσεις,
+      3p: θα αγοράσουν, 3s: θα αγοράσει}
+    past: {1p: αγοράσαμε, 1s: αγόρασα, 2p: αγοράσατε, 2s: αγόρασες, 3p: αγόρασαν,
+      3s: αγόρασε}
+    present: {1p: αγοράζουμε, 1s: αγοράζω, 2p: αγοράζετε, 2s: αγοράζεις, 3p: αγοράζουν,
+      3s: αγοράζει}
+- g: πουλάω
+  e: to sell
+  p: verb
+  c: shopping
+- g: κοστίζω
+  e: to cost
+  p: verb
+  c: shopping
+  conj:
+    future: {1p: θα κοστίσουμε, 1s: θα κοστίσω, 2p: θα κοστίσετε, 2s: θα κοστίσεις,
+      3p: θα κοστίσουν, 3s: θα κοστίσει}
+    past: {1p: κοστίσαμε, 1s: κόστισα, 2p: κοστίσατε, 2s: κόστισες, 3p: κόστισαν,
+      3s: κόστισε}
+    present: {1p: κοστίζουμε, 1s: κοστίζω, 2p: κοστίζετε, 2s: κοστίζεις, 3p: κοστίζουν,
+      3s: κοστίζει}
+- g: ακριβός
+  e: expensive
+  p: adjective
+  c: shopping
+- g: φτηνός
+  e: cheap
+  p: adjective
+  c: shopping
+- g: δωρεάν
+  e: free (no cost)
+  p: adverb
+  c: shopping
+- g: το αεροπλάνο
+  e: airplane
+  p: noun
+  a: το
+  c: travel
+- g: το αεροδρόμιο
+  e: airport
+  p: noun
+  a: το
+  c: travel
+- g: το τρένο
+  e: train
+  p: noun
+  a: το
+  c: travel
+- g: ο σταθμός
+  e: station
+  p: noun
+  a: ο
+  c: travel
+- g: το λεωφορείο
+  e: bus
+  p: noun
+  a: το
+  c: travel
+- g: η στάση
+  e: stop (bus/tram)
+  p: noun
+  a: η
+  c: travel
+- g: το μετρό
+  e: metro/subway
+  p: noun
+  a: το
+  c: travel
+- g: το ταξί
+  e: taxi
+  p: noun
+  a: το
+  c: travel
+- g: το πλοίο
+  e: ship/boat
+  p: noun
+  a: το
+  c: travel
+- g: το λιμάνι
+  e: port/harbor
+  p: noun
+  a: το
+  c: travel
+- g: το αυτοκίνητο
+  e: car
+  p: noun
+  a: το
+  c: travel
+- g: το ποδήλατο
+  e: bicycle
+  p: noun
+  a: το
+  c: travel
+- g: ο δρόμος
+  e: road/street
+  p: noun
+  a: ο
+  c: travel
+- g: η γέφυρα
+  e: bridge
+  p: noun
+  a: η
+  c: travel
+- g: το εισιτήριο
+  e: ticket
+  p: noun
+  a: το
+  c: travel
+- g: η βαλίτσα
+  e: suitcase
+  p: noun
+  a: η
+  c: travel
+- g: το ξενοδοχείο
+  e: hotel
+  p: noun
+  a: το
+  c: travel
+- g: η κράτηση
+  e: reservation
+  p: noun
+  a: η
+  c: travel
+- g: ο χάρτης
+  e: map
+  p: noun
+  a: ο
+  c: travel
+- g: ο τουρίστας
+  e: tourist
+  p: noun
+  a: ο
+  c: travel
+- g: η παραλία
+  e: beach
+  p: noun
+  a: η
+  c: travel
+- g: το νησί
+  e: island
+  p: noun
+  a: το
+  c: travel
+- g: το μουσείο
+  e: museum
+  p: noun
+  a: το
+  c: travel
+- g: ο ναός
+  e: temple/church
+  p: noun
+  a: ο
+  c: travel
+- g: ταξιδεύω
+  e: to travel
+  p: verb
+  c: travel
+  conj:
+    future: {1p: θα ταξιδέψουμε, 1s: θα ταξιδέψω, 2p: θα ταξιδέψετε, 2s: θα ταξιδέψεις,
+      3p: θα ταξιδέψουν, 3s: θα ταξιδέψει}
+    past: {1p: ταξιδέψαμε, 1s: ταξίδεψα, 2p: ταξιδέψατε, 2s: ταξίδεψες, 3p: ταξίδεψαν,
+      3s: ταξίδεψε}
+    present: {1p: ταξιδεύουμε, 1s: ταξιδεύω, 2p: ταξιδεύετε, 2s: ταξιδεύεις, 3p: ταξιδεύουν,
+      3s: ταξιδεύει}
+- g: φτάνω
+  e: to arrive
+  p: verb
+  c: travel
+  conj:
+    future: {1p: θα φτάσουμε, 1s: θα φτάσω, 2p: θα φτάσετε, 2s: θα φτάσεις, 3p: θα
+        φτάσουν, 3s: θα φτάσει}
+    past: {1p: φτάσαμε, 1s: έφτασα, 2p: φτάσατε, 2s: έφτασες, 3p: έφτασαν, 3s: έφτασε}
+    present: {1p: φτάνουμε, 1s: φτάνω, 2p: φτάνετε, 2s: φτάνεις, 3p: φτάνουν, 3s: φτάνει}
+- g: φεύγω
+  e: to leave/depart
+  p: verb
+  c: travel
+  conj:
+    future: {1p: θα φύγουμε, 1s: θα φύγω, 2p: θα φύγετε, 2s: θα φύγεις, 3p: θα φύγουν,
+      3s: θα φύγει}
+    past: {1p: φύγαμε, 1s: έφυγα, 2p: φύγατε, 2s: έφυγες, 3p: έφυγαν, 3s: έφυγε}
+    present: {1p: φεύγουμε, 1s: φεύγω, 2p: φεύγετε, 2s: φεύγεις, 3p: φεύγουν, 3s: φεύγει}
+- g: επιστρέφω
+  e: to return
+  p: verb
+  c: travel
+  conj:
+    future: {1p: θα επιστρέψουμε, 1s: θα επιστρέψω, 2p: θα επιστρέψετε, 2s: θα επιστρέψεις,
+      3p: θα επιστρέψουν, 3s: θα επιστρέψει}
+    past: {1p: επιστρέψαμε, 1s: επέστρεψα, 2p: επιστρέψατε, 2s: επέστρεψες, 3p: επέστρεψα,
+      3s: επέστρεψε}
+    present: {1p: επιστρέφουμε, 1s: επιστρέφω, 2p: επιστρέφετε, 2s: επιστρέφεις, 3p: επιστρέφουν,
+      3s: επιστρέφει}
+- g: οδηγώ
+  e: to drive
+  p: verb
+  c: travel
+  conj:
+    future: {1p: θα οδηγήσουμε, 1s: θα οδηγήσω, 2p: θα οδηγήσετε, 2s: θα οδηγήσεις,
+      3p: θα οδηγήσουν, 3s: θα οδηγήσει}
+    past: {1p: οδηγήσαμε, 1s: οδήγησα, 2p: οδηγήσατε, 2s: οδήγησες, 3p: οδήγησαν,
+      3s: οδήγησε}
+    present: {1p: οδηγούμε, 1s: οδηγώ, 2p: οδηγείτε, 2s: οδηγείς, 3p: οδηγούν, 3s: οδηγεί}
+- g: περπατάω
+  e: to walk
+  p: verb
+  c: travel
+- g: επισκέπτομαι
+  e: to visit
+  p: verb
+  c: travel
+  conj:
+    future: {1p: θα επισκεφτούμε, 1s: θα επισκεφτώ, 2p: θα επισκεφτείτε, 2s: θα επισκεφτείς,
+      3p: θα επισκεφτούν, 3s: θα επισκεφτεί}
+    past: {1p: επισκεφτήκαμε, 1s: επισκέφτηκα, 2p: επισκεφτήκατε, 2s: επισκέφτηκες,
+      3p: επισκέφτηκα, 3s: επισκέφτηκε}
+    present: {1p: επισκεπτόμαστε, 1s: επισκέπτομαι, 2p: επισκέπτεστε, 2s: επισκέπτεσαι,
+      3p: επισκέπτονται, 3s: επισκέπτεται}
+- g: το κεφάλι
+  e: head
+  p: noun
+  a: το
+  c: health
+- g: τα μάτια
+  e: eyes
+  p: noun
+  a: τα
+  c: health
+- g: τα αυτιά
+  e: ears
+  p: noun
+  a: τα
+  c: health
+- g: η μύτη
+  e: nose
+  p: noun
+  a: η
+  c: health
+- g: το στόμα
+  e: mouth
+  p: noun
+  a: το
+  c: health
+- g: τα δόντια
+  e: teeth
+  p: noun
+  a: τα
+  c: health
+- g: ο λαιμός
+  e: neck/throat
+  p: noun
+  a: ο
+  c: health
+- g: ο ώμος
+  e: shoulder
+  p: noun
+  a: ο
+  c: health
+- g: το χέρι
+  e: hand/arm
+  p: noun
+  a: το
+  c: health
+- g: το δάχτυλο
+  e: finger
+  p: noun
+  a: το
+  c: health
+- g: η πλάτη
+  e: back
+  p: noun
+  a: η
+  c: health
+- g: η κοιλιά
+  e: belly/stomach
+  p: noun
+  a: η
+  c: health
+- g: το πόδι
+  e: leg/foot
+  p: noun
+  a: το
+  c: health
+- g: το γόνατο
+  e: knee
+  p: noun
+  a: το
+  c: health
+- g: η καρδιά
+  e: heart
+  p: noun
+  a: η
+  c: health
+- g: ο πόνος
+  e: pain
+  p: noun
+  a: ο
+  c: health
+- g: ο πυρετός
+  e: fever
+  p: noun
+  a: ο
+  c: health
+- g: ο βήχας
+  e: cough
+  p: noun
+  a: ο
+  c: health
+- g: το κρυολόγημα
+  e: cold (illness)
+  p: noun
+  a: το
+  c: health
+- g: η γρίπη
+  e: flu
+  p: noun
+  a: η
+  c: health
+- g: η αλλεργία
+  e: allergy
+  p: noun
+  a: η
+  c: health
+- g: το φάρμακο
+  e: medicine/drug
+  p: noun
+  a: το
+  c: health
+- g: το νοσοκομείο
+  e: hospital
+  p: noun
+  a: το
+  c: health
+- g: ο γιατρός
+  e: doctor
+  p: noun
+  a: ο
+  c: health
+- g: ο οδοντίατρος
+  e: dentist
+  p: noun
+  a: ο
+  c: health
+- g: το φαρμακείο
+  e: pharmacy
+  p: noun
+  a: το
+  c: health
+- g: η ασθένεια
+  e: illness/disease
+  p: noun
+  a: η
+  c: health
+- g: η υγεία
+  e: health
+  p: noun
+  a: η
+  c: health
+- g: η συνταγή
+  e: prescription/recipe
+  p: noun
+  a: η
+  c: health
+- g: πονάω
+  e: to hurt/ache
+  p: verb
+  c: health
+- g: αρρωσταίνω
+  e: to get sick
+  p: verb
+  c: health
+  conj:
+    future: {1p: θα αρρωστήσουμε, 1s: θα αρρωστήσω, 2p: θα αρρωστήσετε, 2s: θα αρρωστήσεις,
+      3p: θα αρρωστήσουν, 3s: θα αρρωστήσει}
+    past: {1p: αρρωστήσαμε, 1s: αρρώστησα, 2p: αρρωστήσατε, 2s: αρρώστησες, 3p: αρρώστησαν,
+      3s: αρρώστησε}
+    present: {1p: αρρωσταίνουμε, 1s: αρρωσταίνω, 2p: αρρωσταίνετε, 2s: αρρωσταίνεις,
+      3p: αρρωσταίνουν, 3s: αρρωσταίνει}
+- g: θεραπεύω
+  e: to cure/treat
+  p: verb
+  c: health
+  conj:
+    future: {1p: θα θεραπεύσουμε, 1s: θα θεραπεύσω, 2p: θα θεραπεύσετε, 2s: θα θεραπεύσεις,
+      3p: θα θεραπεύσουν, 3s: θα θεραπεύσει}
+    past: {1p: θεραπεύσαμε, 1s: θεράπευσα, 2p: θεραπεύσατε, 2s: θεράπευσες, 3p: θεράπευσαν,
+      3s: θεράπευσε}
+    present: {1p: θεραπεύουμε, 1s: θεραπεύω, 2p: θεραπεύετε, 2s: θεραπεύεις, 3p: θεραπεύουν,
+      3s: θεραπεύει}
+- g: εξετάζω
+  e: to examine
+  p: verb
+  c: health
+  conj:
+    future: {1p: θα εξετάσουμε, 1s: θα εξετάσω, 2p: θα εξετάσετε, 2s: θα εξετάσεις,
+      3p: θα εξετάσουν, 3s: θα εξετάσει}
+    past: {1p: εξετάσαμε, 1s: εξέτασα, 2p: εξετάσατε, 2s: εξέτασες, 3p: εξέτασαν,
+      3s: εξέτασε}
+    present: {1p: εξετάζουμε, 1s: εξετάζω, 2p: εξετάζετε, 2s: εξετάζεις, 3p: εξετάζουν,
+      3s: εξετάζει}
+- g: το σχολείο
+  e: school
+  p: noun
+  a: το
+  c: education
+- g: το πανεπιστήμιο
+  e: university
+  p: noun
+  a: το
+  c: education
+- g: η τάξη
+  e: class/classroom
+  p: noun
+  a: η
+  c: education
+- g: το μάθημα
+  e: lesson/course
+  p: noun
+  a: το
+  c: education
+- g: ο καθηγητής
+  e: professor/teacher
+  p: noun
+  a: ο
+  c: education
+- g: ο μαθητής
+  e: student (school)
+  p: noun
+  a: ο
+  c: education
+- g: ο φοιτητής
+  e: student (university)
+  p: noun
+  a: ο
+  c: education
+- g: η εξέταση
+  e: exam
+  p: noun
+  a: η
+  c: education
+- g: ο βαθμός
+  e: grade/degree
+  p: noun
+  a: ο
+  c: education
+- g: το πτυχίο
+  e: degree/diploma
+  p: noun
+  a: το
+  c: education
+- g: η βιβλιοθήκη
+  e: library
+  p: noun
+  a: η
+  c: education
+- g: το βιβλίο
+  e: book
+  p: noun
+  a: το
+  c: education
+- g: το τετράδιο
+  e: notebook
+  p: noun
+  a: το
+  c: education
+- g: το στυλό
+  e: pen
+  p: noun
+  a: το
+  c: education
+- g: μαθαίνω
+  e: to learn
+  p: verb
+  c: education
+  conj:
+    future: {1p: θα μάθουμε, 1s: θα μάθω, 2p: θα μάθετε, 2s: θα μάθεις, 3p: θα μάθουν,
+      3s: θα μάθει}
+    past: {1p: μάθαμε, 1s: έμαθα, 2p: μάθατε, 2s: έμαθες, 3p: έμαθαν, 3s: έμαθε}
+    present: {1p: μαθαίνουμε, 1s: μαθαίνω, 2p: μαθαίνετε, 2s: μαθαίνεις, 3p: μαθαίνουν,
+      3s: μαθαίνει}
+- g: διδάσκω
+  e: to teach
+  p: verb
+  c: education
+  conj:
+    future: {1p: θα διδάξουμε, 1s: θα διδάξω, 2p: θα διδάξετε, 2s: θα διδάξεις, 3p: θα
+        διδάξουν, 3s: θα διδάξει}
+    past: {1p: διδάξαμε, 1s: δίδαξα, 2p: διδάξατε, 2s: δίδαξες, 3p: δίδαξαν, 3s: δίδαξε}
+    present: {1p: διδάσκουμε, 1s: διδάσκω, 2p: διδάσκετε, 2s: διδάσκεις, 3p: διδάσκουν,
+      3s: διδάσκει}
+- g: σπουδάζω
+  e: to study (university)
+  p: verb
+  c: education
+  conj:
+    future: {1p: θα σπουδάσουμε, 1s: θα σπουδάσω, 2p: θα σπουδάσετε, 2s: θα σπουδάσεις,
+      3p: θα σπουδάσουν, 3s: θα σπουδάσει}
+    past: {1p: σπουδάσαμε, 1s: σπούδασα, 2p: σπουδάσατε, 2s: σπούδασες, 3p: σπούδασαν,
+      3s: σπούδασε}
+    present: {1p: σπουδάζουμε, 1s: σπουδάζω, 2p: σπουδάζετε, 2s: σπουδάζεις, 3p: σπουδάζουν,
+      3s: σπουδάζει}
+- g: διαβάζω
+  e: to read/study
+  p: verb
+  c: education
+  conj:
+    future: {1p: θα διαβάσουμε, 1s: θα διαβάσω, 2p: θα διαβάσετε, 2s: θα διαβάσεις,
+      3p: θα διαβάσουν, 3s: θα διαβάσει}
+    past: {1p: διαβάσαμε, 1s: διάβασα, 2p: διαβάσατε, 2s: διάβασες, 3p: διάβασαν,
+      3s: διάβασε}
+    present: {1p: διαβάζουμε, 1s: διαβάζω, 2p: διαβάζετε, 2s: διαβάζεις, 3p: διαβάζουν,
+      3s: διαβάζει}
+- g: γράφω
+  e: to write
+  p: verb
+  c: education
+  conj:
+    future: {1p: θα γράψουμε, 1s: θα γράψω, 2p: θα γράψετε, 2s: θα γράψεις, 3p: θα
+        γράψουν, 3s: θα γράψει}
+    past: {1p: γράψαμε, 1s: έγραψα, 2p: γράψατε, 2s: έγραψες, 3p: έγραψαν, 3s: έγραψε}
+    present: {1p: γράφουμε, 1s: γράφω, 2p: γράφετε, 2s: γράφεις, 3p: γράφουν, 3s: γράφει}
+- g: εξετάζομαι
+  e: to take an exam
+  p: verb
+  c: education
+- g: η δουλειά
+  e: work/job
+  p: noun
+  a: η
+  c: work
+- g: το γραφείο
+  e: office/desk
+  p: noun
+  a: το
+  c: work
+- g: η εταιρεία
+  e: company
+  p: noun
+  a: η
+  c: work
+- g: ο μισθός
+  e: salary
+  p: noun
+  a: ο
+  c: work
+- g: η σύμβαση
+  e: contract
+  p: noun
+  a: η
+  c: work
+- g: η συνέντευξη
+  e: interview
+  p: noun
+  a: η
+  c: work
+- g: το βιογραφικό
+  e: CV/resume
+  p: noun
+  a: το
+  c: work
+- g: η άδεια
+  e: leave/permit/license
+  p: noun
+  a: η
+  c: work
+- g: η σύνταξη
+  e: pension/retirement
+  p: noun
+  a: η
+  c: work
+- g: ο συνάδελφος
+  e: colleague
+  p: noun
+  a: ο
+  c: work
+- g: ο διευθυντής
+  e: director/manager
+  p: noun
+  a: ο
+  c: work
+- g: δουλεύω
+  e: to work
+  p: verb
+  c: work
+  conj:
+    future: {1p: θα δουλέψουμε, 1s: θα δουλέψω, 2p: θα δουλέψετε, 2s: θα δουλέψεις,
+      3p: θα δουλέψουν, 3s: θα δουλέψει}
+    past: {1p: δουλέψαμε, 1s: δούλεψα, 2p: δουλέψατε, 2s: δούλεψες, 3p: δούλεψαν,
+      3s: δούλεψε}
+    present: {1p: δουλεύουμε, 1s: δουλεύω, 2p: δουλεύετε, 2s: δουλεύεις, 3p: δουλεύουν,
+      3s: δουλεύει}
+- g: προσλαμβάνω
+  e: to hire
+  p: verb
+  c: work
+  conj:
+    future: {1p: θα προσλάβουμε, 1s: θα προσλάβω, 2p: θα προσλάβετε, 2s: θα προσλάβεις,
+      3p: θα προσλάβουν, 3s: θα προσλάβει}
+    past: {1p: προσελάβαμε, 1s: προσέλαβα, 2p: προσελάβατε, 2s: προσέλαβες, 3p: προσέλαβα,
+      3s: προσέλαβε}
+    present: {1p: προσλαμβάνουμε, 1s: προσλαμβάνω, 2p: προσλαμβάνετε, 2s: προσλαμβάνεις,
+      3p: προσλαμβάνουν, 3s: προσλαμβάνει}
+- g: απολύω
+  e: to fire/dismiss
+  p: verb
+  c: work
+  conj:
+    future: {1p: θα απολύσουμε, 1s: θα απολύσω, 2p: θα απολύσετε, 2s: θα απολύσεις,
+      3p: θα απολύσουν, 3s: θα απολύσει}
+    past: {1p: απολύσαμε, 1s: απέλυσα, 2p: απολύσατε, 2s: απέλυσες, 3p: απέλυσαν,
+      3s: απέλυσε}
+    present: {1p: απολύουμε, 1s: απολύω, 2p: απολύετε, 2s: απολύεις, 3p: απολύουν,
+      3s: απολύει}
+- g: συνεργάζομαι
+  e: to cooperate/collaborate
+  p: verb
+  c: work
+- g: η μουσική
+  e: music
+  p: noun
+  a: η
+  c: entertainment
+- g: ο κινηματογράφος
+  e: cinema
+  p: noun
+  a: ο
+  c: entertainment
+- g: η ταινία
+  e: movie/film
+  p: noun
+  a: η
+  c: entertainment
+- g: το θέατρο
+  e: theater
+  p: noun
+  a: το
+  c: entertainment
+- g: η παράσταση
+  e: performance/show
+  p: noun
+  a: η
+  c: entertainment
+- g: η συναυλία
+  e: concert
+  p: noun
+  a: η
+  c: entertainment
+- g: το τραγούδι
+  e: song
+  p: noun
+  a: το
+  c: entertainment
+- g: ο χορός
+  e: dance
+  p: noun
+  a: ο
+  c: entertainment
+- g: η ζωγραφική
+  e: painting
+  p: noun
+  a: η
+  c: entertainment
+- g: η φωτογραφία
+  e: photography/photo
+  p: noun
+  a: η
+  c: entertainment
+- g: το χόμπι
+  e: hobby
+  p: noun
+  a: το
+  c: entertainment
+- g: το ποδόσφαιρο
+  e: football/soccer
+  p: noun
+  a: το
+  c: sports
+- g: το μπάσκετ
+  e: basketball
+  p: noun
+  a: το
+  c: sports
+- g: η κολύμβηση
+  e: swimming
+  p: noun
+  a: η
+  c: sports
+- g: το τρέξιμο
+  e: running
+  p: noun
+  a: το
+  c: sports
+- g: η γυμναστική
+  e: exercise/gymnastics
+  p: noun
+  a: η
+  c: sports
+- g: το γυμναστήριο
+  e: gym
+  p: noun
+  a: το
+  c: sports
+- g: ο αγώνας
+  e: match/competition
+  p: noun
+  a: ο
+  c: sports
+- g: η ομάδα
+  e: team
+  p: noun
+  a: η
+  c: sports
+- g: η νίκη
+  e: victory
+  p: noun
+  a: η
+  c: sports
+- g: η ήττα
+  e: defeat
+  p: noun
+  a: η
+  c: sports
+- g: τραγουδάω
+  e: to sing
+  p: verb
+  c: entertainment
+- g: χορεύω
+  e: to dance
+  p: verb
+  c: entertainment
+  conj:
+    future: {1p: θα χορέψουμε, 1s: θα χορέψω, 2p: θα χορέψετε, 2s: θα χορέψεις, 3p: θα
+        χορέψουν, 3s: θα χορέψει}
+    past: {1p: χορέψαμε, 1s: χόρεψα, 2p: χορέψατε, 2s: χόρεψες, 3p: χόρεψαν, 3s: χόρεψε}
+    present: {1p: χορεύουμε, 1s: χορεύω, 2p: χορεύετε, 2s: χορεύεις, 3p: χορεύουν,
+      3s: χορεύει}
+- g: παίζω
+  e: to play
+  p: verb
+  c: entertainment
+  conj:
+    future: {1p: θα παίξουμε, 1s: θα παίξω, 2p: θα παίξετε, 2s: θα παίξεις, 3p: θα
+        παίξουν, 3s: θα παίξει}
+    past: {1p: παίξαμε, 1s: έπαιξα, 2p: παίξατε, 2s: έπαιξες, 3p: έπαιξαν, 3s: έπαιξε}
+    present: {1p: παίζουμε, 1s: παίζω, 2p: παίζετε, 2s: παίζεις, 3p: παίζουν, 3s: παίζει}
+- g: κολυμπάω
+  e: to swim
+  p: verb
+  c: sports
+  conj:
+    future: {1p: θα κολυμπήσουμε, 1s: θα κολυμπήσω, 2p: θα κολυμπήσετε, 2s: θα κολυμπήσεις,
+      3p: θα κολυμπήσουν, 3s: θα κολυμπήσει}
+    past: {1p: κολυμπήσαμε, 1s: κολύμπησα, 2p: κολυμπήσατε, 2s: κολύμπησες, 3p: κολύμπησα,
+      3s: κολύμπησε}
+    present: {1p: κολυμπάμε, 1s: κολυμπάω, 2p: κολυμπάτε, 2s: κολυμπάς, 3p: κολυμπάν,
+      3s: κολυμπάει}
+- g: τρέχω
+  e: to run
+  p: verb
+  c: sports
+  conj:
+    future: {1p: θα τρέξουμε, 1s: θα τρέξω, 2p: θα τρέξετε, 2s: θα τρέξεις, 3p: θα
+        τρέξουν, 3s: θα τρέξει}
+    past: {1p: τρέξαμε, 1s: έτρεξα, 2p: τρέξατε, 2s: έτρεξες, 3p: έτρεξαν, 3s: έτρεξε}
+    present: {1p: τρέχουμε, 1s: τρέχω, 2p: τρέχετε, 2s: τρέχεις, 3p: τρέχουν, 3s: τρέχει}
+- g: γυμνάζομαι
+  e: to exercise
+  p: verb
+  c: sports
+  conj:
+    future: {1p: θα γυμναστούμε, 1s: θα γυμναστώ, 2p: θα γυμναστείτε, 2s: θα γυμναστείς,
+      3p: θα γυμναστούν, 3s: θα γυμναστεί}
+    past: {1p: γυμναστήκαμε, 1s: γυμνάστηκα, 2p: γυμναστήκατε, 2s: γυμνάστηκες, 3p: γυμνάστηκαν,
+      3s: γυμνάστηκε}
+    present: {1p: γυμναζόμαστε, 1s: γυμνάζομαι, 2p: γυμνάζεστε, 2s: γυμνάζεσαι, 3p: γυμνάζονται,
+      3s: γυμνάζεται}
+- g: κερδίζω
+  e: to win
+  p: verb
+  c: sports
+  conj:
+    future: {1p: θα κερδίσουμε, 1s: θα κερδίσω, 2p: θα κερδίσετε, 2s: θα κερδίσεις,
+      3p: θα κερδίσουν, 3s: θα κερδίσει}
+    past: {1p: κερδίσαμε, 1s: κέρδισα, 2p: κερδίσατε, 2s: κέρδισες, 3p: κέρδισαν,
+      3s: κέρδισε}
+    present: {1p: κερδίζουμε, 1s: κερδίζω, 2p: κερδίζετε, 2s: κερδίζεις, 3p: κερδίζουν,
+      3s: κερδίζει}
+- g: χάνω
+  e: to lose
+  p: verb
+  c: sports
+  conj:
+    future: {1p: θα χάσουμε, 1s: θα χάσω, 2p: θα χάσετε, 2s: θα χάσεις, 3p: θα χάσουν,
+      3s: θα χάσει}
+    past: {1p: χάσαμε, 1s: έχασα, 2p: χάσατε, 2s: έχασες, 3p: έχασαν, 3s: έχασε}
+    present: {1p: χάνουμε, 1s: χάνω, 2p: χάνετε, 2s: χάνεις, 3p: χάνουν, 3s: χάνει}
+- g: ο ήλιος
+  e: sun
+  p: noun
+  a: ο
+  c: weather
+- g: η βροχή
+  e: rain
+  p: noun
+  a: η
+  c: weather
+- g: το χιόνι
+  e: snow
+  p: noun
+  a: το
+  c: weather
+- g: ο αέρας
+  e: wind/air
+  p: noun
+  a: ο
+  c: weather
+- g: η θύελλα
+  e: storm
+  p: noun
+  a: η
+  c: weather
+- g: το σύννεφο
+  e: cloud
+  p: noun
+  a: το
+  c: weather
+- g: η ομίχλη
+  e: fog
+  p: noun
+  a: η
+  c: weather
+- g: η θερμοκρασία
+  e: temperature
+  p: noun
+  a: η
+  c: weather
+- g: ο ουρανός
+  e: sky
+  p: noun
+  a: ο
+  c: weather
+- g: το δέντρο
+  e: tree
+  p: noun
+  a: το
+  c: nature
+- g: το λουλούδι
+  e: flower
+  p: noun
+  a: το
+  c: nature
+- g: το βουνό
+  e: mountain
+  p: noun
+  a: το
+  c: nature
+- g: η θάλασσα
+  e: sea
+  p: noun
+  a: η
+  c: nature
+- g: το ποτάμι
+  e: river
+  p: noun
+  a: το
+  c: nature
+- g: η λίμνη
+  e: lake
+  p: noun
+  a: η
+  c: nature
+- g: το δάσος
+  e: forest
+  p: noun
+  a: το
+  c: nature
+- g: η φύση
+  e: nature
+  p: noun
+  a: η
+  c: nature
+- g: το ζώο
+  e: animal
+  p: noun
+  a: το
+  c: nature
+- g: ο σκύλος
+  e: dog
+  p: noun
+  a: ο
+  c: nature
+- g: η γάτα
+  e: cat
+  p: noun
+  a: η
+  c: nature
+- g: το πουλί
+  e: bird
+  p: noun
+  a: το
+  c: nature
+- g: το περιβάλλον
+  e: environment
+  p: noun
+  a: το
+  c: nature
+- g: η ρύπανση
+  e: pollution
+  p: noun
+  a: η
+  c: nature
+- g: η ανακύκλωση
+  e: recycling
+  p: noun
+  a: η
+  c: nature
+- g: βρέχει
+  e: it rains
+  p: verb
+  c: weather
+- g: χιονίζει
+  e: it snows
+  p: verb
+  c: weather
+  conj:
+    future: {1p: θα χιονίσουμε, 1s: θα χιονίσω, 2p: θα χιονίσετε, 2s: θα χιονίσεις,
+      3p: θα χιονίσουν, 3s: θα χιονίσει}
+    past: {1p: χιονίσαμε, 1s: χιόνισε, 2p: χιονίσατε, 2s: χιόνισες, 3p: χιόνισε, 3s: χιόνισε}
+    present: {1p: χιονίζεουμε, 1s: χιονίζει, 2p: χιονίζεετε, 2s: χιονίζεεις, 3p: χιονίζεουν,
+      3s: χιονίζεει}
+- g: φυσάει
+  e: it's windy
+  p: verb
+  c: weather
+- g: ζεσταίνω
+  e: to heat/warm
+  p: verb
+  c: weather
+  conj:
+    future: {1p: θα ζεστάνουμε, 1s: θα ζεστάνω, 2p: θα ζεστάνετε, 2s: θα ζεστάνεις,
+      3p: θα ζεστάνουν, 3s: θα ζεστάνει}
+    past: {1p: ζεστάναμε, 1s: ζέστανα, 2p: ζεστάνατε, 2s: ζέστανες, 3p: ζέσταναν,
+      3s: ζέστανε}
+    present: {1p: ζεσταίνουμε, 1s: ζεσταίνω, 2p: ζεσταίνετε, 2s: ζεσταίνεις, 3p: ζεσταίνουν,
+      3s: ζεσταίνει}
+- g: κρυώνω
+  e: to feel cold
+  p: verb
+  c: weather
+  conj:
+    future: {1p: θα κρυώσουμε, 1s: θα κρυώσω, 2p: θα κρυώσετε, 2s: θα κρυώσεις, 3p: θα
+        κρυώσουν, 3s: θα κρυώσει}
+    past: {1p: κρυώσαμε, 1s: κρύωσα, 2p: κρυώσατε, 2s: κρύωσες, 3p: κρύωσα, 3s: κρύωσε}
+    present: {1p: κρυώνουμε, 1s: κρυώνω, 2p: κρυώνετε, 2s: κρυώνεις, 3p: κρυώνουν,
+      3s: κρυώνει}
+- g: ο υπολογιστής
+  e: computer
+  p: noun
+  a: ο
+  c: technology
+- g: το κινητό
+  e: mobile phone
+  p: noun
+  a: το
+  c: technology
+- g: το διαδίκτυο
+  e: internet
+  p: noun
+  a: το
+  c: technology
+- g: η ιστοσελίδα
+  e: website
+  p: noun
+  a: η
+  c: technology
+- g: το ηλεκτρονικό ταχυδρομείο
+  e: email
+  p: noun
+  a: το
+  c: technology
+- g: το μήνυμα
+  e: message
+  p: noun
+  a: το
+  c: technology
+- g: η εφαρμογή
+  e: application/app
+  p: noun
+  a: η
+  c: technology
+- g: η οθόνη
+  e: screen
+  p: noun
+  a: η
+  c: technology
+- g: το πληκτρολόγιο
+  e: keyboard
+  p: noun
+  a: το
+  c: technology
+- g: η εφημερίδα
+  e: newspaper
+  p: noun
+  a: η
+  c: media
+- g: το περιοδικό
+  e: magazine
+  p: noun
+  a: το
+  c: media
+- g: η τηλεόραση
+  e: television
+  p: noun
+  a: η
+  c: media
+- g: το ραδιόφωνο
+  e: radio
+  p: noun
+  a: το
+  c: media
+- g: η είδηση
+  e: news (item)
+  p: noun
+  a: η
+  c: media
+- g: η διαφήμιση
+  e: advertisement
+  p: noun
+  a: η
+  c: media
+- g: τηλεφωνώ
+  e: to call/phone
+  p: verb
+  c: technology
+  conj:
+    future: {1p: θα τηλεφωνήσουμε, 1s: θα τηλεφωνήσω, 2p: θα τηλεφωνήσετε, 2s: θα
+        τηλεφωνήσεις, 3p: θα τηλεφωνήσουν, 3s: θα τηλεφωνήσει}
+    past: {1p: τηλεφωνήσαμε, 1s: τηλεφώνησα, 2p: τηλεφωνήσατε, 2s: τηλεφώνησες, 3p: τηλεφώνησαν,
+      3s: τηλεφώνησε}
+    present: {1p: τηλεφωνάμε, 1s: τηλεφωνώ, 2p: τηλεφωνάτε, 2s: τηλεφωνείς, 3p: τηλεφωνάνε,
+      3s: τηλεφωνεί}
+- g: στέλνω
+  e: to send
+  p: verb
+  c: technology
+  conj:
+    future: {1p: θα στείλουμε, 1s: θα στείλω, 2p: θα στείλετε, 2s: θα στείλεις, 3p: θα
+        στείλουν, 3s: θα στείλει}
+    past: {1p: στείλαμε, 1s: έστειλα, 2p: στείλατε, 2s: έστειλες, 3p: έστειλαν, 3s: έστειλε}
+    present: {1p: στέλνουμε, 1s: στέλνω, 2p: στέλνετε, 2s: στέλνεις, 3p: στέλνουν,
+      3s: στέλνει}
+- g: λαμβάνω
+  e: to receive
+  p: verb
+  c: technology
+  conj:
+    future: {1p: θα λάβουμε, 1s: θα λάβω, 2p: θα λάβετε, 2s: θα λάβεις, 3p: θα λάβουν,
+      3s: θα λάβει}
+    past: {1p: λάβαμε, 1s: έλαβα, 2p: λάβατε, 2s: έλαβες, 3p: έλαβαν, 3s: έλαβε}
+    present: {1p: λαμβάνουμε, 1s: λαμβάνω, 2p: λαμβάνετε, 2s: λαμβάνεις, 3p: λαμβάνουν,
+      3s: λαμβάνει}
+- g: κατεβάζω
+  e: to download
+  p: verb
+  c: technology
+  conj:
+    future: {1p: θα κατεβάσουμε, 1s: θα κατεβάσω, 2p: θα κατεβάσετε, 2s: θα κατεβάσεις,
+      3p: θα κατεβάσουν, 3s: θα κατεβάσει}
+    past: {1p: κατεβάσαμε, 1s: κατέβασα, 2p: κατεβάσατε, 2s: κατέβασες, 3p: κατέβασαν,
+      3s: κατέβασε}
+    present: {1p: κατεβάζουμε, 1s: κατεβάζω, 2p: κατεβάζετε, 2s: κατεβάζεις, 3p: κατεβάζουν,
+      3s: κατεβάζει}
+- g: ανεβάζω
+  e: to upload
+  p: verb
+  c: technology
+  conj:
+    future: {1p: θα ανεβάσουμε, 1s: θα ανεβάσω, 2p: θα ανεβάσετε, 2s: θα ανεβάσεις,
+      3p: θα ανεβάσουν, 3s: θα ανεβάσει}
+    past: {1p: ανεβάσαμε, 1s: ανέβασα, 2p: ανεβάσατε, 2s: ανέβασες, 3p: ανέβασαν,
+      3s: ανέβασε}
+    present: {1p: ανεβάζουμε, 1s: ανεβάζω, 2p: ανεβάζετε, 2s: ανεβάζεις, 3p: ανεβάζουν,
+      3s: ανεβάζει}
+- g: η κοινωνία
+  e: society
+  p: noun
+  a: η
+  c: social
+- g: η κυβέρνηση
+  e: government
+  p: noun
+  a: η
+  c: social
+- g: η πολιτική
+  e: politics/policy
+  p: noun
+  a: η
+  c: social
+- g: η οικονομία
+  e: economy
+  p: noun
+  a: η
+  c: social
+- g: η ανεργία
+  e: unemployment
+  p: noun
+  a: η
+  c: social
+- g: η μετανάστευση
+  e: immigration
+  p: noun
+  a: η
+  c: social
+- g: το δικαίωμα
+  e: right (legal)
+  p: noun
+  a: το
+  c: social
+- g: η ελευθερία
+  e: freedom
+  p: noun
+  a: η
+  c: social
+- g: η ειρήνη
+  e: peace
+  p: noun
+  a: η
+  c: social
+- g: ο πόλεμος
+  e: war
+  p: noun
+  a: ο
+  c: social
+- g: η εκλογή
+  e: election
+  p: noun
+  a: η
+  c: social
+- g: ο νόμος
+  e: law
+  p: noun
+  a: ο
+  c: social
+- g: ψηφίζω
+  e: to vote
+  p: verb
+  c: social
+  conj:
+    future: {1p: θα ψηφίσουμε, 1s: θα ψηφίσω, 2p: θα ψηφίσετε, 2s: θα ψηφίσεις, 3p: θα
+        ψηφίσουν, 3s: θα ψηφίσει}
+    past: {1p: ψηφίσαμε, 1s: ψήφισα, 2p: ψηφίσατε, 2s: ψήφισες, 3p: ψήφισαν, 3s: ψήφισε}
+    present: {1p: ψηφίζουμε, 1s: ψηφίζω, 2p: ψηφίζετε, 2s: ψηφίζεις, 3p: ψηφίζουν,
+      3s: ψηφίζει}
+- g: διαμαρτύρομαι
+  e: to protest
+  p: verb
+  c: social
+  conj:
+    future: {1p: θα διαμαρτυρηθούμε, 1s: θα διαμαρτυρηθώ, 2p: θα διαμαρτυρηθείτε,
+      2s: θα διαμαρτυρηθείς, 3p: θα διαμαρτυρηθούν, 3s: θα διαμαρτυρηθεί}
+    past: {1p: διαμαρτυρηθήκαμε, 1s: διαμαρτυρήθηκα, 2p: διαμαρτυρηθήκατε, 2s: διαμαρτυρήθηκες,
+      3p: διαμαρτυρήθηκαν, 3s: διαμαρτυρήθηκε}
+    present: {1p: διαμαρτυρόμαστε, 1s: διαμαρτύρομαι, 2p: διαμαρτύρεστε, 2s: διαμαρτύρεσαι,
+      3p: διαμαρτύρονται, 3s: διαμαρτύρεται}
+- g: η χαρά
+  e: joy/happiness
+  p: noun
+  a: η
+  c: emotions
+- g: η λύπη
+  e: sadness/sorrow
+  p: noun
+  a: η
+  c: emotions
+- g: ο θυμός
+  e: anger
+  p: noun
+  a: ο
+  c: emotions
+- g: ο φόβος
+  e: fear
+  p: noun
+  a: ο
+  c: emotions
+- g: η αγάπη
+  e: love
+  p: noun
+  a: η
+  c: emotions
+- g: το μίσος
+  e: hatred
+  p: noun
+  a: το
+  c: emotions
+- g: η έκπληξη
+  e: surprise
+  p: noun
+  a: η
+  c: emotions
+- g: η ελπίδα
+  e: hope
+  p: noun
+  a: η
+  c: emotions
+- g: η ανησυχία
+  e: worry/anxiety
+  p: noun
+  a: η
+  c: emotions
+- g: η ζήλια
+  e: jealousy
+  p: noun
+  a: η
+  c: emotions
+- g: η περηφάνια
+  e: pride
+  p: noun
+  a: η
+  c: emotions
+- g: η ντροπή
+  e: shame/embarrassment
+  p: noun
+  a: η
+  c: emotions
+- g: η γνώμη
+  e: opinion
+  p: noun
+  a: η
+  c: emotions
+- g: η άποψη
+  e: view/opinion
+  p: noun
+  a: η
+  c: emotions
+- g: αγαπάω
+  e: to love
+  p: verb
+  c: emotions
+- g: μισώ
+  e: to hate
+  p: verb
+  c: emotions
+  conj:
+    future: {1p: θα μισήσουμε, 1s: θα μισήσω, 2p: θα μισήσετε, 2s: θα μισήσεις, 3p: θα
+        μισήσουν, 3s: θα μισήσει}
+    past: {1p: μισήσαμε, 1s: μίσησα, 2p: μισήσατε, 2s: μίσησες, 3p: μίσησαν, 3s: μίσησε}
+    present: {1p: μισούμε, 1s: μισώ, 2p: μισείτε, 2s: μισείς, 3p: μισούν, 3s: μισεί}
+- g: φοβάμαι
+  e: to fear/be afraid
+  p: verb
+  c: emotions
+  conj:
+    future: {1p: θα φοβηθούμε, 1s: θα φοβηθώ, 2p: θα φοβηθείτε, 2s: θα φοβηθείς, 3p: θα
+        φοβηθούν, 3s: θα φοβηθεί}
+    past: {1p: φοβηθήκαμε, 1s: φοβήθηκα, 2p: φοβηθήκατε, 2s: φοβήθηκες, 3p: φοβήθηκαν,
+      3s: φοβήθηκε}
+    present: {1p: φοβόμαστε, 1s: φοβάμαι, 2p: φοβάστε, 2s: φοβάσαι, 3p: φοβούνται,
+      3s: φοβάται}
+- g: χαίρομαι
+  e: to be happy/glad
+  p: verb
+  c: emotions
+  conj:
+    future: {1p: θα χαρούμε, 1s: θα χαρώ, 2p: θα χαρείτε, 2s: θα χαρείς, 3p: θα χαρούν,
+      3s: θα χαρεί}
+    past: {1p: χαρήκαμε, 1s: χάρηκα, 2p: χαρήκατε, 2s: χάρηκες, 3p: χάρηκα, 3s: χάρηκε}
+    present: {1p: χαιρόμαστε, 1s: χαίρομαι, 2p: χαίρεστε, 2s: χαίρεσαι, 3p: χαίρονται,
+      3s: χαίρεται}
+- g: στεναχωριέμαι
+  e: to be sad/upset
+  p: verb
+  c: emotions
+- g: θυμώνω
+  e: to get angry
+  p: verb
+  c: emotions
+  conj:
+    future: {1p: θα θυμώσουμε, 1s: θα θυμώσω, 2p: θα θυμώσετε, 2s: θα θυμώσεις, 3p: θα
+        θυμώσουν, 3s: θα θυμώσει}
+    past: {1p: θυμώσαμε, 1s: θύμωσα, 2p: θυμώσατε, 2s: θύμωσες, 3p: θύμωσα, 3s: θύμωσε}
+    present: {1p: θυμώνουμε, 1s: θυμώνω, 2p: θυμώνετε, 2s: θυμώνεις, 3p: θυμώνουν,
+      3s: θυμώνει}
+- g: ελπίζω
+  e: to hope
+  p: verb
+  c: emotions
+  conj:
+    future: {1p: θα ελπίσουμε, 1s: θα ελπίσω, 2p: θα ελπίσετε, 2s: θα ελπίσεις, 3p: θα
+        ελπίσουν, 3s: θα ελπίσει}
+    past: {1p: ελπίσαμε, 1s: έλπισα, 2p: ελπίσατε, 2s: έλπισες, 3p: έλπισαν, 3s: έλπισε}
+    present: {1p: ελπίζουμε, 1s: ελπίζω, 2p: ελπίζετε, 2s: ελπίζεις, 3p: ελπίζουν,
+      3s: ελπίζει}
+- g: ανησυχώ
+  e: to worry
+  p: verb
+  c: emotions
+  conj:
+    future: {1p: θα ανησυχήσουμε, 1s: θα ανησυχήσω, 2p: θα ανησυχήσετε, 2s: θα ανησυχήσεις,
+      3p: θα ανησυχήσουν, 3s: θα ανησυχήσει}
+    past: {1p: ανησυχήσαμε, 1s: ανησύχησα, 2p: ανησυχήσατε, 2s: ανησύχησες, 3p: ανησύχησαν,
+      3s: ανησύχησε}
+    present: {1p: ανησυχούμε, 1s: ανησυχώ, 2p: ανησυχείτε, 2s: ανησυχείς, 3p: ανησυχούν,
+      3s: ανησυχεί}
+- g: νομίζω
+  e: to think/believe
+  p: verb
+  c: emotions
+  conj:
+    future: {1p: θα νομίσουμε, 1s: θα νομίσω, 2p: θα νομίσετε, 2s: θα νομίσεις, 3p: θα
+        νομίσουν, 3s: θα νομίσει}
+    past: {1p: νομίσαμε, 1s: νόμισα, 2p: νομίσατε, 2s: νόμισες, 3p: νόμισαν, 3s: νόμισε}
+    present: {1p: νομίζουμε, 1s: νομίζω, 2p: νομίζετε, 2s: νομίζεις, 3p: νομίζουν,
+      3s: νομίζει}
+- g: πιστεύω
+  e: to believe
+  p: verb
+  c: emotions
+  conj:
+    future: {1p: θα πιστέψουμε, 1s: θα πιστέψω, 2p: θα πιστέψετε, 2s: θα πιστέψεις,
+      3p: θα πιστέψουν, 3s: θα πιστέψει}
+    past: {1p: πιστέψαμε, 1s: πίστεψα, 2p: πιστέψατε, 2s: πίστεψες, 3p: πίστεψαν,
+      3s: πίστεψε}
+    present: {1p: πιστεύουμε, 1s: πιστεύω, 2p: πιστεύετε, 2s: πιστεύεις, 3p: πιστεύουν,
+      3s: πιστεύει}
+- g: συμφωνώ
+  e: to agree
+  p: verb
+  c: emotions
+  conj:
+    future: {1p: θα συμφωνήσουμε, 1s: θα συμφωνήσω, 2p: θα συμφωνήσετε, 2s: θα συμφωνήσεις,
+      3p: θα συμφωνήσουν, 3s: θα συμφωνήσει}
+    past: {1p: συμφωνήσαμε, 1s: συμφώνησα, 2p: συμφωνήσατε, 2s: συμφώνησες, 3p: συμφώνησαν,
+      3s: συμφώνησε}
+    present: {1p: συμφωνούμε, 1s: συμφωνώ, 2p: συμφωνείτε, 2s: συμφωνείς, 3p: συμφωνούν,
+      3s: συμφωνεί}
+- g: διαφωνώ
+  e: to disagree
+  p: verb
+  c: emotions
+  conj:
+    future: {1p: θα διαφωνήσουμε, 1s: θα διαφωνήσω, 2p: θα διαφωνήσετε, 2s: θα διαφωνήσεις,
+      3p: θα διαφωνήσουν, 3s: θα διαφωνήσει}
+    past: {1p: διαφωνήσαμε, 1s: διαφώνησα, 2p: διαφωνήσατε, 2s: διαφώνησες, 3p: διαφώνησαν,
+      3s: διαφώνησε}
+    present: {1p: διαφωνούμε, 1s: διαφωνώ, 2p: διαφωνείτε, 2s: διαφωνείς, 3p: διαφωνούν,
+      3s: διαφωνεί}
+- g: προτιμάω
+  e: to prefer
+  p: verb
+  c: emotions
+- g: μεγάλος
+  e: big/large/great
+  p: adjective
+  c: description
+- g: μικρός
+  e: small/little
+  p: adjective
+  c: description
+- g: καλός
+  e: good
+  p: adjective
+  c: description
+- g: κακός
+  e: bad
+  p: adjective
+  c: description
+- g: νέος
+  e: new/young
+  p: adjective
+  c: description
+- g: παλιός
+  e: old (things)
+  p: adjective
+  c: description
+- g: γέρος
+  e: old (people)
+  p: adjective
+  c: description
+- g: ωραίος
+  e: beautiful/nice
+  p: adjective
+  c: description
+- g: άσχημος
+  e: ugly
+  p: adjective
+  c: description
+- g: εύκολος
+  e: easy
+  p: adjective
+  c: description
+- g: δύσκολος
+  e: difficult
+  p: adjective
+  c: description
+- g: γρήγορος
+  e: fast/quick
+  p: adjective
+  c: description
+- g: αργός
+  e: slow
+  p: adjective
+  c: description
+- g: ζεστός
+  e: hot/warm
+  p: adjective
+  c: description
+- g: κρύος
+  e: cold
+  p: adjective
+  c: description
+- g: δυνατός
+  e: strong/loud
+  p: adjective
+  c: description
+- g: αδύναμος
+  e: weak
+  p: adjective
+  c: description
+- g: σημαντικός
+  e: important
+  p: adjective
+  c: description
+- g: απαραίτητος
+  e: necessary
+  p: adjective
+  c: description
+- g: αδύνατος
+  e: impossible/thin
+  p: adjective
+  c: description
+- g: σωστός
+  e: correct/right
+  p: adjective
+  c: description
+- g: λάθος
+  e: wrong/mistake
+  p: adjective
+  c: description
+- g: ελεύθερος
+  e: free
+  p: adjective
+  c: description
+- g: έτοιμος
+  e: ready
+  p: adjective
+  c: description
+- g: ήσυχος
+  e: quiet/calm
+  p: adjective
+  c: description
+- g: δημόσιος
+  e: public
+  p: adjective
+  c: description
+- g: ιδιωτικός
+  e: private
+  p: adjective
+  c: description
+- g: πολύ
+  e: very/much
+  p: adverb
+  c: description
+- g: λίγο
+  e: a little
+  p: adverb
+  c: description
+- g: πάντα
+  e: always
+  p: adverb
+  c: time
+- g: ποτέ
+  e: never
+  p: adverb
+  c: time
+- g: συχνά
+  e: often
+  p: adverb
+  c: time
+- g: σπάνια
+  e: rarely
+  p: adverb
+  c: time
+- g: μερικές φορές
+  e: sometimes
+  p: adverb
+  c: time
+- g: ήδη
+  e: already
+  p: adverb
+  c: time
+- g: ακόμα
+  e: still/yet
+  p: adverb
+  c: time
+- g: τώρα
+  e: now
+  p: adverb
+  c: time
+- g: σήμερα
+  e: today
+  p: adverb
+  c: time
+- g: αύριο
+  e: tomorrow
+  p: adverb
+  c: time
+- g: χθες
+  e: yesterday
+  p: adverb
+  c: time
+- g: εδώ
+  e: here
+  p: adverb
+  c: place
+- g: εκεί
+  e: there
+  p: adverb
+  c: place
+- g: μπροστά
+  e: in front/ahead
+  p: adverb
+  c: place
+- g: πίσω
+  e: behind/back
+  p: adverb
+  c: place
+- g: πάνω
+  e: up/above
+  p: adverb
+  c: place
+- g: κάτω
+  e: down/below
+  p: adverb
+  c: place
+- g: δεξιά
+  e: right (direction)
+  p: adverb
+  c: place
+- g: αριστερά
+  e: left (direction)
+  p: adverb
+  c: place
+- g: μαζί
+  e: together
+  p: adverb
+  c: description
+- g: μόνο
+  e: only
+  p: adverb
+  c: description
+- g: ίσως
+  e: maybe/perhaps
+  p: adverb
+  c: description
+- g: βέβαια
+  e: of course/certainly
+  p: adverb
+  c: description
+- g: επίσης
+  e: also/too
+  p: adverb
+  c: description
+- g: γρήγορα
+  e: quickly
+  p: adverb
+  c: description
+- g: αργά
+  e: slowly/late
+  p: adverb
+  c: description
+- g: είμαι
+  e: to be
+  p: verb
+  c: general
+  conj:
+    present: {1p: είμαστε, 1s: είμαι, 2p: είστε, 2s: είσαι, 3p: είναι, 3s: είναι}
+- g: έχω
+  e: to have
+  p: verb
+  c: general
+  conj:
+    present: {1p: έχουμε, 1s: έχω, 2p: έχετε, 2s: έχεις, 3p: έχουν, 3s: έχει}
+- g: κάνω
+  e: to do/make
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα κάνουμε, 1s: θα κάνω, 2p: θα κάνετε, 2s: θα κάνεις, 3p: θα κάνουν,
+      3s: θα κάνει}
+    past: {1p: κάναμε, 1s: έκανα, 2p: κάνατε, 2s: έκανες, 3p: έκαναν, 3s: έκανε}
+    present: {1p: κάνουμε, 1s: κάνω, 2p: κάνετε, 2s: κάνεις, 3p: κάνουν, 3s: κάνει}
+- g: πάω
+  e: to go
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα πάμε, 1s: θα πάω, 2p: θα πάτε, 2s: θα πας, 3p: θα πάνε, 3s: θα
+        πάει}
+    past: {1p: πήγαμε, 1s: πήγα, 2p: πήγατε, 2s: πήγες, 3p: πήγαν, 3s: πήγε}
+    present: {1p: πάμε, 1s: πάω, 2p: πάτε, 2s: πας, 3p: πάνε, 3s: πάει}
+- g: έρχομαι
+  e: to come
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα έρθουμε, 1s: θα έρθω, 2p: θα έρθετε, 2s: θα έρθεις, 3p: θα έρθουν,
+      3s: θα έρθει}
+    past: {1p: ήρθαμε, 1s: ήρθα, 2p: ήρθατε, 2s: ήρθες, 3p: ήρθαν, 3s: ήρθε}
+    present: {1p: ερχόμαστε, 1s: έρχομαι, 2p: έρχεστε, 2s: έρχεσαι, 3p: έρχονται,
+      3s: έρχεται}
+- g: λέω
+  e: to say/tell
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα πούμε, 1s: θα πω, 2p: θα πείτε, 2s: θα πεις, 3p: θα πουν, 3s: θα
+        πει}
+    past: {1p: είπαμε, 1s: είπα, 2p: είπατε, 2s: είπες, 3p: είπαν, 3s: είπε}
+    present: {1p: λέμε, 1s: λέω, 2p: λέτε, 2s: λες, 3p: λένε, 3s: λέει}
+- g: μιλάω
+  e: to speak/talk
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα μιλήσουμε, 1s: θα μιλήσω, 2p: θα μιλήσετε, 2s: θα μιλήσεις, 3p: θα
+        μιλήσουν, 3s: θα μιλήσει}
+    past: {1p: μιλήσαμε, 1s: μίλησα, 2p: μιλήσατε, 2s: μίλησες, 3p: μίλησαν, 3s: μίλησε}
+    present: {1p: μιλούμε, 1s: μιλάω, 2p: μιλάτε, 2s: μιλάς, 3p: μιλούν, 3s: μιλά}
+- g: ακούω
+  e: to hear/listen
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα ακούσουμε, 1s: θα ακούσω, 2p: θα ακούσετε, 2s: θα ακούσεις, 3p: θα
+        ακούσουν, 3s: θα ακούσει}
+    past: {1p: ακούσαμε, 1s: άκουσα, 2p: ακούσατε, 2s: άκουσες, 3p: άκουσαν, 3s: άκουσε}
+    present: {1p: ακούμε, 1s: ακούω, 2p: ακούτε, 2s: ακούς, 3p: ακούν, 3s: ακούει}
+- g: βλέπω
+  e: to see/watch
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα δούμε, 1s: θα δω, 2p: θα δείτε, 2s: θα δεις, 3p: θα δουν, 3s: θα
+        δει}
+    past: {1p: είδαμε, 1s: είδα, 2p: είδατε, 2s: είδες, 3p: είδαν, 3s: είδε}
+    present: {1p: βλέπουμε, 1s: βλέπω, 2p: βλέπετε, 2s: βλέπεις, 3p: βλέπουν, 3s: βλέπει}
+- g: ξέρω
+  e: to know
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα ξέρουμε, 1s: θα ξέρω, 2p: θα ξέρετε, 2s: θα ξέρεις, 3p: θα ξέρουν,
+      3s: θα ξέρει}
+    past: {1p: ξέραμε, 1s: ήξερα, 2p: ξέρατε, 2s: ήξερες, 3p: ήξερα, 3s: ήξερε}
+    present: {1p: ξέρουμε, 1s: ξέρω, 2p: ξέρετε, 2s: ξέρεις, 3p: ξέρουν, 3s: ξέρει}
+- g: θέλω
+  e: to want
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα θελήσουμε, 1s: θα θελήσω, 2p: θα θελήσετε, 2s: θα θελήσεις, 3p: θα
+        θελήσουν, 3s: θα θελήσει}
+    past: {1p: θελήσαμε, 1s: θέλησα, 2p: θελήσατε, 2s: θέλησες, 3p: θέλησα, 3s: θέλησε}
+    present: {1p: θέλουμε, 1s: θέλω, 2p: θέλετε, 2s: θέλεις, 3p: θέλουν, 3s: θέλει}
+- g: μπορώ
+  e: to be able/can
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα μπορέσουμε, 1s: θα μπορέσω, 2p: θα μπορέσετε, 2s: θα μπορέσεις,
+      3p: θα μπορέσουν, 3s: θα μπορέσει}
+    past: {1p: μπορέσαμε, 1s: μπόρεσα, 2p: μπορέσατε, 2s: μπόρεσες, 3p: μπόρεσαν,
+      3s: μπόρεσε}
+    present: {1p: μπορούμε, 1s: μπορώ, 2p: μπορείτε, 2s: μπορείς, 3p: μπορούν, 3s: μπορεί}
+- g: πρέπει
+  e: must/should
+  p: verb
+  c: general
+- g: δίνω
+  e: to give
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα δώσουμε, 1s: θα δώσω, 2p: θα δώσετε, 2s: θα δώσεις, 3p: θα δώσουν,
+      3s: θα δώσει}
+    past: {1p: δώσαμε, 1s: έδωσα, 2p: δώσατε, 2s: έδωσες, 3p: έδωσαν, 3s: έδωσε}
+    present: {1p: δίνουμε, 1s: δίνω, 2p: δίνετε, 2s: δίνεις, 3p: δίνουν, 3s: δίνει}
+- g: παίρνω
+  e: to take/get
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα πάρουμε, 1s: θα πάρω, 2p: θα πάρετε, 2s: θα πάρεις, 3p: θα πάρουν,
+      3s: θα πάρει}
+    past: {1p: πήραμε, 1s: πήρα, 2p: πήρατε, 2s: πήρες, 3p: πήραν, 3s: πήρε}
+    present: {1p: παίρνουμε, 1s: παίρνω, 2p: παίρνετε, 2s: παίρνεις, 3p: παίρνουν,
+      3s: παίρνει}
+- g: βρίσκω
+  e: to find
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα βρούμε, 1s: θα βρω, 2p: θα βρείτε, 2s: θα βρεις, 3p: θα βρουν,
+      3s: θα βρει}
+    past: {1p: βρήκαμε, 1s: βρήκα, 2p: βρήκατε, 2s: βρήκες, 3p: βρήκαν, 3s: βρήκε}
+    present: {1p: βρίσκουμε, 1s: βρίσκω, 2p: βρίσκετε, 2s: βρίσκεις, 3p: βρίσκουν,
+      3s: βρίσκει}
+- g: ψάχνω
+  e: to search/look for
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα ψάξουμε, 1s: θα ψάξω, 2p: θα ψάξετε, 2s: θα ψάξεις, 3p: θα ψάξουν,
+      3s: θα ψάξει}
+    past: {1p: ψάξαμε, 1s: έψαξα, 2p: ψάξατε, 2s: έψαξες, 3p: έψαξαν, 3s: έψαξε}
+    present: {1p: ψάχνουμε, 1s: ψάχνω, 2p: ψάχνετε, 2s: ψάχνεις, 3p: ψάχνουν, 3s: ψάχνει}
+- g: ζω
+  e: to live
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα ζήσουμε, 1s: θα ζήσω, 2p: θα ζήσετε, 2s: θα ζήσεις, 3p: θα ζήσουνε,
+      3s: θα ζήσει}
+    past: {1p: ζήσαμε, 1s: έζησα, 2p: ζήσατε, 2s: έζησες, 3p: ζήσανε, 3s: έζησε}
+    present: {1p: ζούμε, 1s: ζω, 2p: ζείτε, 2s: ζεις, 3p: ζούνε, 3s: ζει}
+- g: μένω
+  e: to stay/live
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα μείνουμε, 1s: θα μείνω, 2p: θα μείνετε, 2s: θα μείνεις, 3p: θα
+        μείνουν, 3s: θα μείνει}
+    past: {1p: μείναμε, 1s: έμεινα, 2p: μείνατε, 2s: έμεινες, 3p: έμειναν, 3s: έμεινε}
+    present: {1p: μένουμε, 1s: μένω, 2p: μένετε, 2s: μένεις, 3p: μένουν, 3s: μένει}
+- g: ανοίγω
+  e: to open
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα ανοίξουμε, 1s: θα ανοίξω, 2p: θα ανοίξετε, 2s: θα ανοίξεις, 3p: θα
+        ανοίξουν, 3s: θα ανοίξει}
+    past: {1p: ανοίξαμε, 1s: άνοιξα, 2p: ανοίξατε, 2s: άνοιξες, 3p: άνοιξαν, 3s: άνοιξε}
+    present: {1p: ανοίγουμε, 1s: ανοίγω, 2p: ανοίγετε, 2s: ανοίγεις, 3p: ανοίγουν,
+      3s: ανοίγει}
+- g: κλείνω
+  e: to close
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα κλείσουμε, 1s: θα κλείσω, 2p: θα κλείσετε, 2s: θα κλείσεις, 3p: θα
+        κλείσουν, 3s: θα κλείσει}
+    past: {1p: κλείσαμε, 1s: έκλεισα, 2p: κλείσατε, 2s: έκλεισες, 3p: έκλεισαν, 3s: έκλεισε}
+    present: {1p: κλείνουμε, 1s: κλείνω, 2p: κλείνετε, 2s: κλείνεις, 3p: κλείνουν,
+      3s: κλείνει}
+- g: αρχίζω
+  e: to begin/start
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα αρχίσουμε, 1s: θα αρχίσω, 2p: θα αρχίσετε, 2s: θα αρχίσεις, 3p: θα
+        αρχίσουν, 3s: θα αρχίσει}
+    past: {1p: αρχίσαμε, 1s: άρχισα, 2p: αρχίσατε, 2s: άρχισες, 3p: άρχισαν, 3s: άρχισε}
+    present: {1p: αρχίζουμε, 1s: αρχίζω, 2p: αρχίζετε, 2s: αρχίζεις, 3p: αρχίζουν,
+      3s: αρχίζει}
+- g: τελειώνω
+  e: to finish/end
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα τελειώσουμε, 1s: θα τελειώσω, 2p: θα τελειώσετε, 2s: θα τελειώσεις,
+      3p: θα τελειώσουν, 3s: θα τελειώσει}
+    past: {1p: τελειώσαμε, 1s: τελείωσα, 2p: τελειώσατε, 2s: τελείωσες, 3p: τελείωσαν,
+      3s: τελείωσε}
+    present: {1p: τελειώνουμε, 1s: τελειώνω, 2p: τελειώνετε, 2s: τελειώνεις, 3p: τελειώνουν,
+      3s: τελειώνει}
+- g: περιμένω
+  e: to wait
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα περιμείνουμε, 1s: θα περιμείνω, 2p: θα περιμείνετε, 2s: θα περιμείνεις,
+      3p: θα περιμείνουν, 3s: θα περιμείνει}
+    past: {1p: περιμείναμε, 1s: περίμεινα, 2p: περιμείνατε, 2s: περίμεινες, 3p: περίμειναν,
+      3s: περίμεινε}
+    present: {1p: περιμένουμε, 1s: περιμένω, 2p: περιμένετε, 2s: περιμένεις, 3p: περιμένουν,
+      3s: περιμένει}
+- g: βοηθάω
+  e: to help
+  p: verb
+  c: general
+- g: χρειάζομαι
+  e: to need
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα χρειαστούμε, 1s: θα χρειαστώ, 2p: θα χρειαστείτε, 2s: θα χρειαστείς,
+      3p: θα χρειαστούν, 3s: θα χρειαστεί}
+    past: {1p: χρειαστήκαμε, 1s: χρειάστηκα, 2p: χρειαστήκατε, 2s: χρειάστηκες, 3p: χρειάστηκα,
+      3s: χρειάστηκε}
+    present: {1p: χρειαζόμαστε, 1s: χρειάζομαι, 2p: χρειάζεστε, 2s: χρειάζεσαι, 3p: χρειάζονται,
+      3s: χρειάζεται}
+- g: αλλάζω
+  e: to change
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα αλλάξουμε, 1s: θα αλλάξω, 2p: θα αλλάξετε, 2s: θα αλλάξεις, 3p: θα
+        αλλάξουν, 3s: θα αλλάξει}
+    past: {1p: αλλάξαμε, 1s: άλλαξα, 2p: αλλάξατε, 2s: άλλαξες, 3p: άλλαξαν, 3s: άλλαξε}
+    present: {1p: αλλάζουμε, 1s: αλλάζω, 2p: αλλάζετε, 2s: αλλάζεις, 3p: αλλάζουν,
+      3s: αλλάζει}
+- g: φέρνω
+  e: to bring
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα φέρουμε, 1s: θα φέρω, 2p: θα φέρετε, 2s: θα φέρεις, 3p: θα φέρουν,
+      3s: θα φέρει}
+    past: {1p: φέραμε, 1s: έφερα, 2p: φέρατε, 2s: έφερες, 3p: έφεραν, 3s: έφερε}
+    present: {1p: φέρνουμε, 1s: φέρνω, 2p: φέρνετε, 2s: φέρνεις, 3p: φέρνουν, 3s: φέρνει}
+- g: σταματάω
+  e: to stop
+  p: verb
+  c: general
+- g: συνεχίζω
+  e: to continue
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα συνεχίσουμε, 1s: θα συνεχίσω, 2p: θα συνεχίσετε, 2s: θα συνεχίσεις,
+      3p: θα συνεχίσουν, 3s: θα συνεχίσει}
+    past: {1p: συνεχίσαμε, 1s: συνέχισα, 2p: συνεχίσατε, 2s: συνέχισες, 3p: συνέχισαν,
+      3s: συνέχισε}
+    present: {1p: συνεχίζουμε, 1s: συνεχίζω, 2p: συνεχίζετε, 2s: συνεχίζεις, 3p: συνεχίζουν,
+      3s: συνεχίζει}
+- g: προσπαθώ
+  e: to try
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα προσπαθήσουμε, 1s: θα προσπαθήσω, 2p: θα προσπαθήσετε, 2s: θα
+        προσπαθήσεις, 3p: θα προσπαθήσουν, 3s: θα προσπαθήσει}
+    past: {1p: προσπαθήσαμε, 1s: προσπάθησα, 2p: προσπαθήσατε, 2s: προσπάθησες, 3p: προσπάθησαν,
+      3s: προσπάθησε}
+    present: {1p: προσπαθούμε, 1s: προσπαθώ, 2p: προσπαθείτε, 2s: προσπαθείς, 3p: προσπαθούν,
+      3s: προσπαθεί}
+- g: καταλαβαίνω
+  e: to understand
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα καταλάβουμε, 1s: θα καταλάβω, 2p: θα καταλάβετε, 2s: θα καταλάβεις,
+      3p: θα καταλάβουν, 3s: θα καταλάβει}
+    past: {1p: καταλάβαμε, 1s: κατάλαβα, 2p: καταλάβατε, 2s: κατάλαβες, 3p: κατάλαβαν,
+      3s: κατάλαβε}
+    present: {1p: καταλαβαίνουμε, 1s: καταλαβαίνω, 2p: καταλαβαίνετε, 2s: καταλαβαίνεις,
+      3p: καταλαβαίνουν, 3s: καταλαβαίνει}
+- g: θυμάμαι
+  e: to remember
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα θυμηθούμε, 1s: θα θυμηθώ, 2p: θα θυμηθείτε, 2s: θα θυμηθείς, 3p: θα
+        θυμηθούν, 3s: θα θυμηθεί}
+    past: {1p: θυμηθήκαμε, 1s: θυμήθηκα, 2p: θυμηθήκατε, 2s: θυμήθηκες, 3p: θυμήθηκαν,
+      3s: θυμήθηκε}
+    present: {1p: θυμόμαστε, 1s: θυμάμαι, 2p: θυμάστε, 2s: θυμάσαι, 3p: θυμούνται,
+      3s: θυμάται}
+- g: ξεχνάω
+  e: to forget
+  p: verb
+  c: general
+- g: αποφασίζω
+  e: to decide
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα αποφασίσουμε, 1s: θα αποφασίσω, 2p: θα αποφασίσετε, 2s: θα αποφασίσεις,
+      3p: θα αποφασίσουν, 3s: θα αποφασίσει}
+    past: {1p: αποφασίσαμε, 1s: αποφάσισα, 2p: αποφασίσατε, 2s: αποφάσισες, 3p: αποφάσισαν,
+      3s: αποφάσισε}
+    present: {1p: αποφασίζουμε, 1s: αποφασίζω, 2p: αποφασίζετε, 2s: αποφασίζεις, 3p: αποφασίζουν,
+      3s: αποφασίζει}
+- g: εξηγώ
+  e: to explain
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα εξηγήσουμε, 1s: θα εξηγήσω, 2p: θα εξηγήσετε, 2s: θα εξηγήσεις,
+      3p: θα εξηγήσουν, 3s: θα εξηγήσει}
+    past: {1p: εξηγήσαμε, 1s: εξήγησα, 2p: εξηγήσατε, 2s: εξήγησες, 3p: εξήγησα, 3s: εξήγησε}
+    present: {1p: εξηγούμε, 1s: εξηγώ, 2p: εξηγείτε, 2s: εξηγείς, 3p: εξηγούν, 3s: εξηγεί}
+- g: ρωτάω
+  e: to ask
+  p: verb
+  c: general
+- g: απαντάω
+  e: to answer
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα απαντήσουμε, 1s: θα απαντήσω, 2p: θα απαντήσετε, 2s: θα απαντήσεις,
+      3p: θα απαντήσουν, 3s: θα απαντήσει}
+    past: {1p: απαντήσαμε, 1s: απάντησα, 2p: απαντήσατε, 2s: απάντησες, 3p: απάντησαν,
+      3s: απάντησε}
+    present: {1p: απαντούμε, 1s: απαντώ, 2p: απαντάτε, 2s: απαντάς, 3p: απαντούν,
+      3s: απαντά}
+- g: σκέφτομαι
+  e: to think
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα σκεφτούμε, 1s: θα σκεφτώ, 2p: θα σκεφτείτε, 2s: θα σκεφτείς, 3p: θα
+        σκεφτούν, 3s: θα σκεφτεί}
+    past: {1p: σκεφτήκαμε, 1s: σκέφτηκα, 2p: σκεφτήκατε, 2s: σκέφτηκες, 3p: σκέφτηκαν,
+      3s: σκέφτηκε}
+    present: {1p: σκεφτόμαστε, 1s: σκέφτομαι, 2p: σκέφτεστε, 2s: σκέφτεσαι, 3p: σκέφτονται,
+      3s: σκέφτεται}
+- g: αισθάνομαι
+  e: to feel
+  p: verb
+  c: general
+  conj:
+    future: {1p: θα αισθανθούμε, 1s: θα αισθανθώ, 2p: θα αισθανθείτε, 2s: θα αισθανθείς,
+      3p: θα αισθανθούν, 3s: θα αισθανθεί}
+    past: {1p: αισθανθήκαμε, 1s: αισθάνθηκα, 2p: αισθανθήκατε, 2s: αισθάνθηκες, 3p: αισθάνθηκαν,
+      3s: αισθάνθηκε}
+    present: {1p: αισθανόμαστε, 1s: αισθάνομαι, 2p: αισθάνεστε, 2s: αισθάνεσαι, 3p: αισθάνονται,
+      3s: αισθάνεται}
+- g: εγώ
+  e: I
+  p: pronoun
+  c: grammar
+- g: εσύ
+  e: you (singular)
+  p: pronoun
+  c: grammar
+- g: αυτός
+  e: he/this
+  p: pronoun
+  c: grammar
+- g: αυτή
+  e: she/this
+  p: pronoun
+  c: grammar
+- g: αυτό
+  e: it/this
+  p: pronoun
+  c: grammar
+- g: εμείς
+  e: we
+  p: pronoun
+  c: grammar
+- g: εσείς
+  e: you (plural/formal)
+  p: pronoun
+  c: grammar
+- g: αυτοί
+  e: they (masc)
+  p: pronoun
+  c: grammar
+- g: αυτές
+  e: they (fem)
+  p: pronoun
+  c: grammar
+- g: αυτά
+  e: they (neut)
+  p: pronoun
+  c: grammar
+- g: κάποιος
+  e: someone
+  p: pronoun
+  c: grammar
+- g: κανείς
+  e: nobody/anyone
+  p: pronoun
+  c: grammar
+- g: κάτι
+  e: something
+  p: pronoun
+  c: grammar
+- g: τίποτα
+  e: nothing/anything
+  p: pronoun
+  c: grammar
+- g: όλοι
+  e: everyone/all
+  p: pronoun
+  c: grammar
+- g: ο καθένας
+  e: each one
+  p: pronoun
+  c: grammar
+- g: και
+  e: and
+  p: conjunction
+  c: grammar
+- g: ή
+  e: or
+  p: conjunction
+  c: grammar
+- g: αλλά
+  e: but
+  p: conjunction
+  c: grammar
+- g: όμως
+  e: however
+  p: conjunction
+  c: grammar
+- g: γιατί
+  e: because/why
+  p: conjunction
+  c: grammar
+- g: επειδή
+  e: because/since
+  p: conjunction
+  c: grammar
+- g: αν
+  e: if
+  p: conjunction
+  c: grammar
+- g: ότι
+  e: that
+  p: conjunction
+  c: grammar
+- g: όταν
+  e: when
+  p: conjunction
+  c: grammar
+- g: ενώ
+  e: while/whereas
+  p: conjunction
+  c: grammar
+- g: αφού
+  e: since/after
+  p: conjunction
+  c: grammar
+- g: πριν
+  e: before
+  p: conjunction
+  c: grammar
+- g: μετά
+  e: after
+  p: conjunction
+  c: grammar
+- g: ώστε
+  e: so that
+  p: conjunction
+  c: grammar
+- g: ούτε
+  e: neither/nor
+  p: conjunction
+  c: grammar
+- g: σε
+  e: in/at/to
+  p: preposition
+  c: grammar
+- g: από
+  e: from
+  p: preposition
+  c: grammar
+- g: με
+  e: with
+  p: preposition
+  c: grammar
+- g: για
+  e: for/about
+  p: preposition
+  c: grammar
+- g: χωρίς
+  e: without
+  p: preposition
+  c: grammar
+- g: μέχρι
+  e: until/up to
+  p: preposition
+  c: grammar
+- g: κατά
+  e: during/against
+  p: preposition
+  c: grammar
+- g: μεταξύ
+  e: between/among
+  p: preposition
+  c: grammar
+- g: προς
+  e: towards
+  p: preposition
+  c: grammar
+- g: εκτός
+  e: except/outside
+  p: preposition
+  c: grammar
+- g: καλημέρα
+  e: good morning
+  p: phrase
+  c: greetings
+- g: καλησπέρα
+  e: good evening
+  p: phrase
+  c: greetings
+- g: καληνύχτα
+  e: good night
+  p: phrase
+  c: greetings
+- g: γεια σου
+  e: hello/goodbye (informal)
+  p: phrase
+  c: greetings
+- g: γεια σας
+  e: hello/goodbye (formal)
+  p: phrase
+  c: greetings
+- g: ευχαριστώ
+  e: thank you
+  p: phrase
+  c: greetings
+- g: παρακαλώ
+  e: please/you're welcome
+  p: phrase
+  c: greetings
+- g: συγγνώμη
+  e: sorry/excuse me
+  p: phrase
+  c: greetings
+- g: εντάξει
+  e: okay
+  p: phrase
+  c: greetings
+- g: τι κάνεις;
+  e: how are you?
+  p: phrase
+  c: greetings
+- g: πώς σε λένε;
+  e: what is your name?
+  p: phrase
+  c: greetings
+- g: με λένε...
+  e: my name is...
+  p: phrase
+  c: greetings
+- g: δεν καταλαβαίνω
+  e: I don't understand
+  p: phrase
+  c: greetings
+- g: μιλάτε αγγλικά;
+  e: do you speak English?
+  p: phrase
+  c: greetings
+- g: η ώρα
+  e: hour/time
+  p: noun
+  a: η
+  c: time
+- g: το λεπτό
+  e: minute
+  p: noun
+  a: το
+  c: time
+- g: το δευτερόλεπτο
+  e: second
+  p: noun
+  a: το
+  c: time
+- g: η μέρα
+  e: day
+  p: noun
+  a: η
+  c: time
+- g: η εβδομάδα
+  e: week
+  p: noun
+  a: η
+  c: time
+- g: ο μήνας
+  e: month
+  p: noun
+  a: ο
+  c: time
+- g: ο χρόνος
+  e: year/time
+  p: noun
+  a: ο
+  c: time
+- g: το πρωί
+  e: morning
+  p: noun
+  a: το
+  c: time
+- g: το μεσημέρι
+  e: noon
+  p: noun
+  a: το
+  c: time
+- g: το απόγευμα
+  e: afternoon
+  p: noun
+  a: το
+  c: time
+- g: το βράδυ
+  e: evening/night
+  p: noun
+  a: το
+  c: time
+- g: η Δευτέρα
+  e: Monday
+  p: noun
+  a: η
+  c: time
+- g: η Τρίτη
+  e: Tuesday
+  p: noun
+  a: η
+  c: time
+- g: η Τετάρτη
+  e: Wednesday
+  p: noun
+  a: η
+  c: time
+- g: η Πέμπτη
+  e: Thursday
+  p: noun
+  a: η
+  c: time
+- g: η Παρασκευή
+  e: Friday
+  p: noun
+  a: η
+  c: time
+- g: το Σάββατο
+  e: Saturday
+  p: noun
+  a: το
+  c: time
+- g: η Κυριακή
+  e: Sunday
+  p: noun
+  a: η
+  c: time
+- g: ένα
+  e: one
+  p: adjective
+  c: numbers
+- g: δύο
+  e: two
+  p: adjective
+  c: numbers
+- g: τρία
+  e: three
+  p: adjective
+  c: numbers
+- g: τέσσερα
+  e: four
+  p: adjective
+  c: numbers
+- g: πέντε
+  e: five
+  p: adjective
+  c: numbers
+- g: έξι
+  e: six
+  p: adjective
+  c: numbers
+- g: εφτά
+  e: seven
+  p: adjective
+  c: numbers
+- g: οχτώ
+  e: eight
+  p: adjective
+  c: numbers
+- g: εννιά
+  e: nine
+  p: adjective
+  c: numbers
+- g: δέκα
+  e: ten
+  p: adjective
+  c: numbers
+- g: είκοσι
+  e: twenty
+  p: adjective
+  c: numbers
+- g: τριάντα
+  e: thirty
+  p: adjective
+  c: numbers
+- g: σαράντα
+  e: forty
+  p: adjective
+  c: numbers
+- g: πενήντα
+  e: fifty
+  p: adjective
+  c: numbers
+- g: εκατό
+  e: hundred
+  p: adjective
+  c: numbers
+- g: χίλια
+  e: thousand
+  p: adjective
+  c: numbers
+- g: πρώτος
+  e: first
+  p: adjective
+  c: numbers
+- g: δεύτερος
+  e: second
+  p: adjective
+  c: numbers
+- g: τρίτος
+  e: third
+  p: adjective
+  c: numbers
+- g: τελευταίος
+  e: last
+  p: adjective
+  c: numbers
+- g: κόκκινος
+  e: red
+  p: adjective
+  c: colors
+- g: μπλε
+  e: blue
+  p: adjective
+  c: colors
+- g: πράσινος
+  e: green
+  p: adjective
+  c: colors
+- g: κίτρινος
+  e: yellow
+  p: adjective
+  c: colors
+- g: μαύρος
+  e: black
+  p: adjective
+  c: colors
+- g: άσπρος
+  e: white
+  p: adjective
+  c: colors
+- g: γκρίζος
+  e: gray
+  p: adjective
+  c: colors
+- g: καφέ
+  e: brown
+  p: adjective
+  c: colors
+- g: ροζ
+  e: pink
+  p: adjective
+  c: colors
+- g: πορτοκαλί
+  e: orange (color)
+  p: adjective
+  c: colors
+- g: τα ρούχα
+  e: clothes
+  p: noun
+  a: τα
+  c: clothing
+- g: το παντελόνι
+  e: trousers/pants
+  p: noun
+  a: το
+  c: clothing
+- g: η φούστα
+  e: skirt
+  p: noun
+  a: η
+  c: clothing
+- g: το φόρεμα
+  e: dress
+  p: noun
+  a: το
+  c: clothing
+- g: το πουκάμισο
+  e: shirt
+  p: noun
+  a: το
+  c: clothing
+- g: η μπλούζα
+  e: blouse/top
+  p: noun
+  a: η
+  c: clothing
+- g: το μπουφάν
+  e: jacket
+  p: noun
+  a: το
+  c: clothing
+- g: το παλτό
+  e: coat
+  p: noun
+  a: το
+  c: clothing
+- g: τα παπούτσια
+  e: shoes
+  p: noun
+  a: τα
+  c: clothing
+- g: οι κάλτσες
+  e: socks
+  p: noun
+  a: οι
+  c: clothing
+- g: το καπέλο
+  e: hat
+  p: noun
+  a: το
+  c: clothing
+- g: η τσάντα
+  e: bag/purse
+  p: noun
+  a: η
+  c: clothing
+- g: η πόλη
+  e: city
+  p: noun
+  a: η
+  c: places
+- g: το χωριό
+  e: village
+  p: noun
+  a: το
+  c: places
+- g: η πλατεία
+  e: square/plaza
+  p: noun
+  a: η
+  c: places
+- g: η γωνία
+  e: corner
+  p: noun
+  a: η
+  c: places
+- g: η εκκλησία
+  e: church
+  p: noun
+  a: η
+  c: places
+- g: η τράπεζα
+  e: bank
+  p: noun
+  a: η
+  c: places
+- g: το ταχυδρομείο
+  e: post office
+  p: noun
+  a: το
+  c: places
+- g: η αστυνομία
+  e: police
+  p: noun
+  a: η
+  c: places
+- g: η πυροσβεστική
+  e: fire department
+  p: noun
+  a: η
+  c: places
+- g: το πάρκο
+  e: park
+  p: noun
+  a: το
+  c: places
+- g: το σινεμά
+  e: cinema
+  p: noun
+  a: το
+  c: places
+- g: το βενζινάδικο
+  e: gas station
+  p: noun
+  a: το
+  c: places
+- g: Α
+  e: "α\tΆλφα // Alpha - A as in Ant"
+  p: noun
+- g: Β
+  e: "β\tΒήτα // Veeta - V as in Vase"
+  p: noun
+- g: Γ
+  e: "γ\tΓάμμα (Γάμα) //Gama - γ or g"
+  p: noun
+- g: Δ
+  e: "δ\tΔέλτα //Delta - ð as in THe"
+  p: noun
+- g: Ε
+  e: "ε\tΕψίλον //Epsilon - E as in Element"
+  p: noun
+- g: Ζ
+  e: "ζ\tΖήτα //Ζεετα - Z as in Zoo"
+  p: noun
+- g: Η
+  e: "η\tΉτα //Eeta - EE as in sEE"
+  p: noun
+- g: Θ
+  e: "θ\tΘήτα //theta"
+  p: noun
+- g: Ι
+  e: "ι\tΙώτα (γιώτα)//Iota - EE as in sEE"
+  p: noun
+- g: Κ
+  e: "κ\tΚάππα (κάπα)/Kapa - K as inCow"
+  p: noun
+- g: Λ
+  e: "λ\tΛάμδα//Lambda - L as in Lemon"
+  p: noun
+- g: Μ
+  e: "μ\tΜυ (μι) //Mee - M as in Mother"
+  p: noun
+- g: Ν
+  e: "ν\tΝυ (Νι) //Nee - N as in North"
+  p: noun
+- g: Ξ
+  e: "ξ\tΞει (Ξι) //Ksee - X as in foX"
+  p: noun
+- g: Ο
+  e: "ο\tΌμικρον// Omicron - O as in Organ"
+  p: noun
+- g: Π
+  e: "π\tΠει (Πι) //Pee - P as in Pet"
+  p: noun
+- g: Ρ
+  e: "ρ\tΡω (ρο/Rho - R as in Rhapsody"
+  p: noun
+- g: Σ
+  e: "σ/ς\tΣίγμα Sigma"
+  p: noun
+- g: Τ
+  e: "τ\tΤαυ // Taf - T as in Table"
+  p: noun
+- g: Υ
+  e: "υ\tΎψιλον//Ypsilon - EE as in sEE"
+  p: noun
+- g: Φ
+  e: "φ\tΦει (φι) //Fee - F as in Fun"
+  p: noun
+- g: Χ
+  e: "χ\tΧει (Χι) //Chee - H as in Hurry"
+  p: noun
+- g: Ψ
+  e: "ψ\tψει (ψι) /Psee - PS as in liPStick"
+  p: noun
+- g: Ω
+  e: "ω\tΩμέγα //Omega - O as in Organ"
+  p: verb
+- g: λουλούδι (n)
+  e: flower
+  p: noun
+- g: δάδα (f)
+  e: torch
+  p: noun
+- g: ποπ κορν (n)
+  e: popcorn
+  p: noun
+- g: γράμμα (n)
+  e: letter
+  p: noun
+- g: ύμνοσ (m)
+  e: hymn
+  p: noun
+- g: κακό (n)
+  e: bad
+  p: noun
+- g: Singular masculine
+  e: ο
+  p: noun
+- g: Plural masculine
+  e: οι
+  p: noun
+- g: Singular feminine
+  e: η
+  p: noun
+- g: Plural feminine
+  e: οι
+  p: noun
+- g: Singular neuter
+  e: το
+  p: noun
+- g: Plural neuter
+  e: τα
+  p: noun
+- g: (Εγώ) είμαι
+  e: I am
+  p: verb
+- g: (Εσύ) είσαι
+  e: you are (singular)
+  p: noun
+- g: (Αυτός, αυτή, αυτό) είναι
+  e: he, she or it is
+  p: noun
+- g: (Εμείς) είμαστε
+  e: we are
+  p: noun
+- g: (Εσεί) είσαστε
+  e: you are(plural)
+  p: noun
+- g: (Αυτοί, αυτές, αυτοί) είναι
+  e: they are
+  p: noun
+- g: άστρασ (m)
+  e: man
+  p: noun
+- g: μήλο (n)
+  e: apple
+  p: noun
+- g: αγόρι (n)
+  e: boy
+  p: noun
+- g: μικρό
+  e: small
+  p: noun
+- g: ψομί (n)
+  e: bread
+  p: noun
+- g: κορίτσι (n)
+  e: girl
+  p: noun
+- g: γυναίκα (f)
+  e: woman
+  p: noun
+- g: πίνω (v)
+  e: to drink
+  p: verb
+- g: γεγονός (m)
+  e: fact
+  p: noun
+- g: ωκεανός (m)
+  e: ocean
+  p: noun
+- g: ψυχή (f)
+  e: soul
+  p: noun
+- g: χρώμα (f)
+  e: color
+  p: noun
+- g: ξυλόφωνο (n)
+  e: xylophone
+  p: noun
+- g: nom. indef. masc. sing. article
+  e: ένας
+  p: noun
+- g: nom. indef. fem. sing. article
+  e: μία or μια
+  p: noun
+- g: nom. indef. neut. sing. article
+  e: ένα
+  p: noun
+- g: gen. indef. masc. sing. article
+  e: ενός
+  p: noun
+- g: gen. indef. fem. sing. article
+  e: μίας or μιας
+  p: noun
+- g: gen. indef. neut. sing. article
+  e: ενός
+  p: noun
+- g: acc. indef. masc. sing. article
+  e: ένα or έναν
+  p: noun
+- g: acc. indef. fem. sing. article
+  e: μία or μια
+  p: noun
+- g: acc. indef. neut. sing. article
+  e: ένα
+  p: noun
+- g: nom. indef. masc. plural article
+  e: μερικοί
+  p: noun
+- g: nom. indef. fem. plural article
+  e: μερικές
+  p: noun
+- g: nom. indef. neut. plural article
+  e: μερικά
+  p: noun
+- g: gen. indef. (masc./fem./neut.) plural article
+  e: μερικών
+  p: noun
+- g: acc. indef. masc. plural article
+  e: μερικούς
+  p: noun
+- g: acc. indef. fem. plural article
+  e: μερικές
+  p: noun
+- g: acc. indef. neut. plural article
+  e: μερικά
+  p: noun
+- g: voc. indef. masc. plural article
+  e: μερικοί
+  p: noun
+- g: voc. indef. fem. plural article
+  e: μερικές
+  p: noun
+- g: voc. indef. neut. plural article
+  e: μερικά
+  p: noun
+- g: αυτός/αυτή/αυτό
+  e: he/she/it
+  p: noun
+- g: ο αυτοί/αυτές
+  e: they (masculine/feminine)
+  p: noun
+  a: ο
+- g: ζωή (f)
+  e: life
+  p: noun
+- g: ρύζι (n)
+  e: rice
+  p: noun
+- g: εφημερίδα (f)
+  e: newspaper
+  p: noun
+- g: μενού (n)
+  e: menu
+  p: noun
+- g: βιβλίο (n)
+  e: book
+  p: noun
+- g: η θα
+  e: will - verb auxiliary
+  p: noun
+  a: η
+- g: η Καλημέρα
+  e: Good Morning
+  p: noun
+  a: η
+- g: Καληνύχτα / Καλό βράδυ
+  e: Good night
+  p: noun
+- g: η Καλησπέρα
+  e: Good evening
+  p: noun
+  a: η
+- g: Όχι
+  e: 'No'
+  p: noun
+- g: Ναι
+  e: 'Yes'
+  p: noun
+- g: Λυπάμαι
+  e: I am sorry
+  p: verb
+- g: η Συγνώμη
+  e: Sorry / Excuse me
+  p: noun
+  a: η
+- g: το Αντίο
+  e: Goodbye
+  p: noun
+  a: το
+- g: Σ' αγαπώ / Σε αγαπώ
+  e: I love you
+  p: verb
+- g: η Γεια
+  e: Hi / Hello
+  p: noun
+  a: η
+- g: Πόσο κάνει; / Πόσο κοστίζει;
+  e: How much does it cost?
+  p: noun
+- g: Εγώ είμαι ο / η .....
+  e: I am ....
+  p: noun
+- g: Εγώ ζω (or μένω) στον / στην / στο ....
+  e: I live in .....
+  p: noun
+- g: θέλω (v)
+  e: to want
+  p: verb
+- g: δεν
+  e: not, negation
+  p: noun
+- g: όνομα (n)
+  e: name
+  p: noun
+- g: μιλώ (v)
+  e: to speak
+  p: verb
+- g: η Ελληνικα
+  e: Greek
+  p: noun
+  a: η
+- g: λέω (v)
+  e: to say
+  p: verb
+- g: ψωμί (n)
+  e: bread
+  p: noun
+- g: τυρί (n)
+  e: cheese
+  p: noun
+- g: τομάτα / ντομάτα (f)
+  e: tomato
+  p: noun
+- g: αγγούρι (f)
+  e: cucumber
+  p: noun
+- g: σαλάτα (f)
+  e: salad
+  p: noun
+- g: φαγητό (n)
+  e: food
+  p: noun
+- g: τροφή (f)
+  e: food
+  p: noun
+- g: σουβλάκι / καλαμάκι (n)
+  e: suvlaki
+  p: noun
+- g: γύρος (m)
+  e: gyros
+  p: noun
+- g: κουτάλι (n)
+  e: spoon
+  p: noun
+- g: μαχαίρι (n)
+  e: knife
+  p: noun
+- g: πιρούνι (n)
+  e: fork
+  p: noun
+- g: πιάτο (n)
+  e: dish / plate
+  p: noun
+- g: η καλή όρεξη
+  e: bon appetit
+  p: noun
+  a: η
+- g: ένα ποτήρι ...
+  e: a glass of ...
+  p: noun
+- g: νερό (n)
+  e: water
+  p: noun
+- g: κρασί (n)
+  e: wine
+  p: noun
+- g: μπίρα / μπύρα (f)
+  e: beer
+  p: noun
+- g: ούζο (n)
+  e: ouzo
+  p: noun
+- g: ο Στην υγειά σου / Στην υγειά μας
+  e: Cheers
+  p: noun
+  a: ο
+- g: κέτσαπ (n)
+  e: ketchup
+  p: noun
+- g: κεφτέσ (m)
+  e: meatball
+  p: noun
+- g: λουκάνικο (n)
+  e: sausage
+  p: noun
+- g: πιπέρι (n)
+  e: pepper
+  p: noun
+- g: καρπούζι (n)
+  e: watermelon
+  p: noun
+- g: πεπόνι (n)
+  e: melon
+  p: noun
+- g: πατάτα (f)
+  e: potato
+  p: noun
+- g: χυμόσ (m)
+  e: juice
+  p: noun
+- g: πορτοκάλι (n)
+  e: orange
+  p: noun
+- g: τσάι (n)
+  e: tea
+  p: noun
+- g: φράουλα (f)
+  e: strawberry
+  p: noun
+- g: χάμπουργκερ (n)
+  e: hamburger
+  p: noun
+- g: μπριζόλα (f)
+  e: steak
+  p: noun
+- g: κεράσι (n)
+  e: cherry
+  p: noun
+- g: σταφύλι (n)
+  e: grape
+  p: noun
+- g: αχλαδι (f)
+  e: pear
+  p: noun
+- g: βοδινό (n)
+  e: beef
+  p: noun
+- g: το νόστιμο
+  e: delicious
+  p: noun
+  a: το
+- g: χορτοφάγοσ (m)
+  e: vegetarian
+  p: noun
+- g: κρέασ (n)
+  e: meat
+  p: noun
+- g: κοτόπουλο (n)
+  e: chicken
+  p: noun
+- g: αυγό (n)
+  e: eg
+  p: noun
+- g: σούπα (f)
+  e: egg
+  p: noun
+- g: ψάρι (n)
+  e: fish
+  p: noun
+- g: δείπνο (n)
+  e: dinner
+  p: noun
+- g: ροδάκινο (n)
+  e: peach
+  p: noun
+- g: λεμόνι (n)
+  e: lemon
+  p: noun
+- g: ποτήρι (n)
+  e: glass
+  p: noun
+- g: φρούτο (n)
+  e: fruit
+  p: noun
+- g: πίτσα (f)
+  e: pizza
+  p: noun
+- g: κρεμμύδι (n)
+  e: onion
+  p: noun
+- g: σκόρδο (n)
+  e: garlic
+  p: noun
+- g: πορτοκαλάδα (f)
+  e: orangeade
+  p: noun
+- g: πρωινο (n)
+  e: breakfast
+  p: noun
+- g: παγωτό (n)
+  e: ice cream
+  p: noun
+- g: γλυκό (n)
+  e: candy
+  p: noun
+- g: καρότο (n)
+  e: carrot
+  p: noun
+- g: χοιρινό (n)
+  e: pork
+  p: noun
+- g: γεύμα (n)
+  e: meal
+  p: noun
+- g: κέικ (n)
+  e: cake
+  p: noun
+- g: καφές (m)
+  e: coffee
+  p: noun
+- g: τσίζκεικ (n)
+  e: cheesecake
+  p: noun
+- g: ζάχαρη (n)
+  e: sugar
+  p: noun
+- g: σάντουιτς (m)
+  e: sandwich
+  p: noun
+- g: σκύλος / σκυλί (m/n)
+  e: dog
+  p: noun
+- g: γάτα (f)
+  e: cat
+  p: noun
+- g: ποντίκι (n)
+  e: mouse
+  p: noun
+- g: μέλισσα (f)
+  e: bee
+  p: noun
+- g: πεταλούδα (f)
+  e: butterfly
+  p: noun
+- g: αρκούδα (f)
+  e: bear
+  p: noun
+- g: λύκος (m)
+  e: wolf
+  p: noun
+- g: καμήλα (f)
+  e: camel
+  p: noun
+- g: πουλί (n)
+  e: bird
+  p: noun
+- g: αετός (m)
+  e: eagle
+  p: noun
+- g: γεράκι (n)
+  e: hawk
+  p: noun
+- g: δελφίνι (n)
+  e: dolphin
+  p: noun
+- g: φάλαινα (f)
+  e: whale
+  p: noun
+- g: καρχαρίας (m)
+  e: shark
+  p: noun
+- g: κότα (f)
+  e: hen
+  p: noun
+- g: έντομο (n)
+  e: insect
+  p: noun
+- g: πίθηκος (m)
+  e: ape
+  p: noun
+- g: άλογο (n)
+  e: horse
+  p: noun
+- g: λαγός (m)
+  e: hare
+  p: noun
+- g: αλεπού (f)
+  e: fox
+  p: noun
+- g: τίγρης (m)
+  e: tiger
+  p: noun
+- g: θηλαστικό (n)
+  e: mammal
+  p: noun
+- g: πάπια (f)
+  e: duck
+  p: noun
+- g: ζώο (n)
+  e: animal
+  p: noun
+- g: ερπετό (n)
+  e: reptile
+  p: noun
+- g: σκύλος (m)
+  e: dog
+  p: noun
+- g: κουτάβι (n)
+  e: puppy
+  p: noun
+- g: χάμστερ (n)
+  e: hamster
+  p: noun
+- g: καμηλοπάρδαλη (f)
+  e: giraffe
+  p: noun
+- g: ελέφαντας (m)
+  e: elephant
+  p: noun
+- g: χελώνα (f)
+  e: turtle
+  p: noun
+- g: λιοντάρι (n)
+  e: lion
+  p: noun
+- g: καβούρι (n)
+  e: crab
+  p: noun
+- g: αράχνη (f)
+  e: spider
+  p: noun
+- g: κατοικίδιο (n)
+  e: pet
+  p: noun
+- g: πελεκάνος (m)
+  e: pelican
+  p: noun
+- g: my (single object)
+  e: (Δικός/Δική/Δικό) μου
+  p: noun
+- g: your (single object)
+  e: (Δικός/Δική/Δικό) σου
+  p: noun
+- g: his (single object)
+  e: (Δικός/Δική/Δικό) του
+  p: noun
+- g: her (single object)
+  e: (Δικός/Δική/Δικό) της
+  p: noun
+- g: its (single object)
+  e: (Δικός/Δική/Δικό) του
+  p: noun
+- g: our (single object)
+  e: (Δικός/Δική/Δικό) μας
+  p: noun
+- g: your (pl.) (single object)
+  e: (Δικός/Δική/Δικό) σας
+  p: noun
+- g: their (single object)
+  e: (Δικός/Δική/Δικό) τους
+  p: noun
+- g: my (many objects)
+  e: (Δικοί/Δικές/Δικά) μου
+  p: noun
+- g: your (many objects)
+  e: (Δικοί/Δικές/Δικά) σου
+  p: noun
+- g: his (many objects)
+  e: (Δικοί/Δικές/Δικά) του
+  p: noun
+- g: her (many objects)
+  e: (Δικοί/Δικές/Δικά) της
+  p: noun
+- g: its (many objects)
+  e: (Δικοί/Δικές/Δικά) του
+  p: noun
+- g: our (many objects)
+  e: (Δικοί/Δικές/Δικά) μας
+  p: noun
+- g: your (pl.) (many objects)
+  e: (Δικοί/Δικές/Δικά) σας
+  p: noun
+- g: their (many objects)
+  e: (Δικοί/Δικές/Δικά) τους
+  p: noun
+- g: κασκόλ
+  e: scarf
+  p: noun
+- g: ο σκούφος
+  e: skull cap
+  p: noun
+  a: ο
+- g: η ζακέτα
+  e: jacket / sweater
+  p: noun
+  a: η
+- g: η φανέλα
+  e: jersey
+  p: noun
+  a: η
+- g: παντελόνι
+  e: trousers / pants
+  p: noun
+- g: τζιν
+  e: jeans
+  p: noun
+- g: η παπούτσι / παπούτσια
+  e: shoe / shoes
+  p: noun
+  a: η
+- g: κάλτσα / κάλτσες
+  e: sock / socks
+  p: noun
+- g: η γάντι / γάντια
+  e: glove / gloves
+  p: noun
+  a: η
+- g: κοστούμι (n)
+  e: suit
+  p: noun
+- g: μιτοθφάν
+  e: jacket
+  p: noun
+- g: φοράω
+  e: to wear
+  p: verb
+- g: ζώνη (f)
+  e: belt
+  p: noun
+- g: κόσμημα (n!)
+  e: jewel
+  p: noun
+- g: μπότα (f)
+  e: boot
+  p: noun
+- g: κάλτσα (f)
+  e: sock
+  p: noun
+- g: παπούτσι (n)
+  e: shoe
+  p: noun
+- g: γραβάτα (f)
+  e: tie
+  p: noun
+- g: μάλλινος (m)
+  e: woolen thing
+  p: noun
+- g: τσέπη (f)
+  e: pocket
+  p: noun
+- g: πορτοφόλι (n)
+  e: wallet
+  p: noun
+- g: το δερμάτιν|ος|η|ο
+  e: leather adj.
+  p: noun
+  a: το
+- g: το άρθρο
+  e: article
+  p: noun
+  a: το
+- g: το επίδετο
+  e: adjective
+  p: noun
+  a: το
+- g: ουσιαστικό
+  e: noun
+  p: noun
+- g: λογός
+  e: speech
+  p: noun
+- g: ο μέρος
+  e: part
+  p: noun
+  a: ο
+- g: το ρήμα
+  e: verb
+  p: noun
+  a: το
+- g: μετοχή
+  e: participle
+  p: noun
+- g: η πρόθεση
+  e: preposition
+  p: noun
+  a: η
+- g: ο σύνδεσμος
+  e: conjunction
+  p: noun
+  a: ο
+- g: το επίρρημα
+  e: adverb
+  p: noun
+  a: το
+- g: η αντωνυμία
+  e: pronoun
+  p: noun
+  a: η
+- g: το επιφώνημα
+  e: interjection
+  p: noun
+  a: το
+- g: nom. def. masc. sing. article
+  e: ο
+  p: noun
+- g: nom. def. fem. sing. article
+  e: η
+  p: noun
+- g: nom. def. neut. sing. article
+  e: το
+  p: noun
+- g: gen. def. masc. sing. article
+  e: του
+  p: noun
+- g: gen. def. fem. sing. article
+  e: της
+  p: noun
+- g: gen. def. neut. sing. article
+  e: του
+  p: noun
+- g: nom. def. masc. plural article
+  e: οι
+  p: noun
+- g: nom. def. fem. plural article
+  e: οι
+  p: noun
+- g: nom. def. neut. plural article
+  e: τα
+  p: noun
+- g: gen. def. plural article (masc./fem./neut.)
+  e: των
+  p: noun
+- g: acc. def. masc. plural article
+  e: τους
+  p: noun
+- g: acc. def. fem. plural article
+  e: τις
+  p: noun
+- g: acc. def. neut. plural article
+  e: τα
+  p: noun
+- g: το τί
+  e: what
+  p: noun
+  a: το
+- g: πώς
+  e: how
+  p: noun
+- g: πού
+  e: where
+  p: noun
+- g: το γιατί
+  e: why
+  p: noun
+  a: το
+- g: πότε
+  e: when
+  p: noun
+- g: το πόσο
+  e: how much (masculine)
+  p: noun
+  a: το
+- g: η πόσα
+  e: how much (feminine)
+  p: noun
+  a: η
+- g: ποιός
+  e: who
+  p: noun
+- g: ποιανού
+  e: whose
+  p: noun
+- g: η ερώτηση
+  e: question
+  p: noun
+  a: η
+- g: η απάντηση
+  e: answer
+  p: noun
+  a: η
+- g: έχει
+  e: has
+  p: noun
+- g: της
+  e: her
+  p: noun
+- g: τους
+  e: them
+  p: noun
+- g: ο μας
+  e: us
+  p: noun
+  a: ο
+- g: του
+  e: him
+  p: noun
+- g: μου
+  e: me
+  p: noun
+- g: σου
+  e: you
+  p: noun
+- g: ο σας
+  e: you [polite type]
+  p: noun
+  a: ο
+- g: έχεις
+  e: have (you)
+  p: noun
+- g: είσαι
+  e: are (you)
+  p: noun
+- g: είναι
+  e: is (he/she/it)
+  p: noun
+- g: είμαστε
+  e: we
+  p: noun
+- g: η αυτά
+  e: these
+  p: noun
+  a: η
+- g: είσαστε
+  e: are (you plural)
+  p: noun
+- g: έχουμε
+  e: are (we)
+  p: noun
+- g: έχετε
+  e: have (you)
+  p: noun
+- g: έχουν
+  e: have (they)
+  p: noun
+- g: το αυτοί
+  e: they
+  p: noun
+  a: το
+- g: ο αυτές
+  e: they (feminine)
+  p: noun
+  a: ο
+- g: κολυμπώ
+  e: I swim
+  p: verb
+- g: τρέχει
+  e: He/She/It runs
+  p: noun
+- g: περπατώ
+  e: I walk
+  p: verb
+  conj:
+    future: {1p: θα περπατήσουμε, 1s: θα περπατήσω, 2p: θα περπατήσετε, 2s: θα περπατήσεις,
+      3p: θα περπατήσουν, 3s: θα περπατήσει}
+    past: {1p: περπατήσαμε, 1s: περπάτησα, 2p: περπατήσατε, 2s: περπάτησες, 3p: περπάτησαν,
+      3s: περπάτησε}
+    present: {1p: περπατούμε, 1s: περπατώ, 2p: περπατάτε, 2s: περπατάς, 3p: περπατούν,
+      3s: περπατά}
+- g: υπάρχω
+  e: I exist
+  p: verb
+  conj:
+    future: {1p: θα υπάρξουμε, 1s: θα υπάρξω, 2p: θα υπάρξετε, 2s: θα υπάρξεις, 3p: θα
+        υπάρξουν, 3s: θα υπάρξει}
+    past: {1p: υπήρξαμε, 1s: υπήρξα, 2p: υπήρξατε, 2s: υπήρξες, 3p: υπήρξαν, 3s: υπήρξε}
+    present: {1p: υπάρχουμε, 1s: υπάρχω, 2p: υπάρχετε, 2s: υπάρχεις, 3p: υπάρχουν,
+      3s: υπάρχει}
+- g: θέλει
+  e: He/She/It wants
+  p: noun
+- g: πηγαίνω
+  e: I go
+  p: verb
+  conj:
+    future: {1p: θα πάμε, 1s: θα πάω, 2p: θα πάτε, 2s: θα πας, 3p: θα πάνε, 3s: θα
+        πάει}
+    past: {1p: πήγαμε, 1s: πήγα, 2p: πήγατε, 2s: πήγες, 3p: πήγαν, 3s: πήγε}
+    present: {1p: πάμε, 1s: πηγαίνο, 2p: πάτε, 2s: πας, 3p: πάνε, 3s: πάει}
+- g: πληρώνει
+  e: He/She/It pays
+  p: noun
+- g: πηγαίνει
+  e: He/She/It goes
+  p: noun
+- g: παίζει
+  e: He/She/It plays
+  p: noun
+- g: αρέσει
+  e: He/She/It likes
+  p: noun
+- g: τραγουδώ
+  e: I sing
+  p: verb
+  conj:
+    future: {1p: θα τραγουδήσουμε, 1s: θα τραγουδήσω, 2p: θα τραγουδήσετε, 2s: θα
+        τραγουδήσεις, 3p: θα τραγουδήσουν, 3s: θα τραγουδήσει}
+    past: {1p: τραγουδήσαμε, 1s: τραγούδησα, 2p: τραγουδήσατε, 2s: τραγούδησες, 3p: τραγούδησαν,
+      3s: τραγούδησε}
+    present: {1p: τραγουδούμε, 1s: τραγουδώ, 2p: τραγουδάτε, 2s: τραγουδάς, 3p: τραγουδούν,
+      3s: τραγουδά}
+- g: χρησιμοποιώ
+  e: I use
+  p: verb
+  conj:
+    future: {1p: θα χρησιμοποιήσουμε, 1s: θα χρησιμοποιήσω, 2p: θα χρησιμοποιήσετε,
+      2s: θα χρησιμοποιήσεις, 3p: θα χρησιμοποιήσουν, 3s: θα χρησιμοποιήσει}
+    past: {1p: χρησιμοποιήσαμε, 1s: χρησιμοποίησα, 2p: χρησιμοποιήσατε, 2s: χρησιμοποίησες,
+      3p: χρησιμοποίησαν, 3s: χρησιμοποίησε}
+    present: {1p: χρησιμοποιούμε, 1s: χρησιμοποιώ, 2p: χρησιμοποιείτε, 2s: χρησιμοποιείς,
+      3p: χρησιμοποιούν, 3s: χρησιμοποιεί}
+- g: αγγίζω
+  e: I touch
+  p: verb
+  conj:
+    future: {1p: θα αγγίξουμε, 1s: θα αγγίξω, 2p: θα αγγίξετε, 2s: θα αγγίξεις, 3p: θα
+        αγγίξουν, 3s: θα αγγίξει}
+    past: {1p: αγγίξαμε, 1s: άγγιξα, 2p: αγγίξατε, 2s: άγγιξες, 3p: άγγιξαν, 3s: άγγιξε}
+    present: {1p: αγγίζουμε, 1s: αγγίζω, 2p: αγγίζετε, 2s: αγγίζεις, 3p: αγγίζουν,
+      3s: αγγίζει}
+- g: η αγαπά
+  e: He/She/It loves
+  p: noun
+  a: η
+- g: απαγορεύω
+  e: I forbid
+  p: verb
+  conj:
+    future: {1p: θα απαγορεύσουμε, 1s: θα απαγορεύσω, 2p: θα απαγορεύσετε, 2s: θα
+        απαγορεύσεις, 3p: θα απαγορεύσουν, 3s: θα απαγορεύσει}
+    past: {1p: απαγορεύσαμε, 1s: απαγόρευσα, 2p: απαγορεύσατε, 2s: απαγόρευσες, 3p: απαγόρευσαν,
+      3s: απαγόρευσε}
+    present: {1p: απαγορεύουμε, 1s: απαγορεύω, 2p: απαγορεύετε, 2s: απαγορεύεις, 3p: απαγορεύουν,
+      3s: απαγορεύει}
+- g: λέει
+  e: He/She/It tells
+  p: noun
+- g: ακούει
+  e: He/She/It hears
+  p: noun
+- g: βοηθώ
+  e: I help
+  p: verb
+  conj:
+    future: {1p: θα βοηθήσουμε, 1s: θα βοηθήσω, 2p: θα βοηθήσετε, 2s: θα βοηθήσεις,
+      3p: θα βοηθήσουν, 3s: θα βοηθήσει}
+    past: {1p: βοηθήσαμε, 1s: βοήθησα, 2p: βοηθήσατε, 2s: βοήθησες, 3p: βοήθησαν,
+      3s: βοήθησε}
+    present: {1p: βοηθάμε, 1s: βοηθώ, 2p: βοηθάτε, 2s: βοηθείς, 3p: βοηθάνε, 3s: βοηθεί}
+- g: δείχνω
+  e: I show
+  p: verb
+  conj:
+    future: {1p: θα δείξουμε, 1s: θα δείξω, 2p: θα δείξετε, 2s: θα δείξεις, 3p: θα
+        δείξουν, 3s: θα δείξει}
+    past: {1p: δείξαμε, 1s: έδειξα, 2p: δείξατε, 2s: έδειξες, 3p: έδειξαν, 3s: έδειξε}
+    present: {1p: δείχνουμε, 1s: δείχνω, 2p: δείχνετε, 2s: δείχνεις, 3p: δείχνουν,
+      3s: δείχνει}
+- g: φτιάχνω
+  e: I create
+  p: verb
+  conj:
+    future: {1p: θα φτιάξουμε, 1s: θα φτιάξω, 2p: θα φτιάξετε, 2s: θα φτιάξεις, 3p: θα
+        φτιάξουν, 3s: θα φτιάξει}
+    past: {1p: φτιάξαμε, 1s: έφτιαξα, 2p: φτιάξατε, 2s: έφτιαξες, 3p: έφτιαξαν, 3s: έφτιαξε}
+    present: {1p: φτιάχνουμε, 1s: φτιάχνω, 2p: φτιάχνετε, 2s: φτιάχνεις, 3p: φτιάχνουν,
+      3s: φτιάχνει}
+- g: βάζω
+  e: I put
+  p: verb
+  conj:
+    future: {1p: θα βάλουμε, 1s: θα βάλω, 2p: θα βάλετε, 2s: θα βάλεις, 3p: θα βάλουν,
+      3s: θα βάλει}
+    past: {1p: βάλαμε, 1s: έβαλα, 2p: βάλατε, 2s: έβαλες, 3p: έβαλαν, 3s: έβαλε}
+    present: {1p: βάζουμε, 1s: βάζω, 2p: βάζετε, 2s: βάζεις, 3p: βάζουν, 3s: βάζει}
+- g: σχεδιάζω
+  e: I plan
+  p: verb
+  conj:
+    future: {1p: θα σχεδιάσουμε, 1s: θα σχεδιάσω, 2p: θα σχεδιάσετε, 2s: θα σχεδιάσεις,
+      3p: θα σχεδιάσουν, 3s: θα σχεδιάσει}
+    past: {1p: σχεδιάσαμε, 1s: σχεδίασα, 2p: σχεδιάσατε, 2s: σχεδίασες, 3p: σχεδίασαν,
+      3s: σχεδίασε}
+    present: {1p: σχεδιάζουμε, 1s: σχεδιάζω, 2p: σχεδιάζετε, 2s: σχεδιάζεις, 3p: σχεδιάζουν,
+      3s: σχεδιάζει}
+- g: το κόκκινο
+  e: red
+  p: noun
+  a: το
+- g: το πορτοκαλί
+  e: orange
+  p: noun
+  a: το
+- g: το άσπρο
+  e: white
+  p: noun
+  a: το
+- g: το μαύρο
+  e: black
+  p: noun
+  a: το
+- g: το κίτρινο
+  e: yellow
+  p: noun
+  a: το
+- g: το πράσινο
+  e: green
+  p: noun
+  a: το
+- g: η άσπρη
+  e: white (feminine)
+  p: noun
+  a: η
+- g: το πολύχρωμο
+  e: colorful
+  p: noun
+  a: το
+- g: το λαχανί
+  e: light green
+  p: noun
+  a: το
+- g: μοβ
+  e: purple
+  p: noun
+- g: το γαλάζιο
+  e: light blue
+  p: noun
+  a: το
+- g: το χρώμα
+  e: color
+  p: noun
+  a: το
+- g: το ασπρόμαυρο
+  e: black and white
+  p: noun
+  a: το
+- g: ο κίτρινος
+  e: yellow (masculine)
+  p: noun
+  a: ο
+- g: ο κόκκινος
+  e: red (masculine)
+  p: noun
+  a: ο
+- g: ο πράσινος
+  e: green (masculine)
+  p: noun
+  a: ο
+- g: ο μαύρος
+  e: black (masculine)
+  p: noun
+  a: ο
+- g: ανοιχτός
+  e: light (masculine)
+  p: noun
+- g: ο σκούρος
+  e: dark (masculine)
+  p: noun
+  a: ο
+- g: ο εκείνος
+  e: that (male)
+  p: noun
+  a: ο
+- g: η εκείνη
+  e: that (female)
+  p: noun
+  a: η
+- g: το εκείνο
+  e: that (neuter)
+  p: noun
+  a: το
+- g: genitive plural ending
+  e: ων
+  p: noun
+- g: articles for genitive
+  e: 'm: του f: της n: του'
+  p: noun
+- g: η ανάμεσα
+  e: between
+  p: noun
+  a: η
+- g: η δίπλα
+  e: next to
+  p: noun
+  a: η
+- g: η για
+  e: for
+  p: noun
+  a: η
+- g: σαν
+  e: like; to be like
+  p: noun
+- g: η μετά
+  e: after
+  p: noun
+  a: η
+- g: εντός
+  e: in
+  p: noun
+- g: η μέσα
+  e: in
+  p: noun
+  a: η
+- g: έξω
+  e: out
+  p: verb
+- g: η κοντά
+  e: near
+  p: noun
+  a: η
+- g: εναντίον
+  e: against
+  p: noun
+- g: χωριό
+  e: village
+  p: noun
+- g: το κέντρο
+  e: downtown
+  p: noun
+  a: το
+- g: η κωμόπολη
+  e: town
+  p: noun
+  a: η
+- g: το δημαρχείο
+  e: town hall
+  p: noun
+  a: το
+- g: ακτή
+  e: coast
+  p: noun
+- g: σπίτι
+  e: house
+  p: noun
+- g: Παρασκευή
+  e: Friday
+  p: noun
+- g: Κυριακή
+  e: Sunday
+  p: noun
+- g: το σαββατοκύριακο
+  e: weekend
+  p: noun
+  a: το
+- g: Ιανουάριος/Γενάρης*
+  e: January
+  p: noun
+- g: Φεβρουάριος/Φλεβάρης*
+  e: February
+  p: noun
+- g: Μάρτιος/Μάρτης*
+  e: March
+  p: noun
+- g: Απρίλιος/Απρίλης*
+  e: April
+  p: noun
+- g: Μάιος/Μάης*
+  e: May
+  p: noun
+- g: ο Ιούνιος
+  e: June
+  p: noun
+  a: ο
+- g: ο Ιούλιος
+  e: July
+  p: noun
+  a: ο
+- g: ο Αύγουστος
+  e: August
+  p: noun
+  a: ο
+- g: Σεπτέμβριος/Σεπτέμβρης*
+  e: September
+  p: noun
+- g: Οκτώβριος/Οκτώβρης*
+  e: October
+  p: noun
+- g: Νοέμβριος/Νοέμβρης*
+  e: November
+  p: noun
+- g: Δεκέμβριος/Δεκέμβρης*
+  e: December
+  p: noun
+- g: εποχή
+  e: season
+  p: noun
+- g: ο Χειμώνας
+  e: winter
+  p: noun
+  a: ο
+- g: η Άνοιξη
+  e: spring
+  p: noun
+  a: η
+- g: Καλοκαίρι
+  e: summer
+  p: noun
+- g: το Φθινόπωρο
+  e: autumn
+  p: noun
+  a: το
+- g: Τι ώρα είναι;
+  e: What time is it?
+  p: noun
+- g: ο εργάτης / η εργάτης / η εργάτρια
+  e: the worker
+  p: noun
+  a: ο
+- g: ο ναύτης / η ναύτης
+  e: the sailor
+  p: noun
+  a: ο
+- g: ο αγρότης / η αγρότισσα
+  e: the farmer
+  p: noun
+  a: ο
+- g: ο οδηγός / η οδηγός
+  e: the driver
+  p: noun
+  a: ο
+- g: ο δάσκαλος / η δασκάλα
+  e: the teacher (elementary school)
+  p: noun
+  a: ο
+- g: ο καθηγητής / η καθηγήτρια
+  e: the teacher (middle school & university)
+  p: noun
+  a: ο
+- g: ο μαθητής / η μαθήτρια
+  e: the student (school)
+  p: noun
+  a: ο
+- g: ο φοιτητής / η φοιτήτρια
+  e: the student (university)
+  p: noun
+  a: ο
+- g: ο μεταφραστής / η μεταφράστρια
+  e: the translator
+  p: noun
+  a: ο
+- g: ο γιατρός / ο ιατρός / η γιατρός / η ιατρός
+  e: the doctor
+  p: noun
+  a: ο
+- g: ο ηθοποιός / η ηθοποιός
+  e: the actor / the actress
+  p: noun
+  a: ο
+- g: ο αστυνομικός / ο αστυνόμος / η αστυνομικός / η αστυνόμος
+  e: the policeman / the policewoman
+  p: noun
+  a: ο
+- g: ο πωλητής / η πωλήτρια
+  e: the salesman / the saleswoman
+  p: noun
+  a: ο
+- g: ο δικαστής / η δικαστής
+  e: the judge
+  p: noun
+  a: ο
+- g: ο δικηγόρος / η δικηγόρος
+  e: the lawyer
+  p: noun
+  a: ο
+- g: ο διευθυντής / η διευθύντρια
+  e: the director/ the principal (school)
+  p: noun
+  a: ο
+- g: ο στρατιώτης / η στρατιωτίνα
+  e: the soldier
+  p: noun
+  a: ο
+- g: ο μάγειρας / η μαγείρισσα
+  e: the cook
+  p: noun
+  a: ο
+- g: και / κι
+  e: and
+  p: noun
+- g: ούτε...ούτε
+  e: neither … nor
+  p: noun
+- g: είτε...είτε
+  e: either ...or
+  p: noun
+- g: η αλλά
+  e: but
+  p: noun
+  a: η
+- g: η να
+  e: to
+  p: noun
+  a: η
+- g: η για να
+  e: in order to
+  p: noun
+  a: η
+- g: που, πως, ότι*
+  e: that
+  p: noun
+- g: γιατί, επειδή, διό*τι
+  e: because
+  p: noun
+- g: σύζυγός
+  e: spouse
+  p: noun
+- g: νονός
+  e: godfather
+  p: noun
+- g: η οικογένεια
+  e: family [noun]
+  p: noun
+  a: η
+- g: οικογενειακός
+  e: family [adj.]
+  p: noun
+- g: γονείς
+  e: parents
+  p: noun
+- g: παππούς
+  e: grandfather
+  p: noun
+- g: η μητέρα
+  e: mother
+  p: noun
+  a: η
+- g: ο συγγενής
+  e: relative
+  p: noun
+  a: ο
+- g: η νονά
+  e: godmother
+  p: noun
+  a: η
+- g: ο γιος
+  e: son
+  p: noun
+  a: ο
+- g: αδελφός
+  e: brother
+  p: noun
+- g: η αδέλφια
+  e: siblings
+  p: noun
+  a: η
+- g: ο πατέρας
+  e: father
+  p: noun
+  a: ο
+- g: η κόρη
+  e: daughter
+  p: noun
+  a: η
+- g: αδελφή
+  e: sister
+  p: noun
+- g: ο τύπος
+  e: type (kind), guy
+  p: noun
+  a: ο
+- g: ο ιανουάριος
+  e: January
+  p: noun
+  a: ο
+- g: λεπτό
+  e: minute
+  p: noun
+- g: η δεκαετία
+  e: decade
+  p: noun
+  a: η
+- g: ο περίοδος
+  e: period
+  p: noun
+  a: ο
+- g: η ημερομηνία
+  e: date
+  p: noun
+  a: η
+- g: ο σεπτέμβριος
+  e: September
+  p: noun
+  a: ο
+- g: η σήμερα
+  e: today
+  p: noun
+  a: η
+- g: ο οκτώβριος
+  e: October
+  p: noun
+  a: ο
+- g: ο νοέμβριος
+  e: November
+  p: noun
+  a: ο
+- g: ο μάιος
+  e: May
+  p: noun
+  a: ο
+- g: απόψε
+  e: tonight
+  p: noun
+- g: το ημερολόγιο
+  e: calendar
+  p: noun
+  a: το
+- g: ο φεβρουάριος
+  e: February
+  p: noun
+  a: ο
+- g: σκηνή
+  e: stage
+  p: noun
+- g: το αύριο
+  e: tomorrow
+  p: noun
+  a: το
+- g: παζάρι
+  e: fair
+  p: noun
+- g: η γενιά
+  e: generation
+  p: noun
+  a: η
+- g: το λίγο
+  e: little
+  p: noun
+  a: το
+- g: πάρτι
+  e: party
+  p: noun
+- g: η ημέρα
+  e: day
+  p: noun
+  a: η
+- g: ο δεκέμβριος
+  e: December
+  p: noun
+  a: ο
+- g: η νύχτα
+  e: night
+  p: noun
+  a: η
+- g: ο απρίλιος
+  e: April
+  p: noun
+  a: ο
+- g: ο φέτος
+  e: this year
+  p: noun
+  a: ο
+- g: η γέννηση
+  e: birth
+  p: noun
+  a: η
+- g: στιγμή
+  e: moment
+  p: noun
+- g: ο αιώνας
+  e: century
+  p: noun
+  a: ο
+- g: ο μάρτιος
+  e: March
+  p: noun
+  a: ο
+- g: πέρυσι
+  e: last year
+  p: noun
+- g: ο μάγειρας
+  e: cook
+  p: noun
+  a: ο
+- g: ο σερβιτόρος
+  e: waiter
+  p: noun
+  a: ο
+- g: ηθοποιός
+  e: actor
+  p: noun
+- g: η σερβιτόρα
+  e: waitress
+  p: noun
+  a: η
+- g: αστυνομικός
+  e: police officer
+  p: noun
+- g: ο δικηγόρος
+  e: lawyer
+  p: noun
+  a: ο
+- g: καλλιτέχνης
+  e: artist
+  p: noun
+- g: μηχανικός
+  e: engineer, mechanic
+  p: noun
+- g: ο προϊστάμενος
+  e: supervisor
+  p: noun
+  a: ο
+- g: προσωπικό
+  e: staff, personnel (n)
+  p: noun
+- g: γιατρός
+  e: doctor
+  p: noun
+- g: αξιωματικός
+  e: officer
+  p: noun
+- g: στρατιώτης
+  e: soldier
+  p: noun
+- g: ο δικαστής
+  e: judge
+  p: noun
+  a: ο
+- g: ο καπετάνιος
+  e: captain
+  p: noun
+  a: ο
+- g: ο συγγραφέας
+  e: writer
+  p: noun
+  a: ο
+- g: ο γραμματέας
+  e: secretary
+  p: noun
+  a: ο
+- g: το μοντέλο
+  e: model (n)
+  p: noun
+  a: το
+- g: ο φύλακας
+  e: guard
+  p: noun
+  a: ο
+- g: ο επαγγελματίας
+  e: professional
+  p: noun
+  a: ο
+- g: η καριέρα
+  e: career
+  p: noun
+  a: η
+- g: αφεντικό
+  e: boss (n)
+  p: noun
+- g: συντάκτης
+  e: editor
+  p: noun
+- g: εργάτης
+  e: worker
+  p: noun
+- g: αγρότης
+  e: farmer
+  p: noun
+- g: ο αρχιτέκτονας
+  e: architect
+  p: noun
+  a: ο
+- g: η εργασία
+  e: work
+  p: noun
+  a: η
+- g: μελλοντικός
+  e: future [adj.]
+  p: noun
+- g: ο διαθέσιμος
+  e: available
+  p: noun
+  a: ο
+- g: φυσιολογική
+  e: normal
+  p: noun
+- g: πιθανός
+  e: possible
+  p: noun
+- g: ο ίδιος
+  e: same
+  p: noun
+  a: ο
+- g: ο δίγλωσσος
+  e: bilingual
+  p: noun
+  a: ο
+- g: ο υπεύθυνος
+  e: responsible
+  p: noun
+  a: ο
+- g: ιστορική
+  e: historical
+  p: noun
+- g: πραγματικός
+  e: real
+  p: noun
+- g: βασικός
+  e: main, basic
+  p: noun
+- g: ο ανθρώπινος
+  e: human
+  p: noun
+  a: ο
+- g: διαφορετικός
+  e: different
+  p: noun
+- g: ο ανεξάρτητος
+  e: independent
+  p: noun
+  a: ο
+- g: ο ξύλινος
+  e: wooden
+  p: noun
+  a: ο
+- g: τελικός
+  e: final
+  p: noun
+- g: προσωπικός
+  e: personal
+  p: noun
+- g: ο απαραίτητος
+  e: necessary
+  p: noun
+  a: ο
+- g: ο δημοφιλής
+  e: popular
+  p: noun
+  a: ο
+- g: αριστερός
+  e: left (side)
+  p: noun
+- g: ο ωραίος
+  e: nice
+  p: noun
+  a: ο
+- g: στρατιωτικός
+  e: military
+  p: noun
+- g: γενική
+  e: general (generic)
+  p: noun
+- g: ο γρήγορος
+  e: fast [adj.]
+  p: noun
+  a: ο
+- g: ο δύσκολος
+  e: difficult
+  p: noun
+  a: ο
+- g: ο ιδιαίτερος
+  e: special
+  p: noun
+  a: ο
+- g: ο νόμιμος
+  e: legal
+  p: noun
+  a: ο
+- g: ο χαρούμενος
+  e: happy
+  p: noun
+  a: ο
+- g: καθαρός
+  e: clean, pure
+  p: noun
+- g: ο κουρασμένος
+  e: tired
+  p: noun
+  a: ο
+- g: το ολόκληρο
+  e: whole
+  p: noun
+  a: το
+- g: το σύγχρονο
+  e: modern
+  p: noun
+  a: το
+- g: πολιτιστική
+  e: cultural
+  p: noun
+- g: ενδιαφέρων
+  e: interesting
+  p: noun
+- g: ο πρόσφατος
+  e: recent
+  p: noun
+  a: ο
+- g: ο όμορφος
+  e: beautiful
+  p: noun
+  a: ο
+- g: ο διάσημος
+  e: famous
+  p: noun
+  a: ο
+- g: η ζέστη
+  e: warm, hot
+  p: noun
+  a: η
+- g: ζωντανός
+  e: alive, live
+  p: noun
+- g: ο εύκολος
+  e: easy
+  p: noun
+  a: ο
+- g: η βρώμικη
+  e: dirty
+  p: noun
+  a: η
+- g: ο άριστος
+  e: excellent
+  p: noun
+  a: ο
+- g: τοπικό
+  e: local
+  p: noun
+- g: το επόμενο
+  e: next (following)
+  p: noun
+  a: το
+- g: ο τέλειος
+  e: perfect
+  p: noun
+  a: ο
+- g: θετικό
+  e: positive
+  p: noun
+- g: ο επίσημος
+  e: official, formal
+  p: noun
+  a: ο
+- g: αποτυγχάνω
+  e: (Ι) fail
+  p: verb
+  conj:
+    future: {1p: θα αποτύχουμε, 1s: θα αποτύχω, 2p: θα αποτύχετε, 2s: θα αποτύχεις,
+      3p: θα αποτύχουν, 3s: θα αποτύχει}
+    past: {1p: αποτύχαμε, 1s: απότυχα, 2p: αποτύχατε, 2s: απότυχες, 3p: απότυχαν,
+      3s: απότυχε}
+    present: {1p: αποτυγχάνουμε, 1s: αποτυγχάνω, 2p: αποτυγχάνετε, 2s: αποτυγχάνεις,
+      3p: αποτυγχάνουν, 3s: αποτυγχάνει}
+- g: κοιτάζω
+  e: (I) look at
+  p: verb
+  conj:
+    future: {1p: θα κοιτάξουμε, 1s: θα κοιτάξω, 2p: θα κοιτάξετε, 2s: θα κοιτάξεις,
+      3p: θα κοιτάξουν, 3s: θα κοιτάξει}
+    past: {1p: κοιτάξαμε, 1s: κοίταξα, 2p: κοιτάξατε, 2s: κοίταξες, 3p: κοίταξαν,
+      3s: κοίταξε}
+    present: {1p: κοιτάζουμε, 1s: κοιτάζω, 2p: κοιτάζετε, 2s: κοιτάζεις, 3p: κοιτάζουν,
+      3s: κοιτάζει}
+- g: μελετώ
+  e: (I) study
+  p: verb
+  conj:
+    future: {1p: θα μελετήσουμε, 1s: θα μελετήσω, 2p: θα μελετήσετε, 2s: θα μελετήσεις,
+      3p: θα μελετήσουν, 3s: θα μελετήσει}
+    past: {1p: μελετήσαμε, 1s: μελέτησα, 2p: μελετήσατε, 2s: μελέτησες, 3p: μελέτησαν,
+      3s: μελέτησε}
+    present: {1p: μελετούμε, 1s: μελετώ, 2p: μελετάτε, 2s: μελετάς, 3p: μελετούν,
+      3s: μελετά}
+- g: συμπεριλαμβάνω
+  e: (I) include
+  p: verb
+  conj:
+    future: {1p: θα συμπεριλάβουμε, 1s: θα συμπεριλάβω, 2p: θα συμπεριλάβετε, 2s: θα
+        συμπεριλάβεις, 3p: θα συμπεριλάβουν, 3s: θα συμπεριλάβει}
+    past: {1p: συμπεριελάβαμε, 1s: συμπεριέλαβα, 2p: συμπεριελάβατε, 2s: συμπεριέλαβες,
+      3p: συμπεριέλαβα, 3s: συμπεριέλαβε}
+    present: {1p: συμπεριλαμβάνουμε, 1s: συμπεριλαμβάνω, 2p: συμπεριλαμβάνετε, 2s: συμπεριλαμβάνεις,
+      3p: συμπεριλαμβάνουν, 3s: συμπεριλαμβάνει}
+- g: ακολουθώ
+  e: (Ι) follow
+  p: verb
+  conj:
+    future: {1p: θα ακολουθήσουμε, 1s: θα ακολουθήσω, 2p: θα ακολουθήσετε, 2s: θα
+        ακολουθήσεις, 3p: θα ακολουθήσουν, 3s: θα ακολουθήσει}
+    past: {1p: ακολουθήσαμε, 1s: ακολούθησα, 2p: ακολουθήσατε, 2s: ακολούθησες, 3p: ακολούθησαν,
+      3s: ακολούθησε}
+    present: {1p: ακολουθάμε, 1s: ακολουθώ, 2p: ακολουθάτε, 2s: ακολουθείς, 3p: ακολουθάνε,
+      3s: ακολουθεί}
+- g: υπογράφουν
+  e: (they) sign
+  p: noun
+- g: εύχομαι
+  e: (I) wish
+  p: verb
+  conj:
+    future: {1p: θα ευχηθούμε, 1s: θα ευχηθώ, 2p: θα ευχηθείτε, 2s: θα ευχηθείς, 3p: θα
+        ευχηθούν, 3s: θα ευχηθεί}
+    past: {1p: ευχηθήκαμε, 1s: ευχήθηκα, 2p: ευχηθήκατε, 2s: ευχήθηκες, 3p: ευχήθηκαν,
+      3s: ευχήθηκε}
+    present: {1p: ευχόμαστε, 1s: εύχομαι, 2p: εύχεστε, 2s: εύχεσαι, 3p: εύχονται,
+      3s: εύχεται}
+- g: πιστεύει
+  e: (it) believes
+  p: noun
+- g: προσφέρω
+  e: (I) offer
+  p: verb
+  conj:
+    future: {1p: θα προσφέρουμε, 1s: θα προσφέρω, 2p: θα προσφέρετε, 2s: θα προσφέρεις,
+      3p: θα προσφέρουν, 3s: θα προσφέρει}
+    past: {1p: προσφέραμε, 1s: πρόσφερα, 2p: προσφέρατε, 2s: πρόσφερες, 3p: πρόσφερα,
+      3s: πρόσφερε}
+    present: {1p: προσφέρουμε, 1s: προσφέρω, 2p: προσφέρετε, 2s: προσφέρεις, 3p: προσφέρουν,
+      3s: προσφέρει}
+- g: παρουσιάζω
+  e: (I) present
+  p: verb
+  conj:
+    future: {1p: θα παρουσιάσουμε, 1s: θα παρουσιάσω, 2p: θα παρουσιάσετε, 2s: θα
+        παρουσιάσεις, 3p: θα παρουσιάσουν, 3s: θα παρουσιάσει}
+    past: {1p: παρουσιάσαμε, 1s: παρουσίασα, 2p: παρουσιάσατε, 2s: παρουσίασες, 3p: παρουσίασαν,
+      3s: παρουσίασε}
+    present: {1p: παρουσιάζουμε, 1s: παρουσιάζω, 2p: παρουσιάζετε, 2s: παρουσιάζεις,
+      3p: παρουσιάζουν, 3s: παρουσιάζει}
+- g: θυμάστε
+  e: (you) remember [pl.]
+  p: noun
+- g: σώζω
+  e: (I) save
+  p: verb
+  conj:
+    future: {1p: θα σώσουμε, 1s: θα σώσω, 2p: θα σώσετε, 2s: θα σώσεις, 3p: θα σώσουν,
+      3s: θα σώσει}
+    past: {1p: σώσαμε, 1s: έσωσα, 2p: σώσατε, 2s: έσωσες, 3p: έσωσαν, 3s: έσωσε}
+    present: {1p: σώζουμε, 1s: σώζω, 2p: σώζετε, 2s: σώζεις, 3p: σώζουν, 3s: σώζει}
+- g: δουλεύουν
+  e: (they) work
+  p: noun
+- g: επιστρέφουν
+  e: (they) return
+  p: noun
+- g: καλώ
+  e: (I) calls
+  p: verb
+  conj:
+    future: {1p: θα καλέσουμε, 1s: θα καλέσω, 2p: θα καλέσετε, 2s: θα καλέσεις, 3p: θα
+        καλέσουν, 3s: θα καλέσει}
+    past: {1p: καλέσαμε, 1s: κάλεσα, 2p: καλέσατε, 2s: κάλεσες, 3p: κάλεσαν, 3s: κάλεσε}
+    present: {1p: καλούμε, 1s: καλώ, 2p: καλείτε, 2s: καλείς, 3p: καλούν, 3s: καλεί}
+- g: ανατρέφω
+  e: (I) raise
+  p: verb
+- g: νιώθω
+  e: (I) feel
+  p: verb
+  conj:
+    future: {1p: θα νιώσουμε, 1s: θα νιώσω, 2p: θα νιώσετε, 2s: θα νιώσεις, 3p: θα
+        νιώσουν, 3s: θα νιώσει}
+    past: {1p: νιώσαμε, 1s: ένιωσα, 2p: νιώσατε, 2s: ένιωσες, 3p: ένιωσαν, 3s: ένιωσε}
+    present: {1p: νιώθουμε, 1s: νιώθω, 2p: νιώθετε, 2s: νιώθεις, 3p: νιώθουν, 3s: νιώθει}
+- g: νεροχύτης
+  e: sink
+  p: noun
+- g: το χαλί
+  e: carpet (n)
+  p: noun
+  a: το
+- g: φωτιστικό
+  e: lamp (furniture)
+  p: noun
+- g: η τουαλέτα
+  e: toilet
+  p: noun
+  a: η
+- g: η αποθήκη
+  e: store room (f)
+  p: noun
+  a: η
+- g: η πολυθρόνα
+  e: armchair
+  p: noun
+  a: η
+- g: μπαλκόνι
+  e: balcony (f)
+  p: noun
+- g: οροφή
+  e: ceiling (f)
+  p: noun
+- g: η βρύση
+  e: tap, faucet (f)
+  p: noun
+  a: η
+- g: ντους
+  e: shower (n!)
+  p: noun
+- g: μαξιλάρι
+  e: pillow, cushion (n)
+  p: noun
+- g: το έπιπλο
+  e: (piece of) furniture (n)
+  p: noun
+  a: το
+- g: η πετσέτα
+  e: towel
+  p: noun
+  a: η
+- g: ο κήπος
+  e: garden
+  p: noun
+  a: ο
+- g: αυλή
+  e: yard (f)
+  p: noun
+- g: χολ
+  e: hall (n)
+  p: noun
+- g: το οδοντόκρεμα
+  e: toothpaste
+  p: noun
+  a: το
+- g: σαλόνι
+  e: living room (n)
+  p: noun
+- g: η τραπεζαρία
+  e: dining room
+  p: noun
+  a: η
+- g: η οδοντόβουρτσα
+  e: toothbrush
+  p: noun
+  a: η
+- g: σαπούνι
+  e: soap (n)
+  p: noun
+- g: η σοφίτα
+  e: attic
+  p: noun
+  a: η
+- g: φως
+  e: light
+  p: noun
+- g: ο φούρνος
+  e: oven
+  p: noun
+  a: ο
+- g: κρεβάτι
+  e: bed (n)
+  p: noun
+- g: καθρέφτης
+  e: mirror
+  p: noun
+- g: κομμάτι
+  e: piece
+  p: noun
+- g: το πράγμα
+  e: thing (n!)
+  p: noun
+  a: το
+- g: ψαλίδι
+  e: scissors
+  p: noun
+- g: το κουτί
+  e: box
+  p: noun
+  a: το
+- g: το μυθιστόρημα
+  e: novel (n!)
+  p: noun
+  a: το
+- g: η οδοντόπαστα
+  e: toothpaste
+  p: noun
+  a: η
+- g: το αντικείμενο
+  e: object
+  p: noun
+  a: το
+- g: η σημαία
+  e: flag
+  p: noun
+  a: η
+- g: η ομπρέλα
+  e: umbrella
+  p: noun
+  a: η
+- g: ντουλάπι
+  e: cupboard
+  p: noun
+- g: η χτένα
+  e: comb
+  p: noun
+  a: η
+- g: κινητό
+  e: mobile phone
+  p: noun
+- g: το δώρο
+  e: gift
+  p: noun
+  a: το
+- g: τραπέζι
+  e: table
+  p: noun
+- g: καλάθι
+  e: basket
+  p: noun
+- g: ρολόι
+  e: clock, watch
+  p: noun
+- g: η ρίζα
+  e: root
+  p: noun
+  a: η
+- g: κουτάλι
+  e: spoon
+  p: noun
+- g: μηχανή
+  e: engine, machine
+  p: noun
+- g: η καμπάνα
+  e: bell
+  p: noun
+  a: η
+- g: μπουκάλι
+  e: bottle
+  p: noun
+- g: η κούπα
+  e: cup
+  p: noun
+  a: η
+- g: μαχαίρι
+  e: knife
+  p: noun
+- g: σφουγγάρι
+  e: sponge
+  p: noun
+- g: μπολ
+  e: bowl (n)
+  p: noun
+- g: η μπαταρία
+  e: battery
+  p: noun
+  a: η
+- g: σκεπή
+  e: roof
+  p: noun
+- g: περιοδικό
+  e: magazine
+  p: noun
+- g: η πισίνα
+  e: (swimming) pool
+  p: noun
+  a: η
+- g: η αλυσίδα
+  e: chain
+  p: noun
+  a: η
+- g: τηγάνι
+  e: pan
+  p: noun
+- g: ξυράφι
+  e: razor
+  p: noun
+- g: πιρούνι
+  e: fork
+  p: noun
+- g: σεντόνι
+  e: sheet
+  p: noun
+- g: το χαρτί
+  e: paper
+  p: noun
+  a: το
+- g: η ρόδα
+  e: wheel
+  p: noun
+  a: η
+- g: απαντώ
+  e: (Ι) answer
+  p: verb
+  conj:
+    future: {1p: θα απαντήσουμε, 1s: θα απαντήσω, 2p: θα απαντήσετε, 2s: θα απαντήσεις,
+      3p: θα απαντήσουν, 3s: θα απαντήσει}
+    past: {1p: απαντήσαμε, 1s: απάντησα, 2p: απαντήσατε, 2s: απάντησες, 3p: απάντησαν,
+      3s: απάντησε}
+    present: {1p: απαντούμε, 1s: απαντώ, 2p: απαντάτε, 2s: απαντάς, 3p: απαντούν,
+      3s: απαντά}
+- g: εμπιστεύομαι
+  e: (I) trust
+  p: verb
+- g: φαίνομαι
+  e: (I) seem
+  p: verb
+  conj:
+    future: {1p: θα φανούμε, 1s: θα φανώ, 2p: θα φανείτε, 2s: θα φανείς, 3p: θα φανούν,
+      3s: θα φανεί}
+    past: {1p: φανήκαμε, 1s: φάνηκα, 2p: φανήκατε, 2s: φάνηκες, 3p: φάνηκαν, 3s: φάνηκε}
+    present: {1p: φαινόμαστε, 1s: φαίνομαι, 2p: φαίνεστε, 2s: φαίνεσαι, 3p: φαίνονται,
+      3s: φαίνεται}
+- g: γεμίζω
+  e: (I) fill
+  p: verb
+  conj:
+    future: {1p: θα γεμίσουμε, 1s: θα γεμίσω, 2p: θα γεμίσετε, 2s: θα γεμίσεις, 3p: θα
+        γεμίσουν, 3s: θα γεμίσει}
+    past: {1p: γεμίσαμε, 1s: γέμισα, 2p: γεμίσατε, 2s: γέμισες, 3p: γέμισαν, 3s: γέμισε}
+    present: {1p: γεμίζουμε, 1s: γεμίζω, 2p: γεμίζετε, 2s: γεμίζεις, 3p: γεμίζουν,
+      3s: γεμίζει}
+- g: περνώ
+  e: (I) pass
+  p: verb
+  conj:
+    future: {1p: θα περάσουμε, 1s: θα περάσω, 2p: θα περάσετε, 2s: θα περάσεις, 3p: θα
+        περάσουν, 3s: θα περάσει}
+    past: {1p: περάσαμε, 1s: πέρασα, 2p: περάσατε, 2s: πέρασες, 3p: πέρασαν, 3s: πέρασε}
+    present: {1p: περνούμε, 1s: περνώ, 2p: περνάτε, 2s: περνάς, 3p: περνούν, 3s: περνά}
+- g: υποστηρίζω
+  e: (I) support
+  p: verb
+  conj:
+    future: {1p: θα υποστηρίξουμε, 1s: θα υποστηρίξω, 2p: θα υποστηρίξετε, 2s: θα
+        υποστηρίξεις, 3p: θα υποστηρίξουν, 3s: θα υποστηρίξει}
+    past: {1p: υποστηρίξαμε, 1s: υποστήριξα, 2p: υποστηρίξατε, 2s: υποστήριξες, 3p: υποστήριξαν,
+      3s: υποστήριξε}
+    present: {1p: υποστηρίζουμε, 1s: υποστηρίζω, 2p: υποστηρίζετε, 2s: υποστηρίζεις,
+      3p: υποστηρίζουν, 3s: υποστηρίζει}
+- g: δίνει
+  e: (it) gives
+  p: noun
+- g: ξοδεύω
+  e: (I) spend
+  p: verb
+  conj:
+    future: {1p: θα ξοδέψουμε, 1s: θα ξοδέψω, 2p: θα ξοδέψετε, 2s: θα ξοδέψεις, 3p: θα
+        ξοδέψουν, 3s: θα ξοδέψει}
+    past: {1p: ξοδέψαμε, 1s: ξόδεψα, 2p: ξοδέψατε, 2s: ξόδεψες, 3p: ξόδεψαν, 3s: ξόδεψε}
+    present: {1p: ξοδεύουμε, 1s: ξοδεύω, 2p: ξοδεύετε, 2s: ξοδεύεις, 3p: ξοδεύουν,
+      3s: ξοδεύει}
+- g: το προσπαθεί
+  e: (it) tries
+  p: noun
+  a: το
+- g: ξεκινώ
+  e: (I) begin
+  p: verb
+  conj:
+    future: {1p: θα ξεκινήσουμε, 1s: θα ξεκινήσω, 2p: θα ξεκινήσετε, 2s: θα ξεκινήσεις,
+      3p: θα ξεκινήσουν, 3s: θα ξεκινήσει}
+    past: {1p: ξεκινήσαμε, 1s: ξεκίνησα, 2p: ξεκινήσατε, 2s: ξεκίνησες, 3p: ξεκίνησαν,
+      3s: ξεκίνησε}
+    present: {1p: ξεκινούμε, 1s: ξεκινώ, 2p: ξεκινάτε, 2s: ξεκινάς, 3p: ξεκινούν,
+      3s: ξεκινά}
+- g: επιτέλους
+  e: finally
+  p: noun
+- g: τότε
+  e: then
+  p: noun
+- g: το όσο
+  e: as long as
+  p: noun
+  a: το
+- g: η γρήγορα
+  e: fast [adv.]
+  p: noun
+  a: η
+- g: ο κάποιες φορές
+  e: sometimes
+  p: noun
+  a: ο
+- g: η εύκολα
+  e: easily
+  p: noun
+  a: η
+- g: το μόνο
+  e: only
+  p: noun
+  a: το
+- g: η αρκετά
+  e: enough [adv.]
+  p: noun
+  a: η
+- g: η παρά
+  e: too
+  p: noun
+  a: η
+- g: η μακριά
+  e: far (away)
+  p: noun
+  a: η
+- g: σχεδόν
+  e: almost
+  p: noun
+- g: η πάντα
+  e: always
+  p: noun
+  a: η
+- g: η πραγματικά
+  e: really
+  p: noun
+  a: η
+- g: συνήθως
+  e: usually
+  p: noun
+- g: το εκεί
+  e: there
+  p: noun
+  a: το
+- g: πιθανώς
+  e: possibly
+  p: noun
+- g: τελείως
+  e: completely
+  p: noun
+- g: το περισσότερο
+  e: more
+  p: noun
+  a: το
+- g: το μαζί
+  e: together
+  p: noun
+  a: το
+- g: το σύντομα
+  e: soon
+  p: noun
+  a: το
+- g: η ξανά
+  e: again
+  p: noun
+  a: η
+- g: η τώρα
+  e: now
+  p: noun
+  a: η
+- g: έτσι
+  e: so
+  p: noun
+- g: η αργά
+  e: late, slowly
+  p: noun
+  a: η
+- g: το ακόμα
+  e: still, more
+  p: noun
+  a: το
+- g: οπουδήποτε
+  e: whenever [adv.]
+  p: noun
+- g: τουλάχιστον
+  e: at least
+  p: noun
+- g: η πρόσφατα
+  e: recently
+  p: noun
+  a: η
+- g: η τέλεια
+  e: perfectly
+  p: noun
+  a: η
+- g: η φυσιολογικά
+  e: normally, naturally
+  p: noun
+  a: η
+- g: η αργότερα
+  e: later
+  p: noun
+  a: η
+- g: η γενικά
+  e: generally
+  p: noun
+  a: η
+- g: η φορά
+  e: time [adv.]
+  p: noun
+  a: η
+- g: το άλλο
+  e: else, other
+  p: noun
+  a: το
+- g: η σιγά
+  e: slowly
+  p: noun
+  a: η
+- g: απλώς
+  e: just
+  p: noun
+- g: ακριβώς
+  e: exactly
+  p: noun
+- g: η ειδικά
+  e: especially
+  p: noun
+  a: η
+- g: περίπου
+  e: approximately
+  p: noun
+- g: το τόσο
+  e: so, such
+  p: noun
+  a: το
+- g: μαγείρεψες
+  e: (you) cooked [sing.]
+  p: noun
+- g: η τελείωσα
+  e: (I) finished
+  p: noun
+  a: η
+- g: είπε
+  e: (it) said
+  p: noun
+- g: η έδωσα
+  e: (I) gave
+  p: noun
+  a: η
+- g: η βρήκα
+  e: (I) found
+  p: noun
+  a: η
+- g: έγραψε
+  e: (it) wrote
+  p: noun
+- g: η απάντησα
+  e: (I) answered
+  p: noun
+  a: η
+- g: ήπιαμε
+  e: (we) drank
+  p: noun
+- g: είδες
+  e: (you) saw [sing.]
+  p: noun
+- g: η έπαιξα
+  e: (I) played
+  p: noun
+  a: η
+- g: η πήρα
+  e: (I) took
+  p: noun
+  a: η
+- g: η άκουσα
+  e: (I) heard
+  p: noun
+  a: η
+- g: η μίλησα
+  e: (I) spoke
+  p: noun
+  a: η
+- g: η νίκησα
+  e: (I) won
+  p: noun
+  a: η
+- g: η πήγα
+  e: (I) went
+  p: noun
+  a: η
+- g: η ήρθα
+  e: (I) came
+  p: noun
+  a: η
+- g: σταμάτησε
+  e: (it) stopped
+  p: noun
+- g: η άνοιξα
+  e: (I) opened
+  p: noun
+  a: η
+- g: η χρησιμοποίησα
+  e: (I) used
+  p: noun
+  a: η
+- g: η ήθελα
+  e: (I) wanted
+  p: noun
+  a: η
+- g: η είχα
+  e: (I) had
+  p: noun
+  a: η
+- g: ήταν
+  e: (it) was, (they) were
+  p: noun
+- g: η αγόρασα
+  e: (I) bought
+  p: noun
+  a: η
+- g: έμεινε
+  e: (it) stayed
+  p: noun
+- g: η έφαγα
+  e: (I) ate
+  p: noun
+  a: η
+- g: η έκανα
+  e: (I) did, (I) made
+  p: noun
+  a: η
+- g: κάνει
+  e: do, make [inf.]
+  p: noun
+- g: γράφει
+  e: write [inf.]
+  p: noun
+- g: γίνω
+  e: become [inf.]
+  p: verb
+- g: ακούσει
+  e: hear [inf.]
+  p: noun
+- g: ρωτώ
+  e: ask [inf.]
+  p: verb
+  conj:
+    future: {1p: θα ρωτήσουμε, 1s: θα ρωτήσω, 2p: θα ρωτήσετε, 2s: θα ρωτήσεις, 3p: θα
+        ρωτήσουν, 3s: θα ρωτήσει}
+    past: {1p: ρωτήσαμε, 1s: ρώτησα, 2p: ρωτήσατε, 2s: ρώτησες, 3p: ρώτησαν, 3s: ρώτησε}
+    present: {1p: ρωτούμε, 1s: ρωτώ, 2p: ρωτάτε, 2s: ρωτάς, 3p: ρωτούν, 3s: ρωτά}
+- g: δώσει
+  e: give [inf.]
+  p: noun
+- g: βλέπε
+  e: see [imp.]
+  p: noun
+- g: φέρε
+  e: bring [imp.]
+  p: noun
+- g: μάθε
+  e: learn [imp.]
+  p: noun
+- g: η ρώτα
+  e: ask [imp.]
+  p: noun
+  a: η
+- g: πείτε
+  e: speak [imp.]
+  p: noun
+- g: φάε
+  e: eat [imp.]
+  p: noun
+- g: άκουσε
+  e: listen [imp.]
+  p: noun
+- g: κλείσε
+  e: close [imp.]
+  p: noun
+- g: περπατήστε
+  e: walk [imp.]
+  p: noun
+- g: απάντησε
+  e: answer [imp.]
+  p: noun
+- g: τρέχε
+  e: run [imp.]
+  p: noun
+- g: χρησιμοποίησε
+  e: use [imp.]
+  p: noun
+- g: βρες
+  e: find [imp.]
+  p: noun
+- g: γράφε
+  e: write [imp.]
+  p: noun
+- g: μαγείρεψε
+  e: cook [imp.]
+  p: noun
+- g: η σταμάτα
+  e: stop [imp.]
+  p: noun
+  a: η
+- g: βάλε
+  e: put [imp.]
+  p: noun
+- g: πάρτε
+  e: take [imp.]
+  p: noun
+- g: η έλα
+  e: come [imp.]
+  p: noun
+  a: η
+- g: δώσε
+  e: give [imp.]
+  p: noun
+- g: φυλακή
+  e: prison
+  p: noun
+- g: ο έδαφος
+  e: ground (n)
+  p: noun
+  a: ο
+- g: περιοχή
+  e: area
+  p: noun
+- g: λιμάνι
+  e: harbour, port
+  p: noun
+- g: ο λεωφόρος
+  e: avenue (f)
+  p: noun
+  a: ο
+- g: η ιδιοκτησία
+  e: property
+  p: noun
+  a: η
+- g: το κτίριο
+  e: building
+  p: noun
+  a: το
+- g: η χώρα
+  e: country
+  p: noun
+  a: η
+- g: η ζώνη
+  e: zone
+  p: noun
+  a: η
+- g: η τοποθεσία
+  e: site (location)
+  p: noun
+  a: η
+- g: η κοιλάδα
+  e: valley
+  p: noun
+  a: η
+- g: το φάρμα
+  e: farm
+  p: noun
+  a: το
+- g: μπαρ
+  e: bar
+  p: noun
+- g: το νεκροταφείο
+  e: cemetery
+  p: noun
+  a: το
+- g: διαδρομή
+  e: route
+  p: noun
+- g: το κάστρο
+  e: castle
+  p: noun
+  a: το
+- g: ζωολογικός
+  e: zoological
+  p: noun
+- g: ο πύργος
+  e: tower
+  p: noun
+  a: ο
+- g: το τμήμα
+  e: department (n)
+  p: noun
+  a: το
+- g: η ελλάδα
+  e: Greece
+  p: noun
+  a: η
+- g: η μπροστά
+  e: forward, ahead, front
+  p: noun
+  a: η
+- g: σταθμός
+  e: station
+  p: noun
+- g: η δεξιά
+  e: right (direction)
+  p: noun
+  a: η
+- g: κορυφή
+  e: top, peak
+  p: noun
+- g: η περιφέρεια
+  e: district
+  p: noun
+  a: η
+- g: βορράς
+  e: north [noun]
+  p: noun
+- g: η σινεμά
+  e: cinema (n)
+  p: noun
+  a: η
+- g: εσωτερικό
+  e: interior
+  p: noun
+- g: η γειτονιά
+  e: neighbourhood
+  p: noun
+  a: η
+- g: η κοπέλα
+  e: young woman
+  p: noun
+  a: η
+- g: το θύμα
+  e: victim (n)
+  p: noun
+  a: το
+- g: επιτροπή
+  e: committee
+  p: noun
+- g: άνθρωποι
+  e: people
+  p: noun
+- g: ζευγάρι
+  e: couple
+  p: noun
+- g: πληθυσμός
+  e: population
+  p: noun
+- g: η κουλτούρα
+  e: culture (values, customs)
+  p: noun
+  a: η
+- g: μωρό
+  e: baby
+  p: noun
+- g: ο φίλος
+  e: friend [m.]
+  p: noun
+  a: ο
+- g: ο άνθρωπος
+  e: human being
+  p: noun
+  a: ο
+- g: το άτομο
+  e: person
+  p: noun
+  a: το
+- g: η νεολαία
+  e: youth
+  p: noun
+  a: η
+- g: η κυρία
+  e: lady
+  p: noun
+  a: η
+- g: το ίδρυμα
+  e: foundation (n)
+  p: noun
+  a: το
+- g: πολίτης
+  e: citizen
+  p: noun
+- g: η φίλη
+  e: friend [f.]
+  p: noun
+  a: η
+- g: το συνέδριο
+  e: conference
+  p: noun
+  a: το
+- g: κοινό
+  e: public
+  p: noun
+- g: εχθρός
+  e: enemy
+  p: noun
+- g: το αδύνατο
+  e: impossible
+  p: noun
+  a: το
+- g: το κρύο
+  e: cold
+  p: noun
+  a: το
+- g: αποδοτική
+  e: efficient, effective
+  p: noun
+- g: ο φοβισμένος
+  e: afraid
+  p: noun
+  a: ο
+- g: παραδοσιακό
+  e: traditional
+  p: noun
+- g: ο θλιμμένος
+  e: sad
+  p: noun
+  a: ο
+- g: η θρήσκα
+  e: religious
+  p: noun
+  a: η
+- g: το επικίνδυνο
+  e: dangerous
+  p: noun
+  a: το
+- g: η άσχημη
+  e: ugly
+  p: noun
+  a: η
+- g: το αντίθετο
+  e: opposite (contrary)
+  p: noun
+  a: το
+- g: αρνητικό
+  e: negative
+  p: noun
+- g: ψηλό
+  e: tall, high
+  p: noun
+- g: η λανθασμένη
+  e: wrong
+  p: noun
+  a: η
+- g: κοντό
+  e: short
+  p: noun
+- g: ο ξένος
+  e: foreign, strange
+  p: noun
+  a: ο
+- g: σοβαρό
+  e: serious
+  p: noun
+- g: βολικό
+  e: comfortable, convenient
+  p: noun
+- g: η γενναία
+  e: brave
+  p: noun
+  a: η
+- g: αργό
+  e: slow
+  p: noun
+- g: το οικείο
+  e: familiar
+  p: noun
+  a: το
+- g: ο αγαπημένος
+  e: favourite
+  p: noun
+  a: ο
+- g: πολλή
+  e: a lot of, much
+  p: noun
+- g: η αρχαία
+  e: ancient
+  p: noun
+  a: η
+- g: η παλιά
+  e: old
+  p: noun
+  a: η
+- g: το νέο
+  e: young, new
+  p: noun
+  a: το
+- g: ο έτοιμος
+  e: ready
+  p: noun
+  a: ο
+- g: συχνό
+  e: frequent
+  p: noun
+- g: το ελάχιστο
+  e: minimum, minimal
+  p: noun
+  a: το
+- g: φτηνό
+  e: cheap
+  p: noun
+- g: η τριάντα
+  e: thirty
+  p: noun
+  a: η
+- g: ο δεύτερος
+  e: second (order)
+  p: noun
+  a: ο
+- g: μισό
+  e: half
+  p: noun
+- g: η ένα
+  e: one
+  p: noun
+  a: η
+- g: η παραπέρα
+  e: beyond
+  p: noun
+  a: η
+- g: το δύο
+  e: two
+  p: noun
+  a: το
+- g: το νούμερο
+  e: number, size
+  p: noun
+  a: το
+- g: η τρία
+  e: three
+  p: noun
+  a: η
+- g: το μερικοί
+  e: some
+  p: noun
+  a: το
+- g: το σύνολο
+  e: total
+  p: noun
+  a: το
+- g: χιλιάδες
+  e: thousands
+  p: noun
+- g: η δεκαεννιά
+  e: nineteen
+  p: noun
+  a: η
+- g: το μέτρο
+  e: metre
+  p: noun
+  a: το
+- g: η δεκατρία
+  e: thirteen
+  p: noun
+  a: η
+- g: το εκατομμύριο
+  e: million
+  p: noun
+  a: το
+- g: η δεκαεπτά
+  e: seventeen
+  p: noun
+  a: η
+- g: η εξήντα
+  e: sixty
+  p: noun
+  a: η
+- g: η ενενήντα
+  e: ninety
+  p: noun
+  a: η
+- g: το πολλοί
+  e: many [m., pl.]
+  p: noun
+  a: το
+- g: η δώδεκα
+  e: twelve
+  p: noun
+  a: η
+- g: ο τελευταίος
+  e: last, final
+  p: noun
+  a: ο
+- g: η πενήντα
+  e: fifty
+  p: noun
+  a: η
+- g: το ψηφίο
+  e: digit
+  p: noun
+  a: το
+- g: το τέταρτο
+  e: fourth
+  p: noun
+  a: το
+- g: η σαράντα
+  e: forty
+  p: noun
+  a: η
+- g: η πλειοψηφία
+  e: majority
+  p: noun
+  a: η
+- g: αριθμός
+  e: number, digit
+  p: noun
+- g: δεκαπέντε
+  e: fifteen
+  p: noun
+- g: αρκετό
+  e: enough [adj.]
+  p: noun
+- g: το άπειρο
+  e: infinity
+  p: noun
+  a: το
+- g: ο τρίτος
+  e: third
+  p: noun
+  a: ο
+- g: η ανά
+  e: per
+  p: noun
+  a: η
+- g: ο μέσος
+  e: middle, average
+  p: noun
+  a: ο
+- g: η επτά
+  e: seven
+  p: noun
+  a: η
+- g: μηδέν
+  e: zero
+  p: noun
+- g: δεκαέξι
+  e: sixteen
+  p: noun
+- g: η εβδομήντα
+  e: seventy
+  p: noun
+  a: η
+- g: η ογδόντα
+  e: eighty
+  p: noun
+  a: η
+- g: η έντεκα
+  e: eleven
+  p: noun
+  a: η
+- g: δεκαοχτώ
+  e: eighteen
+  p: verb
+- g: η δέκα
+  e: ten
+  p: noun
+  a: η
+- g: η εννέα
+  e: nine
+  p: noun
+  a: η
+- g: η τέσσερα
+  e: four
+  p: noun
+  a: η
+- g: ο πρώτος
+  e: first
+  p: noun
+  a: ο
+- g: η δεκατέσσερα
+  e: fourteen
+  p: noun
+  a: η
+- g: το άθροισμα
+  e: sum
+  p: noun
+  a: το
+- g: ποσό
+  e: amount
+  p: noun
+- g: λέγεται
+  e: (it) is said
+  p: noun
+- g: απαγορεύεται
+  e: (it) is forbidden
+  p: noun
+- g: πληρώνεται
+  e: (it) is paid
+  p: noun
+- g: βρισκεται
+  e: (it) is found
+  p: noun
+- g: σχεδιάζονται
+  e: (they) are designed
+  p: noun
+- g: βρέχεται
+  e: (it) gets wet
+  p: noun
+- g: ονειρεύονται
+  e: (they) are dreaming
+  p: noun
+- g: βαριέμαι
+  e: (I) am bored
+  p: verb
+  conj:
+    future: {1p: θα βαρεθούμε, 1s: θα βαρεθώ, 2p: θα βαρεθείτε, 2s: θα βαρεθείς, 3p: θα
+        βαρεθούν, 3s: θα βαρεθεί}
+    past: {1p: βαρεθήκαμε, 1s: βαρέθηκα, 2p: βαρεθήκατε, 2s: βαρέθηκες, 3p: βαρέθηκαν,
+      3s: βαρέθηκε}
+    present: {1p: βαριόμαστε, 1s: βαριέμαι, 2p: βαριέστε, 2s: βαριέσαι, 3p: βαριούνται,
+      3s: βαριέται}
+- g: ακούγεται
+  e: (it) is heard
+  p: noun
+- g: μαγειρεύεται
+  e: (it) is cooked
+  p: noun
+- g: πίνεται
+  e: (it) is drunk
+  p: noun
+- g: φοριέται
+  e: (it) is worn
+  p: noun
+- g: διαβάζεται
+  e: (it) is read
+  p: noun
+- g: χρησιμοποιείται
+  e: (it) is used
+  p: noun
+- g: κάθεται
+  e: (it) is sitting
+  p: noun
+- g: ομιλούνται
+  e: (it) is spoken
+  p: noun
+- g: φαντάζομαι
+  e: (Ι) imagine
+  p: verb
+  conj:
+    future: {1p: θα φανταστούμε, 1s: θα φανταστώ, 2p: θα φανταστείτε, 2s: θα φανταστείς,
+      3p: θα φανταστούν, 3s: θα φανταστεί}
+    past: {1p: φανταστήκαμε, 1s: φαντάστηκα, 2p: φανταστήκατε, 2s: φαντάστηκες, 3p: φαντάστηκα,
+      3s: φαντάστηκε}
+    present: {1p: φανταζόμαστε, 1s: φαντάζομαι, 2p: φαντάζεστε, 2s: φαντάζεσαι, 3p: φαντάζονται,
+      3s: φαντάζεται}
+- g: γράφεται
+  e: (it) is written
+  p: noun
+- g: τρώγεται
+  e: (it) is eaten
+  p: noun
+- g: αναφερόμαστε
+  e: (we) refer to
+  p: noun
+- g: τους οποίους
+  e: whom [m., pl.]
+  p: noun
+  a: τους
+- g: των οποίων
+  e: of whom, of whose [pl.]
+  p: noun
+- g: ο οποίος
+  e: who, which [m., sing.]
+  p: noun
+  a: ο
+- g: οι οποίοι
+  e: who , which [m., pl.]
+  p: noun
+  a: οι
+- g: όπου
+  e: wherever
+  p: noun
+- g: η οποία
+  e: who, which [f., sing.]
+  p: noun
+  a: η
+- g: που
+  e: which, that
+  p: noun
+- g: ό,τι
+  e: whatever
+  p: noun
+- g: τον οποίον
+  e: whom [m., sing.]
+  p: noun
+- g: του οποίου
+  e: of whom, of which [m., n., sing.]
+  p: noun
+- g: το οποίο
+  e: which [n., sing.]
+  p: noun
+  a: το
+- g: σε ποιον
+  e: to whom [m., sing.]
+  p: verb
+- g: το όχημα
+  e: vehicle (n)
+  p: noun
+  a: το
+- g: η μοτοσικλέτα
+  e: motorcycle
+  p: noun
+  a: η
+- g: η ισπανικά
+  e: Spanish
+  p: noun
+  a: η
+- g: μετρό
+  e: subway
+  p: noun
+- g: η αναχώρηση
+  e: departure
+  p: noun
+  a: η
+- g: η γαλλία
+  e: France
+  p: noun
+  a: η
+- g: η γερμανία
+  e: Germany
+  p: noun
+  a: η
+- g: χάρτης
+  e: map
+  p: noun
+- g: η κίνα
+  e: China
+  p: noun
+  a: η
+- g: ο διεθνές
+  e: international
+  p: noun
+  a: ο
+- g: η ρωσία
+  e: Russia
+  p: noun
+  a: η
+- g: η πτήση
+  e: flight
+  p: noun
+  a: η
+- g: ταξίδι
+  e: journey
+  p: noun
+- g: η τουρκία
+  e: Turkey
+  p: noun
+  a: η
+- g: η ιταλία
+  e: Italy
+  p: noun
+  a: η
+- g: αμερική
+  e: America
+  p: noun
+- g: η βάρκα
+  e: boat
+  p: noun
+  a: η
+- g: η ευρώπη
+  e: Europe
+  p: noun
+  a: η
+- g: η αυστραλία
+  e: Australia
+  p: noun
+  a: η
+- g: η αγγλία
+  e: England
+  p: noun
+  a: η
+- g: η περιπέτεια
+  e: adventure
+  p: noun
+  a: η
+- g: η ακολούθησα
+  e: (I) followed
+  p: noun
+  a: η
+- g: η θυμήθηκα
+  e: (I) remembered
+  p: noun
+  a: η
+- g: η ρώτησα
+  e: (I) asked
+  p: noun
+  a: η
+- g: αγάπησε
+  e: (it) loved
+  p: noun
+- g: η πρόσθεσα
+  e: (I) added
+  p: noun
+  a: η
+- g: μου άρεσε
+  e: I liked (it)
+  p: noun
+- g: η ένιωσα
+  e: (I) felt
+  p: noun
+  a: η
+- g: η έφυγα
+  e: (I) left
+  p: noun
+  a: η
+- g: ήξερε
+  e: (it) knew
+  p: noun
+- g: ο καλύτερος
+  e: best
+  p: noun
+  a: ο
+- g: ο μεγαλύτερος
+  e: bigger
+  p: noun
+  a: ο
+- g: το μακρύτερο
+  e: longer
+  p: noun
+  a: το
+- g: η μικρότερη
+  e: smaller
+  p: noun
+  a: η
+- g: ο μέγιστος
+  e: maximum
+  p: noun
+  a: ο
+- g: ο φθηνότερος
+  e: cheaper
+  p: noun
+  a: ο
+- g: ο απλούστερος
+  e: simplest
+  p: noun
+  a: ο
+- g: ο γρηγορότερος
+  e: faster
+  p: noun
+  a: ο
+- g: ο δυσκολότερος
+  e: harder
+  p: noun
+  a: ο
+- g: το παλαιότερο
+  e: older
+  p: noun
+  a: το
+- g: ο νεότατος
+  e: youngest, newest
+  p: noun
+  a: ο
+- g: πιο φθηνός
+  e: cheapest
+  p: noun
+- g: ο νεότερος
+  e: younger, newer
+  p: noun
+  a: ο
+- g: ο τεράστιος
+  e: huge
+  p: noun
+  a: ο
+- g: τριπλός
+  e: triple
+  p: noun
+- g: η κιλά
+  e: kilos
+  p: noun
+  a: η
+- g: μίλι
+  e: mile
+  p: noun
+- g: ζυγίζω
+  e: (I) weigh
+  p: verb
+  conj:
+    future: {1p: θα ζυγίσουμε, 1s: θα ζυγίσω, 2p: θα ζυγίσετε, 2s: θα ζυγίσεις, 3p: θα
+        ζυγίσουν, 3s: θα ζυγίσει}
+    past: {1p: ζυγίσαμε, 1s: ζύγισα, 2p: ζυγίσατε, 2s: ζύγισες, 3p: ζύγισαν, 3s: ζύγισε}
+    present: {1p: ζυγίζουμε, 1s: ζυγίζω, 2p: ζυγίζετε, 2s: ζυγίζεις, 3p: ζυγίζουν,
+      3s: ζυγίζει}
+- g: τόνοι
+  e: tonnes
+  p: noun
+- g: ο πλάτος
+  e: width (n)
+  p: noun
+  a: ο
+- g: εκατοστό
+  e: centimetre
+  p: noun
+- g: το γραμμάριο
+  e: gram
+  p: noun
+  a: το
+- g: ο μήκος
+  e: length (n)
+  p: noun
+  a: ο
+- g: ο μεγάλος
+  e: big
+  p: noun
+  a: ο
+- g: η μέτρα
+  e: metres
+  p: noun
+  a: η
+- g: το χιλιόμετρο
+  e: kilometre
+  p: noun
+  a: το
+- g: πλατύς
+  e: wide
+  p: noun
+- g: διπλός
+  e: double
+  p: noun
+- g: το λίτρο
+  e: litre
+  p: noun
+  a: το
+- g: μεταπτυχιακό
+  e: postgraduate
+  p: noun
+- g: το κεφάλαιο
+  e: chapter
+  p: noun
+  a: το
+- g: διδακτορικό
+  e: doctorate
+  p: noun
+- g: ο σπουδές
+  e: studies
+  p: noun
+  a: ο
+- g: η διάλεξη
+  e: lecture
+  p: noun
+  a: η
+- g: η παρουσίαση
+  e: presentation (speech)
+  p: noun
+  a: η
+- g: η διδασκαλία
+  e: teaching
+  p: noun
+  a: η
+- g: το εξάμηνο
+  e: semester
+  p: noun
+  a: το
+- g: ο στόχος
+  e: objective
+  p: noun
+  a: ο
+- g: το ινστιτούτο
+  e: institute
+  p: noun
+  a: το
+- g: τεστ
+  e: test
+  p: noun
+- g: γνώσεις
+  e: knowledge
+  p: noun
+- g: το κολλέγιο
+  e: college
+  p: noun
+  a: το
+- g: το πρόγραμμα
+  e: program (n)
+  p: noun
+  a: το
+- g: η προτάση
+  e: sentence, proposal
+  p: noun
+  a: η
+- g: η ιστορία
+  e: history, story
+  p: noun
+  a: η
+- g: το παράδειγμα
+  e: example (n)
+  p: noun
+  a: το
+- g: το έγγραφο
+  e: document
+  p: noun
+  a: το
+- g: η σελίδα
+  e: page
+  p: noun
+  a: η
+- g: η ιδέα
+  e: idea
+  p: noun
+  a: η
+- g: η εκπαίδευση
+  e: education
+  p: noun
+  a: η
+- g: παραμύθι
+  e: fairy tale, story
+  p: noun
+  a: το
+- g: ο δάσκαλος
+  e: school teacher (primary, elementary)
+  p: noun
+  a: ο
+- g: το ποίημα
+  e: poem (n)
+  p: noun
+  a: το
+- g: η ευγένεια
+  e: courtesy
+  p: noun
+  a: η
+- g: η λίστα
+  e: list
+  p: noun
+  a: η
+- g: ευρωπαϊκή
+  e: european
+  p: noun
+- g: ο λάθος
+  e: error (n)
+  p: noun
+  a: ο
+- g: η λύση
+  e: solution
+  p: noun
+  a: η
+- g: προφίλ
+  e: profile
+  p: noun
+- g: η ένωση
+  e: union
+  p: noun
+  a: η
+- g: η άκρη
+  e: edge
+  p: noun
+  a: η
+- g: η πλευρά
+  e: side
+  p: noun
+  a: η
+- g: ο θάνατος
+  e: death
+  p: noun
+  a: ο
+- g: το υποκείμενο
+  e: subject
+  p: noun
+  a: το
+- g: σκοτάδι
+  e: darkness
+  p: noun
+- g: η συμφωνία
+  e: agreement
+  p: noun
+  a: η
+- g: παραγωγή
+  e: production
+  p: noun
+- g: η νέα
+  e: news (current events)
+  p: noun
+  a: η
+- g: η ξεκούραση
+  e: rest
+  p: noun
+  a: η
+- g: η περίπτωση
+  e: situation
+  p: noun
+  a: η
+- g: η επιτυχία
+  e: success
+  p: noun
+  a: η
+- g: φωνή
+  e: voice
+  p: noun
+- g: ρεκόρ
+  e: record (n)
+  p: noun
+- g: εξοπλισμός
+  e: equipment
+  p: noun
+- g: το βραβείο
+  e: prize
+  p: noun
+  a: το
+- g: η εικόνα
+  e: image
+  p: noun
+  a: η
+- g: κατασκευή
+  e: construction
+  p: noun
+- g: η ευκαιρία
+  e: opportunity
+  p: noun
+  a: η
+- g: το σύστημα
+  e: system (n)
+  p: noun
+  a: το
+- g: το πρόβλημα
+  e: problem (n)
+  p: noun
+  a: το
+- g: η χρέωση
+  e: charge
+  p: noun
+  a: η
+- g: το αποτέλεσμα
+  e: result (n)
+  p: noun
+  a: το
+- g: η κατηγορία
+  e: category
+  p: noun
+  a: η
+- g: η θέα
+  e: view (scene)
+  p: noun
+  a: η
+- g: ο μέλος
+  e: member (n)
+  p: noun
+  a: ο
+- g: ευχή
+  e: wish
+  p: noun
+- g: περιγραφή
+  e: description
+  p: noun
+- g: επιλογή
+  e: choice
+  p: noun
+- g: η δραστηριότητα
+  e: activity
+  p: noun
+  a: η
+- g: ο είσοδος
+  e: entrance
+  p: noun
+  a: ο
+- g: το περιεχόμενο
+  e: content
+  p: noun
+  a: το
+- g: η προστασία
+  e: protection
+  p: noun
+  a: η
+- g: εισαγωγή
+  e: introduction
+  p: noun
+- g: έχω ακούσει
+  e: (I) have heard
+  p: noun
+- g: έχω αγαπήσει
+  e: (I) have loved
+  p: noun
+- g: έχω ακολουθήσει
+  e: (I) have followed
+  p: noun
+- g: έχω κάνει
+  e: (I) have done, (I) have made
+  p: noun
+- g: έχω δώσει
+  e: (I) have given
+  p: noun
+- g: έχω σταματήσει
+  e: (I) have stopped
+  p: noun
+- g: έχω δει
+  e: (I) have seen
+  p: noun
+- g: έχω φάει
+  e: (I) have eaten
+  p: noun
+- g: έχω νικήσει
+  e: (I) have won
+  p: noun
+- g: έχω πάει
+  e: (I) have gone
+  p: noun
+- g: έχω φύγει
+  e: (I) have left
+  p: noun
+- g: έχω πάρει
+  e: (I) have gotten
+  p: noun
+- g: έχω έρθει
+  e: (I) have come
+  p: noun
+- g: έχω τελειώσει
+  e: (I) have finished
+  p: noun
+- g: έχω χρησιμοποιήσει
+  e: (I) have used
+  p: noun
+- g: έχω γράψει
+  e: (I) have written
+  p: noun
+- g: έχω απαντήσει
+  e: (I) have answered
+  p: noun
+- g: έχω πει
+  e: (I) have said
+  p: noun
+- g: έχω γίνει
+  e: (I) have become
+  p: noun
+- g: έχω μιλήσει
+  e: (I) have spoken
+  p: noun
+- g: έχω παίξει
+  e: (I) have played
+  p: noun
+- g: έχω βρει
+  e: (I) have found
+  p: noun
+- g: έχω μαγειρέψει
+  e: (I) have cooked
+  p: noun
+- g: η θρησκεία
+  e: religion
+  p: noun
+  a: η
+- g: το ψέμα
+  e: lie (n)
+  p: noun
+  a: το
+- g: ο μίσος
+  e: hate (n)
+  p: noun
+  a: ο
+- g: η αλήθεια
+  e: truth
+  p: noun
+  a: η
+- g: η εμπειρία
+  e: experience
+  p: noun
+  a: η
+- g: η ευθύνη
+  e: responsibility
+  p: noun
+  a: η
+- g: η κατάσταση
+  e: condition
+  p: noun
+  a: η
+- g: η συζήτηση
+  e: conversation
+  p: noun
+  a: η
+- g: μυστικό
+  e: secret
+  p: noun
+- g: η σκιά
+  e: shadow
+  p: noun
+  a: η
+- g: ο έξοδος
+  e: exit (f)
+  p: noun
+  a: ο
+- g: σεβασμός
+  e: respect
+  p: noun
+- g: ντελίβερι
+  e: delivery
+  p: noun
+- g: ο τίτλος
+  e: title
+  p: noun
+  a: ο
+- g: η πραγματικότητα
+  e: reality
+  p: noun
+  a: η
+- g: η δράση
+  e: action
+  p: noun
+  a: η
+- g: ο όφελος
+  e: benefit (n)
+  p: noun
+  a: ο
+- g: η κατεύθυνση
+  e: direction
+  p: noun
+  a: η
+- g: η δύναμη
+  e: strength
+  p: noun
+  a: η
+- g: η θέση
+  e: position
+  p: noun
+  a: η
+- g: η κίνηση
+  e: traffic
+  p: noun
+  a: η
+- g: η πίστη
+  e: faith
+  p: noun
+  a: η
+- g: η συμπεριφορά
+  e: behaviour
+  p: noun
+  a: η
+- g: ο πόθος
+  e: desire
+  p: noun
+  a: ο
+- g: η πιθανότητα
+  e: possibility
+  p: noun
+  a: η
+- g: το σχήμα
+  e: shape (n)
+  p: noun
+  a: το
+- g: η απόφαση
+  e: decision
+  p: noun
+  a: η
+- g: η ευχαρίστηση
+  e: pleasure
+  p: noun
+  a: η
+- g: το σύμβολο
+  e: symbol
+  p: noun
+  a: το
+- g: η ζημιά
+  e: damage
+  p: noun
+  a: η
+- g: το διάστημα
+  e: space (n)
+  p: noun
+  a: το
+- g: υπογραφή
+  e: signature
+  p: noun
+- g: η προέλευση
+  e: origin
+  p: noun
+  a: η
+- g: ο θόρυβος
+  e: noise
+  p: noun
+  a: ο
+- g: το σύνθημα
+  e: cue (n)
+  p: noun
+  a: το
+- g: η προσπάθεια
+  e: try (attempt)
+  p: noun
+  a: η
+- g: σκοπός
+  e: purpose
+  p: noun
+- g: η φράση
+  e: phrase
+  p: noun
+  a: η
+- g: αμφιβολίες
+  e: doubts
+  p: noun
+- g: η μνήμη
+  e: memory
+  p: noun
+  a: η
+- g: χιούμορ
+  e: humour (n)
+  p: noun
+- g: ο χαρακτήρας
+  e: character
+  p: noun
+  a: ο
+- g: ενδιαφέρον
+  e: interest (n)
+  p: noun
+- g: η ακολουθία
+  e: order
+  p: noun
+  a: η
+- g: η καλλιέργεια
+  e: cultivation
+  p: noun
+  a: η
+- g: φυτό
+  e: plant
+  p: noun
+- g: καιρός
+  e: weather
+  p: noun
+- g: η σκόνη
+  e: dust
+  p: noun
+  a: η
+- g: ο κόσμος
+  e: world
+  p: noun
+  a: ο
+- g: ο κάμπος
+  e: plain
+  p: noun
+  a: ο
+- g: ο δάσος
+  e: forest (n)
+  p: noun
+  a: ο
+- g: το φύλλο
+  e: leaf
+  p: noun
+  a: το
+- g: το κλίμα
+  e: climate (n)
+  p: noun
+  a: το
+- g: αστέρι
+  e: star
+  p: noun
+- g: ο τυφώνας
+  e: hurricane
+  p: noun
+  a: ο
+- g: φεγγάρι
+  e: moon
+  p: noun
+- g: περιβάλλον
+  e: environment (n)
+  p: noun
+- g: χωράφι
+  e: field (land)
+  p: noun
+- g: σεισμός
+  e: earthquake
+  p: noun
+- g: καπνός
+  e: smoke
+  p: noun
+- g: η γη
+  e: land
+  p: noun
+  a: η
+- g: η πλημμύρα
+  e: flood
+  p: noun
+  a: η
+- g: η φωτιά
+  e: fire
+  p: noun
+  a: η
+- g: γρασίδι
+  e: grass
+  p: noun
+- g: το τριαντάφυλλο
+  e: rose
+  p: noun
+  a: το
+- g: πλανήτης
+  e: planet
+  p: noun
+- g: η ηφαίστεια
+  e: volcano
+  p: noun
+  a: η
+- g: ουρανός
+  e: sky
+  p: noun
+- g: ο γαλαξίας
+  e: galaxy
+  p: noun
+  a: ο
+- g: ο άμμος
+  e: sand (f)
+  p: noun
+  a: ο
+- g: το τοπίο
+  e: landscape
+  p: noun
+  a: το
+- g: η πέτρα
+  e: stone
+  p: noun
+  a: η
+- g: ποτάμι
+  e: river
+  p: noun
+- g: βουνό
+  e: mountain
+  p: noun
+- g: σύμπαν
+  e: universe (n)
+  p: noun
+- g: το ξύλο
+  e: wood
+  p: noun
+  a: το
+- g: βροχή
+  e: rain
+  p: noun
+- g: η χιονοστιβάδα
+  e: avalanche
+  p: noun
+  a: η
+- g: είχα τελειώσει
+  e: (I) had finished
+  p: noun
+- g: είχα παίξει
+  e: (I) had played
+  p: noun
+- g: είχα χρησιμοποιήσει
+  e: (I) had used
+  p: noun
+- g: είχα απαντήσει
+  e: (I) had answered
+  p: noun
+- g: είχα μιλήσει
+  e: (I) had spoken
+  p: noun
+- g: είχα μαγειρέψει
+  e: (I) had cooked
+  p: noun
+- g: είχα δώσει
+  e: (I) had given
+  p: noun
+- g: είχα σταματήσει
+  e: (I) had stopped
+  p: noun
+- g: είχα πάει
+  e: (I) had gone
+  p: noun
+- g: είχα έρθει
+  e: (I) had come
+  p: noun
+- g: είχα φάει
+  e: (I) had eaten
+  p: noun
+- g: είχα δει
+  e: (I) had seen
+  p: noun
+- g: είχα πει
+  e: (I) had said
+  p: noun
+- g: είχα γράψει
+  e: (I) had written
+  p: noun
+- g: είχα ακολουθήσει
+  e: (I) had followed
+  p: noun
+- g: είχα ακούσει
+  e: (I) had heard
+  p: noun
+- g: είχα βρει
+  e: (I) had found
+  p: noun
+- g: είχα πάρει
+  e: (I) had taken
+  p: noun
+- g: είχα νικήσει
+  e: (I) had won
+  p: noun
+- g: είχε κάνει
+  e: (it) had done, (it) had made
+  p: noun
+- g: είχα φύγει
+  e: (I) had left
+  p: noun
+- g: είχε γίνει
+  e: (it) had become
+  p: noun
+- g: τον εαυτό μου
+  e: myself [acc.]
+  p: noun
+- g: η ίδια
+  e: herself
+  p: noun
+  a: η
+- g: ο εαυτός σου
+  e: yourself
+  p: noun
+  a: ο
+- g: τους εαυτούς μας
+  e: ourselves [acc.]
+  p: noun
+  a: τους
+- g: εμείς οι ίδιοι
+  e: (we) ourselves
+  p: noun
+- g: αυτοί οι ίδιοι
+  e: (they) themselves
+  p: noun
+- g: εσείς οι ίδιοι
+  e: (you) yourselves
+  p: noun
+- g: του εαυτού του
+  e: himself [gen.]
+  p: noun
+- g: το ίδιο
+  e: itself
+  p: noun
+  a: το
+- g: ο εγώ ο ίδιος
+  e: (I) myself
+  p: noun
+  a: ο
+- g: στρίβω
+  e: (I) turn
+  p: verb
+  conj:
+    future: {1p: θα στρίψουμε, 1s: θα στρίψω, 2p: θα στρίψετε, 2s: θα στρίψεις, 3p: θα
+        στρίψουν, 3s: θα στρίψει}
+    past: {1p: στρίψαμε, 1s: έστριψα, 2p: στρίψατε, 2s: έστριψες, 3p: έστριψα, 3s: έστριψε}
+    present: {1p: στρίβουμε, 1s: στρίβω, 2p: στρίβετε, 2s: στρίβεις, 3p: στρίβουν,
+      3s: στρίβει}
+- g: η απόσταση
+  e: distance
+  p: noun
+  a: η
+- g: η δύση
+  e: west
+  p: noun
+  a: η
+- g: η πυξίδα
+  e: compass
+  p: noun
+  a: η
+- g: το τέρμα
+  e: end (n)
+  p: noun
+  a: το
+- g: ο νότος
+  e: south [noun]
+  p: noun
+  a: ο
+- g: η βόρεια
+  e: north [adv.]
+  p: noun
+  a: η
+- g: η αριστερά
+  e: left (direction)
+  p: noun
+  a: η
+- g: η ευθεία
+  e: straight
+  p: noun
+  a: η
+- g: ανατολή
+  e: east
+  p: noun
+- g: η νότια
+  e: south [adv.]
+  p: noun
+  a: η
+- g: διπλανός
+  e: next (adjacent)
+  p: noun
+- g: απέναντι
+  e: opposite (position)
+  p: noun
+- g: αρχή
+  e: start
+  p: noun
+- g: μπροστινός
+  e: in front
+  p: noun
+- g: να σκέφτομαι
+  e: thinking
+  p: verb
+  conj:
+    future: {1p: θα σκεφτούμε, 1s: θα σκεφτώ, 2p: θα σκεφτείτε, 2s: θα σκεφτείς, 3p: θα
+        σκεφτούν, 3s: θα σκεφτεί}
+    past: {1p: σκεφτήκαμε, 1s: σκέφτηκα, 2p: σκεφτήκατε, 2s: σκέφτηκες, 3p: σκέφτηκαν,
+      3s: σκέφτηκε}
+    present: {1p: σκεφτόμαστε, 1s: σκέφτομαι, 2p: σκέφτεστε, 2s: σκέφτεσαι, 3p: σκέφτονται,
+      3s: σκέφτεται}
+- g: να κάνω
+  e: doing, making
+  p: verb
+  conj:
+    future: {1p: θα κάνουμε, 1s: θα κάνω, 2p: θα κάνετε, 2s: θα κάνεις, 3p: θα κάνουν,
+      3s: θα κάνει}
+    past: {1p: κάναμε, 1s: έκανα, 2p: κάνατε, 2s: έκανες, 3p: έκαναν, 3s: έκανε}
+    present: {1p: κάνουμε, 1s: κάνω, 2p: κάνετε, 2s: κάνεις, 3p: κάνουν, 3s: κάνει}
+- g: να περπατώ
+  e: walking
+  p: verb
+  conj:
+    future: {1p: θα περπατήσουμε, 1s: θα περπατήσω, 2p: θα περπατήσετε, 2s: θα περπατήσεις,
+      3p: θα περπατήσουν, 3s: θα περπατήσει}
+    past: {1p: περπατήσαμε, 1s: περπάτησα, 2p: περπατήσατε, 2s: περπάτησες, 3p: περπάτησαν,
+      3s: περπάτησε}
+    present: {1p: περπατούμε, 1s: περπατώ, 2p: περπατάτε, 2s: περπατάς, 3p: περπατούν,
+      3s: περπατά}
+- g: να μιλώ
+  e: speaking
+  p: verb
+  conj:
+    future: {1p: θα μιλήσουμε, 1s: θα μιλήσω, 2p: θα μιλήσετε, 2s: θα μιλήσεις, 3p: θα
+        μιλήσουν, 3s: θα μιλήσει}
+    past: {1p: μιλήσαμε, 1s: μίλησα, 2p: μιλήσατε, 2s: μίλησες, 3p: μίλησαν, 3s: μίλησε}
+    present: {1p: μιλούμε, 1s: μιλώ, 2p: μιλάτε, 2s: μιλάς, 3p: μιλούν, 3s: μιλά}
+- g: να έχω
+  e: having
+  p: verb
+  conj:
+    present: {1p: έχουμε, 1s: έχω, 2p: έχετε, 2s: έχεις, 3p: έχουν, 3s: έχει}
+- g: να γράφει
+  e: writing
+  p: noun
+- g: να διαβάζω
+  e: reading
+  p: verb
+  conj:
+    future: {1p: θα διαβάσουμε, 1s: θα διαβάσω, 2p: θα διαβάσετε, 2s: θα διαβάσεις,
+      3p: θα διαβάσουν, 3s: θα διαβάσει}
+    past: {1p: διαβάσαμε, 1s: διάβασα, 2p: διαβάσατε, 2s: διάβασες, 3p: διάβασαν,
+      3s: διάβασε}
+    present: {1p: διαβάζουμε, 1s: διαβάζω, 2p: διαβάζετε, 2s: διαβάζεις, 3p: διαβάζουν,
+      3s: διαβάζει}
+- g: να τρώω
+  e: eating
+  p: verb
+  conj:
+    future: {1p: θα φάμε, 1s: θα φάω, 2p: θα φάτε, 2s: θα φας, 3p: θα φάνε, 3s: θα
+        φάει}
+    past: {1p: φάγαμε, 1s: έφαγα, 2p: φάγατε, 2s: έφαγες, 3p: έφαγαν, 3s: έφαγε}
+    present: {1p: τρώμε, 1s: τρώω, 2p: τρώτε, 2s: τρως, 3p: τρώνε, 3s: τρώει}
+- g: να δίνει
+  e: giving
+  p: noun
+- g: να πηγαίνω
+  e: going
+  p: verb
+  conj:
+    future: {1p: θα πάμε, 1s: θα πάω, 2p: θα πάτε, 2s: θα πας, 3p: θα πάνε, 3s: θα
+        πάει}
+    past: {1p: πήγαμε, 1s: πήγα, 2p: πήγατε, 2s: πήγες, 3p: πήγαν, 3s: πήγε}
+    present: {1p: πάμε, 1s: πηγαίνο, 2p: πάτε, 2s: πας, 3p: πάνε, 3s: πάει}
+- g: να κοιμάται
+  e: sleeping
+  p: noun
+- g: να αγγίζω
+  e: touching
+  p: verb
+  conj:
+    future: {1p: θα αγγίξουμε, 1s: θα αγγίξω, 2p: θα αγγίξετε, 2s: θα αγγίξεις, 3p: θα
+        αγγίξουν, 3s: θα αγγίξει}
+    past: {1p: αγγίξαμε, 1s: άγγιξα, 2p: αγγίξατε, 2s: άγγιξες, 3p: άγγιξαν, 3s: άγγιξε}
+    present: {1p: αγγίζουμε, 1s: αγγίζω, 2p: αγγίζετε, 2s: αγγίζεις, 3p: αγγίζουν,
+      3s: αγγίζει}
+- g: να περιμένει
+  e: waiting
+  p: noun
+- g: η να σταμάτα
+  e: stopping
+  p: noun
+  a: η
+- g: να προσπαθώ
+  e: trying
+  p: verb
+  conj:
+    future: {1p: θα προσπαθήσουμε, 1s: θα προσπαθήσω, 2p: θα προσπαθήσετε, 2s: θα
+        προσπαθήσεις, 3p: θα προσπαθήσουν, 3s: θα προσπαθήσει}
+    past: {1p: προσπαθήσαμε, 1s: προσπάθησα, 2p: προσπαθήσατε, 2s: προσπάθησες, 3p: προσπάθησαν,
+      3s: προσπάθησε}
+    present: {1p: προσπαθούμε, 1s: προσπαθώ, 2p: προσπαθείτε, 2s: προσπαθείς, 3p: προσπαθούν,
+      3s: προσπαθεί}
+- g: σκοράρω
+  e: (I) score
+  p: verb
+- g: το γήπεδο
+  e: field (sport)
+  p: noun
+  a: το
+- g: τένις
+  e: tennis
+  p: noun
+- g: η πάσα
+  e: pass
+  p: noun
+  a: η
+- g: η κλωτσά
+  e: (it) kicks
+  p: noun
+  a: η
+- g: ο πόντος
+  e: point (score)
+  p: noun
+  a: ο
+- g: ο φίλαθλος
+  e: (sports) fan
+  p: noun
+  a: ο
+- g: γκολ
+  e: goal (n)
+  p: noun
+- g: παίκτης
+  e: player
+  p: noun
+- g: η επίθεση
+  e: attack
+  p: noun
+  a: η
+- g: το άθλημα
+  e: sport (n)
+  p: noun
+  a: το
+- g: ο διαιτητής
+  e: referee
+  p: noun
+  a: ο
+- g: σουτ
+  e: shot (goal attempt)
+  p: noun
+- g: το πρωτάθλημα
+  e: championship (n)
+  p: noun
+  a: το
+- g: ο πολυτιμότερος
+  e: most valuable
+  p: noun
+  a: ο
+- g: δίχτυ
+  e: net
+  p: noun
+- g: ολυμπιακοί αγώνες
+  e: Olympic Games
+  p: noun
+- g: το βήμα
+  e: step (n)
+  p: noun
+  a: το
+- g: ο αθλητής
+  e: athlete
+  p: noun
+  a: ο
+- g: η πετοσφαίριση
+  e: volleyball
+  p: noun
+  a: η
+- g: αρχηγός
+  e: leader
+  p: noun
+- g: το οπαδοί
+  e: fans, followers
+  p: noun
+  a: το
+- g: χάντμπολ
+  e: handball (n)
+  p: noun
+- g: μπάσκετ
+  e: basketball (n)
+  p: noun
+- g: ο προπονητής
+  e: coach
+  p: noun
+  a: ο
+- g: η αθλητικά
+  e: athletic
+  p: noun
+  a: η
+- g: το κύπελλο
+  e: cup (trophy)
+  p: noun
+  a: το
+- g: γκολφ
+  e: golf (n)
+  p: noun
+- g: η άμυνα
+  e: defence
+  p: noun
+  a: η
+- g: η μπάλα
+  e: ball
+  p: noun
+  a: η
+- g: το βιολί
+  e: violin
+  p: noun
+  a: το
+- g: η ποίηση
+  e: poetry
+  p: noun
+  a: η
+- g: η τέχνη
+  e: art
+  p: noun
+  a: η
+- g: συλλογή
+  e: collection
+  p: noun
+- g: το άγαλμα
+  e: statue (n)
+  p: noun
+  a: το
+- g: ο ήχος
+  e: sound
+  p: noun
+  a: ο
+- g: ο ζωγράφος
+  e: painter (artist)
+  p: noun
+  a: ο
+- g: διαγωνισμός
+  e: contest
+  p: noun
+- g: πολιτισμός
+  e: culture (artistic, intellectual)
+  p: noun
+- g: το φλάουτο
+  e: flute
+  p: noun
+  a: το
+- g: η φυσαρμόνικα
+  e: harmonica
+  p: noun
+  a: η
+- g: η λύρα
+  e: lyre
+  p: noun
+  a: η
+- g: η λογοτεχνία
+  e: literature
+  p: noun
+  a: η
+- g: η νότα
+  e: (musical) note
+  p: noun
+  a: η
+- g: το πεζογράφημα
+  e: prose (n)
+  p: noun
+  a: το
+- g: μουσική
+  e: music
+  p: noun
+- g: χορός
+  e: dance
+  p: noun
+- g: το μουσικό όργανο
+  e: musical instrument
+  p: noun
+  a: το
+- g: η πρόβα
+  e: rehersal
+  p: noun
+  a: η
+- g: η ορχήστρα
+  e: orchestra
+  p: noun
+  a: η
+- g: η έκθεση
+  e: exhibition
+  p: noun
+  a: η
+- g: παρακολουθώ
+  e: (I) watch
+  p: verb
+  conj:
+    future: {1p: θα παρακολουθήσουμε, 1s: θα παρακολουθήσω, 2p: θα παρακολουθήσετε,
+      2s: θα παρακολουθήσεις, 3p: θα παρακολουθήσουν, 3s: θα παρακολουθήσει}
+    past: {1p: παρακολουθήσαμε, 1s: παρακολούθησα, 2p: παρακολουθήσατε, 2s: παρακολούθησες,
+      3p: παρακολούθησαν, 3s: παρακολούθησε}
+    present: {1p: παρακολουθούμε, 1s: παρακολουθώ, 2p: παρακολουθείτε, 2s: παρακολουθείς,
+      3p: παρακολουθούν, 3s: παρακολουθεί}
+- g: το θεατρικό έργο
+  e: theatrical play
+  p: noun
+  a: το
+- g: η όπερα
+  e: opera
+  p: noun
+  a: η
+- g: ζωγραφική
+  e: painting (creation of)
+  p: noun
+- g: ο πίνακας
+  e: painting (work of art)
+  p: noun
+  a: ο
+- g: η κάμερα
+  e: camera
+  p: noun
+  a: η
+- g: το πιάνο
+  e: piano
+  p: noun
+  a: το
+- g: τραγούδι
+  e: song
+  p: noun
+- g: η κιθάρα
+  e: guitar
+  p: noun
+  a: η
+- g: το δίκτυο
+  e: network
+  p: noun
+  a: το
+- g: η πληροφορία
+  e: information
+  p: noun
+  a: η
+- g: κανάλι
+  e: channel
+  p: noun
+- g: η επικοινωνία
+  e: communication
+  p: noun
+  a: η
+- g: η αναζήτηση
+  e: search
+  p: noun
+  a: η
+- g: το κείμενο
+  e: text
+  p: noun
+  a: το
+- g: ο δημοσιογράφος
+  e: journalist
+  p: noun
+  a: ο
+- g: το σχόλιο
+  e: comment
+  p: noun
+  a: το
+- g: το γραμματόσημο
+  e: (postage) stamp
+  p: noun
+  a: το
+- g: η γλώσσα
+  e: language, tongue
+  p: noun
+  a: η
+- g: επιστολή
+  e: letter [formal]
+  p: noun
+- g: ο διάλογος
+  e: dialogue
+  p: noun
+  a: ο
+- g: η ταχυδρομική κάρτα
+  e: postcard
+  p: noun
+  a: η
+- g: η βοήθεια
+  e: help (aid)
+  p: noun
+  a: η
+- g: ιός
+  e: virus
+  p: noun
+- g: μάτι
+  e: eye
+  p: noun
+- g: το μαλλί
+  e: hair
+  p: noun
+  a: το
+- g: η θεραπεία
+  e: treatment
+  p: noun
+  a: η
+- g: η δάχτυλα
+  e: fingers
+  p: noun
+  a: η
+- g: ο καρκίνος
+  e: cancer
+  p: noun
+  a: ο
+- g: το πρόσωπο
+  e: face
+  p: noun
+  a: το
+- g: κεφάλι
+  e: head
+  p: noun
+- g: η χείλη
+  e: lips
+  p: noun
+  a: η
+- g: χέρι
+  e: hand
+  p: noun
+- g: το ασθενοφόρο
+  e: ambulance
+  p: noun
+  a: το
+- g: η φροντίδα
+  e: care (support)
+  p: noun
+  a: η
+- g: ο εγκέφαλος
+  e: brain
+  p: noun
+  a: ο
+- g: το σώμα
+  e: body (n)
+  p: noun
+  a: το
+- g: το αίμα
+  e: blood (n)
+  p: noun
+  a: το
+- g: ο στήθος
+  e: chest (n)
+  p: noun
+  a: ο
+- g: η δίαιτα
+  e: diet
+  p: noun
+  a: η
+- g: η αυτιά
+  e: ears
+  p: noun
+  a: η
+- g: η όραση
+  e: eyesight, vision
+  p: noun
+  a: η
+- g: κλινική
+  e: clinic
+  p: noun
+- g: το δέρμα
+  e: skin (n)
+  p: noun
+  a: το
+- g: ο άρρωστος
+  e: sick
+  p: noun
+  a: ο
+- g: η ανάγκη
+  e: need
+  p: noun
+  a: η
+- g: η πόδια
+  e: legs, feet
+  p: noun
+  a: η
+- g: δόντι
+  e: tooth
+  p: noun
+- g: θα ξεκινήσω
+  e: (I) will start
+  p: verb
+- g: θα ακολουθήσω
+  e: (I) will follow
+  p: verb
+- g: θα παίξω
+  e: (I) will play
+  p: verb
+- g: θα μαγειρέψω
+  e: (I) will cook
+  p: verb
+- g: θα νικήσω
+  e: (I) will win
+  p: verb
+- g: θα πω
+  e: (I) will say
+  p: verb
+- g: θα χρησιμοποιήσω
+  e: (I) will use
+  p: verb
+- g: θα φάω
+  e: (I) will eat
+  p: verb
+- g: θα πάω
+  e: (I) will go
+  p: verb
+  conj:
+    future: {1p: θα πάμε, 1s: θα πάω, 2p: θα πάτε, 2s: θα πας, 3p: θα πάνε, 3s: θα
+        πάει}
+    past: {1p: πήγαμε, 1s: πήγα, 2p: πήγατε, 2s: πήγες, 3p: πήγαν, 3s: πήγε}
+    present: {1p: πάμε, 1s: πάω, 2p: πάτε, 2s: πας, 3p: πάνε, 3s: πάει}
+- g: θα κάνω
+  e: (I) will do, (I) will make
+  p: verb
+  conj:
+    future: {1p: θα κάνουμε, 1s: θα κάνω, 2p: θα κάνετε, 2s: θα κάνεις, 3p: θα κάνουν,
+      3s: θα κάνει}
+    past: {1p: κάναμε, 1s: έκανα, 2p: κάνατε, 2s: έκανες, 3p: έκαναν, 3s: έκανε}
+    present: {1p: κάνουμε, 1s: κάνω, 2p: κάνετε, 2s: κάνεις, 3p: κάνουν, 3s: κάνει}
+- g: θα έρθω
+  e: (I) will come
+  p: verb
+- g: θα είμαι
+  e: (I) will be
+  p: verb
+  conj:
+    present: {1p: είμαστε, 1s: είμαι, 2p: είστε, 2s: είσαι, 3p: είναι, 3s: είναι}
+- g: θα δώσω
+  e: (I) will give
+  p: verb
+- g: θα γίνω
+  e: (I) will become
+  p: verb
+- g: θα μιλήσω
+  e: (I) will speak
+  p: verb
+- g: θα φύγω
+  e: (I) will leave
+  p: verb
+- g: θα απαντήσω
+  e: (I) will answer
+  p: verb
+- g: θα δω
+  e: (I) will see
+  p: verb
+- g: θα γράψω
+  e: (I) will write
+  p: verb
+- g: θα βρω
+  e: (I) will find
+  p: verb
+- g: πρόκειται να πιώ
+  e: (I am) going to drink
+  p: verb
+- g: πρόκειται να περιμένω
+  e: (I am) going to wait
+  p: verb
+- g: πρόκειται να διαβάσω
+  e: (I am) going to read
+  p: verb
+- g: πρόκειται να βρω
+  e: (I am) going to find
+  p: verb
+- g: πρόκειται να είμαι
+  e: (I am) going to be
+  p: verb
+- g: πρόκειται να πάω
+  e: (I am) going to say
+  p: verb
+- g: πρόκειται να γράψω
+  e: (I am) going to write
+  p: verb
+- g: πρόκειται να υποστηρίξω
+  e: (I am) going to support
+  p: verb
+- g: πρόκειται να φύγω
+  e: (I am) going to leave
+  p: verb
+- g: πρόκειται να βοηθήσω
+  e: (I am) going to help
+  p: verb
+- g: πρόκειται να φάω
+  e: (I am) going to eat
+  p: verb
+- g: πρόκειται να αγοράσω
+  e: (I am) going to buy
+  p: verb
+- g: πρόκειται να δω
+  e: (I am) going to see
+  p: verb
+- g: μαϊμού
+  e: monkey (f)
+  p: noun
+- g: η φάλαινα
+  e: whale
+  p: noun
+  a: η
+- g: ο αλιγάτορας
+  e: alligator
+  p: noun
+  a: ο
+- g: χταπόδι
+  e: octopus
+  p: noun
+- g: σαλιγκάρι
+  e: snail
+  p: noun
+- g: ο κροκόδειλος
+  e: crocodile
+  p: noun
+  a: ο
+- g: φίδι
+  e: snake
+  p: noun
+- g: κουνέλι
+  e: rabbit
+  p: noun
+- g: δελφίνι
+  e: dolphin
+  p: noun
+- g: γουρούνι
+  e: pig
+  p: noun
+- g: το πρόβατο
+  e: sheep
+  p: noun
+  a: το
+- g: ο καρχαρίας
+  e: shark
+  p: noun
+  a: ο
+- g: ο βάτραχος
+  e: frog
+  p: noun
+  a: ο
+- g: χαμαιλέων
+  e: chameleon
+  p: noun
+- g: ο γάιδαρος
+  e: donkey
+  p: noun
+  a: ο
+- g: ο ρινόκερος
+  e: rhinoceros
+  p: noun
+  a: ο
+- g: η κατσίκα
+  e: goat
+  p: noun
+  a: η
+- g: ο ιπποπόταμος
+  e: hippopotamus
+  p: noun
+  a: ο
+- g: γεράκι
+  e: hawk, falcon
+  p: noun
+- g: η ολιγαρχία
+  e: oligarchy
+  p: noun
+  a: η
+- g: ο κράτος
+  e: nation, state (n)
+  p: noun
+  a: ο
+- g: εθνικός
+  e: national
+  p: noun
+- g: η επιχείρηση
+  e: business
+  p: noun
+  a: η
+- g: στρατός
+  e: army
+  p: noun
+- g: ο υποψήφιος
+  e: candidate, nominee
+  p: noun
+  a: ο
+- g: ο ψήφος
+  e: vote (f)
+  p: noun
+  a: ο
+- g: η αριστοκρατία
+  e: aristocracy
+  p: noun
+  a: η
+- g: σημαίνει
+  e: (it) means
+  p: noun
+- g: ο δήμαρχος
+  e: mayor
+  p: noun
+  a: ο
+- g: η βία
+  e: violence
+  p: noun
+  a: η
+- g: το έγκλημα
+  e: crime (n)
+  p: noun
+  a: το
+- g: το δικαστήριο
+  e: court
+  p: noun
+  a: το
+- g: η κοινοβούλια
+  e: parliaments
+  p: noun
+  a: η
+- g: η δημοκρατία
+  e: democracy
+  p: noun
+  a: η
+- g: κογκρέσου
+  e: congress
+  p: noun
+- g: νόμοι
+  e: laws
+  p: noun
+- g: ο εκλογές
+  e: elections
+  p: noun
+  a: ο
+- g: υπουργός
+  e: minister, secretary (political)
+  p: noun
+- g: ο πρόεδρος
+  e: president
+  p: noun
+  a: ο
+- g: πρωθυπουργός
+  e: prime minister
+  p: noun
+- g: κυβερνήτης
+  e: governor
+  p: noun
+- g: η ασφάλεια
+  e: safety
+  p: noun
+  a: η
+- g: επενδύσεις
+  e: investments
+  p: noun
+- g: το πυρίτιο
+  e: silicon
+  p: noun
+  a: το
+- g: το μέταλλο
+  e: metal
+  p: noun
+  a: το
+- g: το αέριο
+  e: gas
+  p: noun
+  a: το
+- g: ρουμπίνι
+  e: ruby
+  p: noun
+- g: διαμάντι
+  e: diamond
+  p: noun
+- g: το χάλκινο
+  e: copper [adj.]
+  p: noun
+  a: το
+- g: πλαστικό
+  e: plastic
+  p: noun
+- g: ο κρύσταλλος
+  e: crystal (f)
+  p: noun
+  a: ο
+- g: ασήμι
+  e: silver
+  p: noun
+- g: χαλκός
+  e: copper [noun]
+  p: noun
+- g: το αλουμίνιο
+  e: aluminum
+  p: noun
+  a: το
+- g: το γυαλί
+  e: glass (material)
+  p: noun
+  a: το
+- g: το τσιμέντο
+  e: cement
+  p: noun
+  a: το
+- g: ο σίδηρος
+  e: iron
+  p: noun
+  a: ο
+- g: χρυσός
+  e: gold
+  p: noun
+- g: σμαράγδι
+  e: emerald
+  p: noun
+- g: στερεό
+  e: solid
+  p: noun
+- g: το μόριο
+  e: molecule
+  p: noun
+  a: το
+- g: ορυκτό
+  e: mineral, ore
+  p: noun
+- g: υγρό
+  e: liquid
+  p: noun
+- g: κεραμικό
+  e: ceramic
+  p: noun
+- g: υλικό
+  e: material
+  p: noun
+- g: η πιστωτική κάρτα
+  e: credit card
+  p: noun
+  a: η
+- g: επιταγή
+  e: cheque
+  p: noun
+- g: η αποταμίευση
+  e: saving (money)
+  p: noun
+  a: η
+- g: το χρηματιστήριο
+  e: stock market
+  p: noun
+  a: το
+- g: το πλεόνασμα
+  e: surplus (n)
+  p: noun
+  a: το
+- g: η χρέη
+  e: debts
+  p: noun
+  a: η
+- g: το νόμισμα
+  e: currency (n)
+  p: noun
+  a: το
+- g: πληθωρισμός
+  e: inflation
+  p: noun
+- g: λογαριασμός
+  e: account
+  p: noun
+- g: οικονομικός
+  e: financial
+  p: noun
+- g: το χρήμα
+  e: money (n)
+  p: noun
+  a: το
+- g: η κρίση
+  e: crisis
+  p: noun
+  a: η
+- g: νομισματική
+  e: monetary
+  p: noun
+- g: το δάνειο
+  e: loan
+  p: noun
+  a: το
+- g: το όριο
+  e: limit
+  p: noun
+  a: το
+- g: επιστημονική
+  e: scientific
+  p: noun
+- g: η μείωση
+  e: decrease
+  p: noun
+  a: η
+- g: η ταχύτητα
+  e: speed
+  p: noun
+  a: η
+- g: η ανακάλυψη
+  e: discovery
+  p: noun
+  a: η
+- g: η ποσότητα
+  e: quantity
+  p: noun
+  a: η
+- g: ορισμός
+  e: definition
+  p: noun
+- g: η τεχνολογία
+  e: technology
+  p: noun
+  a: η
+- g: ο επιστήμονας
+  e: scientist
+  p: noun
+  a: ο
+- g: η ανάλυση
+  e: analysis
+  p: noun
+  a: η
+- g: η εφεύρεση
+  e: invention
+  p: noun
+  a: η
+- g: η βιολογία
+  e: biology
+  p: noun
+  a: η
+- g: ο όγκος
+  e: volume
+  p: noun
+  a: ο
+- g: λεπτομέρειες
+  e: details
+  p: noun
+- g: η επιστήμη
+  e: science
+  p: noun
+  a: η
+- g: η επιφάνεια
+  e: surface
+  p: noun
+  a: η
+- g: η γεωγραφία
+  e: geography
+  p: noun
+  a: η
+- g: τεχνική
+  e: technique
+  p: noun
+- g: η ενέργεια
+  e: energy
+  p: noun
+  a: η
+- g: ο κύκλος
+  e: circle
+  p: noun
+  a: ο
+- g: η μάζα
+  e: mass
+  p: noun
+  a: η
+- g: η χημεία
+  e: chemistry
+  p: noun
+  a: η
+- g: ηλεκτρισμός
+  e: electricity
+  p: noun
+- g: το συμπέρασμα
+  e: conclusion (n)
+  p: noun
+  a: το
+- g: ο βάρος
+  e: weight (n)
+  p: noun
+  a: ο
+- g: η ποιότητα
+  e: quality
+  p: noun
+  a: η
+- g: η μονάδα
+  e: unit
+  p: noun
+  a: η
+- g: το εργαστήριο
+  e: laboratory
+  p: noun
+  a: το
+- g: το δείγμα
+  e: sample (n)
+  p: noun
+  a: το
+- g: φυσική
+  e: physics
+  p: noun
+- g: η αύξηση
+  e: increase
+  p: noun
+  a: η
+- g: η αιτία
+  e: cause
+  p: noun
+  a: η
+- g: ο βάθος
+  e: depth (n)
+  p: noun
+  a: ο
+- g: ο μέθοδος
+  e: method
+  p: noun
+  a: ο
+- g: μοίρες
+  e: degrees (angle)
+  p: noun
+- g: ο κύβος
+  e: cube
+  p: noun
+  a: ο
+- g: γεωμετρικό
+  e: geometric
+  p: noun
+- g: τριγωνικό
+  e: triangular
+  p: noun
+- g: η μαθηματικά
+  e: mathematics
+  p: noun
+  a: η
+- g: πολλαπλασιασμός
+  e: multiplication
+  p: noun
+- g: η ακτίνα
+  e: radius
+  p: noun
+  a: η
+- g: η πρόσθεση
+  e: addition
+  p: noun
+  a: η
+- g: η τετραγωνική ρίζα
+  e: square root
+  p: noun
+  a: η
+- g: το κλάσμα
+  e: fraction (n)
+  p: noun
+  a: το
+- g: η διαίρεση
+  e: division
+  p: noun
+  a: η
+- g: η άλγεβρα
+  e: algebra
+  p: noun
+  a: η
+- g: το ορθογώνιο
+  e: rectangle
+  p: noun
+  a: το
+- g: το τετράγωνο
+  e: square (shape)
+  p: noun
+  a: το
+- g: η πυραμίδα
+  e: pyramid
+  p: noun
+  a: η
+- g: η αφαίρεση
+  e: subtraction
+  p: noun
+  a: η
+- g: η γεωμετρία
+  e: geometry
+  p: noun
+  a: η
+- g: το τρίγωνο
+  e: triangle
+  p: noun
+  a: το
+- g: το πολύγωνο
+  e: polygon
+  p: noun
+  a: το
+- g: το πυθαγόρειο θεώρημα
+  e: Pythagorean theorem
+  p: noun
+  a: το
+- g: θα έχω τελειώσει
+  e: (I) will have finished
+  p: noun
+- g: θα έχω δει
+  e: (I) will have seen
+  p: noun
+- g: θα έχω φέρει
+  e: (I) will have brought
+  p: noun
+- g: θα έχω βρει
+  e: (I) will have found
+  p: noun
+- g: θα έχω αγοράσει
+  e: (I) will have bought
+  p: noun
+- g: θα έχω διαβάσει
+  e: (I) will have read
+  p: noun
+- g: θα έχω πει
+  e: (I) will have said
+  p: noun
+- g: θα έχω μιλήσει
+  e: (I) will have spoken
+  p: noun
+- g: θα έχω γράψει
+  e: (I) will have written
+  p: noun
+- g: θα έχω φύγει
+  e: (I) will have left
+  p: noun
+- g: θα έχω έρθει
+  e: (I) will have came
+  p: noun
+- g: θα έχω φάει
+  e: (I) will have eaten
+  p: noun
+- g: ο βέλος
+  e: arrow (n)
+  p: noun
+  a: ο
+- g: δόρυ
+  e: spear
+  p: noun
+- g: μοχθηρός
+  e: vicious
+  p: noun
+- g: η μάχη
+  e: battle
+  p: noun
+  a: η
+- g: το σπαθί
+  e: sword
+  p: noun
+  a: το
+- g: ο πρίγκιπας
+  e: prince
+  p: noun
+  a: ο
+- g: τραυμάτισε
+  e: (it) injured
+  p: noun
+- g: το όπλο
+  e: weapon
+  p: noun
+  a: το
+- g: η ασπίδα
+  e: shield
+  p: noun
+  a: η
+- g: θησαυρός
+  e: treasure
+  p: noun
+- g: βασιλιάς
+  e: king
+  p: noun
+- g: η αντίσταση
+  e: resistance
+  p: noun
+  a: η
+- g: ο δράκος
+  e: dragon
+  p: noun
+  a: ο
+- g: γαλλική
+  e: French
+  p: noun
+- g: ιππότης
+  e: knight
+  p: noun
+- g: ο εγκαταλειμμένος
+  e: abandoned
+  p: noun
+  a: ο
+- g: ναός
+  e: temple
+  p: noun
+- g: το τόξο
+  e: bow
+  p: noun
+  a: το
+- g: η επανάσταση
+  e: revolution
+  p: noun
+  a: η
+- g: σκοτώνω
+  e: (I) kill
+  p: verb
+  conj:
+    future: {1p: θα σκοτώσουμε, 1s: θα σκοτώσω, 2p: θα σκοτώσετε, 2s: θα σκοτώσεις,
+      3p: θα σκοτώσουν, 3s: θα σκοτώσει}
+    past: {1p: σκοτώσαμε, 1s: σκότωσα, 2p: σκοτώσατε, 2s: σκότωσες, 3p: σκότωσαν,
+      3s: σκότωσε}
+    present: {1p: σκοτώνουμε, 1s: σκοτώνω, 2p: σκοτώνετε, 2s: σκοτώνεις, 3p: σκοτώνουν,
+      3s: σκοτώνει}
+- g: κανόνι
+  e: cannon
+  p: noun
+- g: στρατηγός
+  e: general (military)
+  p: noun
+- g: ο πολεμιστής
+  e: warrior
+  p: noun
+  a: ο
+- g: το φρούριο
+  e: fortress
+  p: noun
+  a: το
+- g: η αρχαία ελλάδα
+  e: Ancient Greece
+  p: noun
+  a: η
+- g: νεκρός
+  e: dead
+  p: noun
+- g: θεός
+  e: god
+  p: noun
+- g: παρελθόν
+  e: past
+  p: noun
+- g: μέλλον
+  e: future [noun]
+  p: noun
+- g: το στοιχειωμένο
+  e: haunted
+  p: noun
+  a: το
+- g: παρόν
+  e: present
+  p: noun
+- g: η μετενσάρκωση
+  e: reincarnation
+  p: noun
+  a: η
+- g: ο μάγος
+  e: wizard
+  p: noun
+  a: ο
+- g: ο πρόγονος
+  e: ancestor
+  p: noun
+  a: ο
+- g: το φάντασμα
+  e: ghost (n)
+  p: noun
+  a: το
+- g: η ψυχολογία
+  e: psychology
+  p: noun
+  a: η
+- g: η κατάθλιψη
+  e: depression
+  p: noun
+  a: η
+- g: η προκατάληψη
+  e: prejudice
+  p: noun
+  a: η
+- g: αρετή
+  e: virtue
+  p: noun
+- g: η μοίρα
+  e: fate
+  p: noun
+  a: η
+- g: η δεισιδαιμονία
+  e: superstition
+  p: noun
+  a: η
+- g: το δολάριο
+  e: dollar
+  p: noun
+  a: το
+- g: οργανισμός
+  e: organisation
+  p: noun
+- g: η βιομηχανία
+  e: industry
+  p: noun
+  a: η
+- g: ευρώ
+  e: euro(s)
+  p: verb
+- g: τιμή
+  e: price
+  p: noun
+- g: ο παγκόσμιος
+  e: global
+  p: noun
+  a: ο
+- g: κοστίζει
+  e: (it) costs
+  p: noun
+- g: ο κόστος
+  e: cost (n)
+  p: noun
+  a: ο
+- g: η πώληση
+  e: sale (transaction)
+  p: noun
+  a: η
+- g: η προώθηση
+  e: promotion (marketing)
+  p: noun
+  a: η
+- g: το εμπόριο
+  e: trade, commerce
+  p: noun
+  a: το
+- g: προϊόν
+  e: product (n)
+  p: noun
+- g: η μάρκα
+  e: brand
+  p: noun
+  a: η
+- g: η συνάνρτηση
+  e: meeting
+  p: noun
+  a: η
+- g: μπορούν
+  e: (they) can
+  p: noun
+- g: θα μπορέσω
+  e: (I) will be able
+  p: verb
+- g: δεν μπορούμε
+  e: (we) cannot
+  p: noun
+- g: θα μπορούσες
+  e: (you) could [sing.]
+  p: noun
+- g: θα μπορέσει
+  e: (it) will be able
+  p: noun
+- g: η θα μπορούσα
+  e: (I) could
+  p: noun
+  a: η
+- g: δεν μπορώ
+  e: (I) cannot
+  p: verb
+- g: η αποσύνδεση
+  e: disconnection
+  p: noun
+  a: η
+- g: η βιντεοκλήση
+  e: video call
+  p: noun
+  a: η
+- g: χρήστης
+  e: user
+  p: noun
+- g: η ειδοποίηση
+  e: notification
+  p: noun
+  a: η
+- g: κοινοποιώ
+  e: (I) share
+  p: verb
+  conj:
+    future: {1p: θα κοινοποιήσουμε, 1s: θα κοινοποιήσω, 2p: θα κοινοποιήσετε, 2s: θα
+        κοινοποιήσεις, 3p: θα κοινοποιήσουν, 3s: θα κοινοποιήσει}
+    past: {1p: κοινοποιήσαμε, 1s: κοινοποίησα, 2p: κοινοποιήσατε, 2s: κοινοποίησες,
+      3p: κοινοποίησα, 3s: κοινοποίησε}
+    present: {1p: κοινοποιούμε, 1s: κοινοποιώ, 2p: κοινοποιείτε, 2s: κοινοποιείς,
+      3p: κοινοποιούν, 3s: κοινοποιεί}
+- g: η ηλεκτρονική αλληλογραφία
+  e: email
+  p: noun
+  a: η
+- g: ο αίτημα φιλίας
+  e: friend request
+  p: noun
+  a: ο
+- g: η κοινωνικά δίκτυα
+  e: social media
+  p: noun
+  a: η
+- g: η θέαση
+  e: view (internet)
+  p: noun
+  a: η
+- g: η σύδεση
+  e: login
+  p: noun
+  a: η
+- g: εκτός σύνδεσης
+  e: offline
+  p: noun
+- g: ανέβηκε
+  e: (it) was uploaded
+  p: noun
+- g: η σύνδεση
+  e: link
+  p: noun
+  a: η
+- g: η απενεργοποίηση
+  e: deactivation
+  p: noun
+  a: η
+- g: κλικάρω
+  e: (I) click
+  p: verb
+- g: η σε σύνδεση
+  e: online
+  p: noun
+  a: η
+- g: ρούτερ
+  e: router
+  p: noun
+- g: μπλοκάρω
+  e: (Ι) block
+  p: verb
+- g: το βίντεο
+  e: video(s)
+  p: noun
+  a: το
+- g: εφαρμογή
+  e: application
+  p: noun
+- g: διαγραφή
+  e: deletion
+  p: noun
+- g: κοινοποιήσεις
+  e: shares (social media)
+  p: noun
+- g: η νικήτρια
+  e: winner [f.]
+  p: noun
+  a: η
+- g: ο νικητής
+  e: winner [m.]
+  p: noun
+  a: ο
+- g: η αποφοίτηση
+  e: graduation
+  p: noun
+  a: η
+- g: φεστιβάλ
+  e: festival
+  p: noun
+- g: η κλήρωση
+  e: prize draw
+  p: noun
+  a: η
+- g: προσκαλέσω
+  e: (I) invite
+  p: verb
+- g: ο μαραθώνιος
+  e: marathon
+  p: noun
+  a: ο
+- g: γιορτή
+  e: celebration
+  p: noun
+- g: το εκδοτήριο
+  e: ticket office
+  p: noun
+  a: το
+- g: φορτηγό
+  e: truck, lorry, van
+  p: noun
+- g: το υποβρύχιο
+  e: submarine
+  p: noun
+  a: το
+- g: ελέγχουν
+  e: (they) control
+  p: noun
+- g: η βενζίνη
+  e: petrol, gasoline
+  p: noun
+  a: η
+- g: το τραίνο
+  e: train
+  p: noun
+  a: το
+- g: ο κράνος
+  e: helmet (n)
+  p: noun
+  a: ο
+- g: τιμόνι
+  e: steering wheel
+  p: noun
+- g: το πεζοδρόμιο
+  e: pavement
+  p: noun
+  a: το
+- g: η διόδια
+  e: tolls
+  p: noun
+  a: η
+- g: ο αποσκευές
+  e: luggage
+  p: noun
+  a: ο
+- g: αεροσυνοδός
+  e: flight attendant (f)
+  p: noun
+- g: αμάξι
+  e: car
+  p: noun
+- g: το καύσιμο
+  e: fuel
+  p: noun
+  a: το
+- g: η νταλίκα
+  e: trailer truck, articulated lorry
+  p: noun
+  a: η
+- g: τραμ
+  e: tram
+  p: noun
+- g: η φανάρια
+  e: traffic lights
+  p: noun
+  a: η
+- g: το ελικόπτερο
+  e: helicopter
+  p: noun
+  a: το
+- g: μέσα μαζικής μεταφοράς
+  e: public transportation
+  p: noun
+- g: μηχανάκι
+  e: motorbike
+  p: noun
+- g: τρακτέρ
+  e: tractor
+  p: noun
+- g: ο φιλόσοφος
+  e: philosopher
+  p: noun
+  a: ο
+- g: θετικισμός
+  e: positivism
+  p: noun
+- g: η είδη
+  e: kinds
+  p: noun
+  a: η
+- g: δομισμός
+  e: structuralism
+  p: noun
+- g: διαλεκτική
+  e: dialectic
+  p: noun
+- g: ο ρεαλιστής
+  e: realist(ic)
+  p: noun
+  a: ο
+- g: η πολιτική φιλοσοφία
+  e: political philosophy
+  p: noun
+  a: η
+- g: το νόημα
+  e: meaning (n)
+  p: noun
+  a: το
+- g: η θεωρία
+  e: theory
+  p: noun
+  a: η
+- g: ο μύθος
+  e: myth
+  p: noun
+  a: ο
+- g: ηθική
+  e: ethics
+  p: noun
+- g: ο ιδρυτής
+  e: founder
+  p: noun
+  a: ο
+- g: ο πεσιμιστής
+  e: pessimist(ic)
+  p: noun
+  a: ο
+- g: η ακαδημία
+  e: academy
+  p: noun
+  a: η
+- g: το συναίσθημα
+  e: feeling (n)
+  p: noun
+  a: το
+- g: ο σκεπτικιστής
+  e: skeptic(al)
+  p: noun
+  a: ο
+- g: λογική
+  e: logic
+  p: noun
+- g: διαφωτισμός
+  e: enlightenment
+  p: noun
+- g: ο οπτιμιστής
+  e: optimist(ic)
+  p: noun
+  a: ο
+- g: το υποσυνείδητο
+  e: subconscious
+  p: noun
+  a: το
+- g: ουμανισμός
+  e: humanism
+  p: noun
+- g: ηδονή
+  e: pleasure (sensual)
+  p: noun
+- g: προτεσταντισμός
+  e: Protestantism
+  p: noun
+- g: ιουδαϊσμός
+  e: Judaism
+  p: noun
+- g: χριστιανικό
+  e: Christian [adj.]
+  p: noun
+- g: ο βίβλος
+  e: Βible (f)
+  p: noun
+  a: ο
+- g: προφήτης
+  e: prophet
+  p: noun
+- g: η χριστούγεννα
+  e: Christmas
+  p: noun
+  a: η
+- g: ινδουισμός
+  e: Hinduism
+  p: noun
+- g: η πάσχα
+  e: Easter (n)
+  p: noun
+  a: η
+- g: το τζαμί
+  e: mosque
+  p: noun
+  a: το
+- g: ο άγγελος
+  e: angel
+  p: noun
+  a: ο
+- g: ο μουσουλμάνος
+  e: Muslim
+  p: noun
+  a: ο
+- g: παπάς
+  e: priest
+  p: noun
+- g: η ανεξιθρησκεία
+  e: religious tolerance
+  p: noun
+  a: η
+- g: κοράνι
+  e: Koran
+  p: noun
+- g: ισλάμ
+  e: Islam
+  p: noun
+- g: ο ιουδαίος
+  e: Jew
+  p: noun
+  a: ο
+- g: ιερό
+  e: holy
+  p: noun
+- g: χριστιανός
+  e: Christian [noun]
+  p: noun
+- g: παγανισμός
+  e: paganism
+  p: noun
+- g: μονή
+  e: convent
+  p: noun
+- g: ο άθεος
+  e: atheist
+  p: noun
+  a: ο
+- g: σταυρός
+  e: cross
+  p: noun
+- g: βουδισμός
+  e: Buddhism
+  p: noun
+- g: ο αγνωστικιστής
+  e: agnostic
+  p: noun
+  a: ο
+- g: συναγωγή
+  e: synagogue
+  p: noun
+- g: καθολικισμός
+  e: Catholicism
+  p: noun
+- g: μοναστήρι
+  e: monastery
+  p: noun
+- g: χριστιανισμός
+  e: Christianity
+  p: noun
+- g: η ορθοδοξία
+  e: Orthodoxy
+  p: noun
+  a: η
+- g: προστάτης
+  e: protector, patron
+  p: noun
+- g: ο άγιος
+  e: saint
+  p: noun
+  a: ο
+- g: θα μπορούσα να είχα μαγειρέψει
+  e: (I) could have cooked
+  p: noun
+- g: θα μπορούσα να είχα δώσει
+  e: (I) could have given
+  p: noun
+- g: θα μπορούσα να είχα προσπαθήσει
+  e: (I) could have tried
+  p: noun
+- g: θα μπορούσα να είχα ρωτήσει
+  e: (I) could have asked
+  p: noun
+- g: θα μπορούσα να είχα φάει
+  e: (I) could have eaten
+  p: noun
+- g: διάσημο
+  e: famous, celebrated
+  p: adjective
+- g: δάσος
+  e: forest
+  p: noun
+  a: το
+  c: nature
+- g: καλαθάκι
+  e: small basket
+  p: noun
+  a: το
+  c: general
+- g: άρρωστος
+  e: sick, ill
+  p: adjective
+  c: health
+- g: καημένος
+  e: poor thing, unfortunate
+  p: adjective
+  c: emotions
+- g: υπόσχομαι
+  e: to promise
+  p: verb
+  c: social
+- g: άκρη
+  e: edge, side, end
+  p: noun
+  a: η
+  c: place
+- g: κατακόκκινος
+  e: bright red, deep red
+  p: adjective
+  c: colors
+- g: δοκιμάζω
+  e: to try, to taste, to test
+  p: verb
+  c: general
+- g: θυμάμαι
+  e: to remember
+  p: verb
+  c: general
+- g: συμβουλή
+  e: advice
+  p: noun
+  a: η
+  c: social
