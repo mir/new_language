@@ -1,2 +1,4 @@
 db/conjugation_cache/
+*.db-wal
+*.db-shm
 .DS_Store

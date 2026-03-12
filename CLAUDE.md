@@ -6,7 +6,7 @@ SQLite-based Greek vocabulary database targeting CEFR B1 level with verb conjuga
 
 ## Key Paths
 
-- `db/greek_b1.db` — main SQLite database (2172 words, 2706 conjugations)
+- `db/greek_b1.db` — main SQLite database (2134 words, 2898 conjugations)
 - `db/conjugation_cache/` — cached Cooljugator HTML pages
 - `scripts/` — database creation and population scripts
 
