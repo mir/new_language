@@ -1,4 +1,28 @@
-db/conjugation_cache/
-*.db-wal
-*.db-shm
+# Generated project data
+/db/conjugation_cache/
+/db/greek_b1.yml
+/db/*.db-wal
+/db/*.db-shm
+/db/*.db-journal
+
+# Python cache and test output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Local tool/editor settings
+.claude/settings.local.json
+.idea/
+.vscode/
+
+# OS files
 .DS_Store
